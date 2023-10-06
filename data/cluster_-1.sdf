@@ -1,0 +1,6217 @@
+CHEMBL479
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+    0.7500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+  9 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+  8  3  1  0
+ 17 12  1  0
+ 24 19  1  0
+ 25  6  1  0
+M  END
+>  <Unnamed: 0>  (1) 
+0
+
+>  <atc_classifications>  (1) 
+['N05AC02']
+
+>  <availability_type>  (1) 
+-2
+
+>  <biotherapeutic>  (1) 
+nan
+
+>  <black_box_warning>  (1) 
+1
+
+>  <chebi_par_id>  (1) 
+9566.0
+
+>  <chemical_probe>  (1) 
+0
+
+>  <chirality>  (1) 
+0
+
+>  <cross_references>  (1) 
+[{'xref_id': 'thioridazine%20hydrochloride', 'xref_name': 'thioridazine hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': '104171257', 'xref_name': 'SID: 104171257', 'xref_src': 'PubChem'}, {'xref_id': '124881748', 'xref_name': 'SID: 124881748', 'xref_src': 'PubChem'}, {'xref_id': '144203845', 'xref_name': 'SID: 144203845', 'xref_src': 'PubChem'}, {'xref_id': '170465080', 'xref_name': 'SID: 170465080', 'xref_src': 'PubChem'}, {'xref_id': '174006671', 'xref_name': 'SID: 174006671', 'xref_src': 'PubChem'}, {'xref_id': '26752322', 'xref_name': 'SID: 26752322', 'xref_src': 'PubChem'}, {'xref_id': '50105272', 'xref_name': 'SID: 50105272', 'xref_src': 'PubChem'}, {'xref_id': '90341630', 'xref_name': 'SID: 90341630', 'xref_src': 'PubChem'}, {'xref_id': '38', 'xref_name': 'thioridazine', 'xref_src': 'TG-GATEs'}, {'xref_id': 'Thioridazine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (1) 
+True
+
+>  <first_approval>  (1) 
+1962.0
+
+>  <first_in_class>  (1) 
+0
+
+>  <helm_notation>  (1) 
+nan
+
+>  <indication_class>  (1) 
+Antipsychotic; Sedative-Hypnotic,Sedative-Hypnotic; Antipsychotic
+
+>  <inorganic_flag>  (1) 
+0
+
+>  <max_phase>  (1) 
+4.0
+
+>  <molecule_hierarchy>  (1) 
+{'active_chembl_id': 'CHEMBL479', 'molecule_chembl_id': 'CHEMBL479', 'parent_chembl_id': 'CHEMBL479'}
+
+>  <molecule_properties>  (1) 
+{'alogp': '5.89', 'aromatic_rings': 2, 'cx_logd': '3.93', 'cx_logp': '5.47', 'cx_most_apka': None, 'cx_most_bpka': '8.93', 'full_molformula': 'C21H26N2S2', 'full_mwt': '370.59', 'hba': 4, 'hba_lipinski': 2, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 25, 'molecular_species': 'BASE', 'mw_freebase': '370.59', 'mw_monoisotopic': '370.1537', 'np_likeness_score': '-1.03', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '6.48', 'qed_weighted': '0.62', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (1) 
+[{'molecule_synonym': 'Dl-thioridazine', 'syn_type': 'OTHER', 'synonyms': 'DL-THIORIDAZINE'}, {'molecule_synonym': 'Mellaril', 'syn_type': 'OTHER', 'synonyms': 'Mellaril'}, {'molecule_synonym': 'Mellaril', 'syn_type': 'TRADE_NAME', 'synonyms': 'Mellaril'}, {'molecule_synonym': 'Mellaril-s', 'syn_type': 'TRADE_NAME', 'synonyms': 'MELLARIL-S'}, {'molecule_synonym': 'Mellerette', 'syn_type': 'OTHER', 'synonyms': 'MELLERETTE'}, {'molecule_synonym': 'Melleril', 'syn_type': 'TRADE_NAME', 'synonyms': 'MELLERIL'}, {'molecule_synonym': 'Novoridazine', 'syn_type': 'OTHER', 'synonyms': 'NOVORIDAZINE'}, {'molecule_synonym': 'Rideril', 'syn_type': 'TRADE_NAME', 'synonyms': 'RIDERIL'}, {'molecule_synonym': 'Sonapax', 'syn_type': 'OTHER', 'synonyms': 'SONAPAX'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'ATC', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'BAN', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'BNF', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'FDA', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'INN', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'OTHER', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'USAN', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine', 'syn_type': 'USP', 'synonyms': 'THIORIDAZINE'}, {'molecule_synonym': 'Thioridazine prolongatum', 'syn_type': 'OTHER', 'synonyms': 'THIORIDAZINE PROLONGATUM'}, {'molecule_synonym': 'Thioril', 'syn_type': 'OTHER', 'synonyms': 'THIORIL'}, {'molecule_synonym': 'TP-21', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'TP-21'}]
+
+>  <molecule_type>  (1) 
+Small molecule
+
+>  <natural_product>  (1) 
+1
+
+>  <oral>  (1) 
+True
+
+>  <parenteral>  (1) 
+False
+
+>  <polymer_flag>  (1) 
+0
+
+>  <pref_name>  (1) 
+THIORIDAZINE
+
+>  <prodrug>  (1) 
+0
+
+>  <structure_type>  (1) 
+MOL
+
+>  <therapeutic_flag>  (1) 
+True
+
+>  <topical>  (1) 
+False
+
+>  <usan_stem>  (1) 
+nan
+
+>  <usan_stem_definition>  (1) 
+nan
+
+>  <usan_substem>  (1) 
+nan
+
+>  <usan_year>  (1) 
+1962.0
+
+>  <withdrawn_flag>  (1) 
+True
+
+>  <smiles>  (1) 
+CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2
+
+>  <cluster>  (1) 
+-1
+
+$$$$
+CHEMBL71
+     RDKit          2D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+    7.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 18 20  1  0
+ 20 21  2  0
+ 21  7  1  0
+ 13  8  1  0
+ 21 15  1  0
+M  END
+>  <Unnamed: 0>  (2) 
+1
+
+>  <atc_classifications>  (2) 
+['N05AA01']
+
+>  <availability_type>  (2) 
+1
+
+>  <biotherapeutic>  (2) 
+nan
+
+>  <black_box_warning>  (2) 
+1
+
+>  <chebi_par_id>  (2) 
+3647.0
+
+>  <chemical_probe>  (2) 
+0
+
+>  <chirality>  (2) 
+2
+
+>  <cross_references>  (2) 
+[{'xref_id': 'chlorpromazine%20hydrochloride', 'xref_name': 'chlorpromazine hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': '104171139', 'xref_name': 'SID: 104171139', 'xref_src': 'PubChem'}, {'xref_id': '11110990', 'xref_name': 'SID: 11110990', 'xref_src': 'PubChem'}, {'xref_id': '11110991', 'xref_name': 'SID: 11110991', 'xref_src': 'PubChem'}, {'xref_id': '124879752', 'xref_name': 'SID: 124879752', 'xref_src': 'PubChem'}, {'xref_id': '124879754', 'xref_name': 'SID: 124879754', 'xref_src': 'PubChem'}, {'xref_id': '124879757', 'xref_name': 'SID: 124879757', 'xref_src': 'PubChem'}, {'xref_id': '144203671', 'xref_name': 'SID: 144203671', 'xref_src': 'PubChem'}, {'xref_id': '152146164', 'xref_name': 'SID: 152146164', 'xref_src': 'PubChem'}, {'xref_id': '170465371', 'xref_name': 'SID: 170465371', 'xref_src': 'PubChem'}, {'xref_id': '26747094', 'xref_name': 'SID: 26747094', 'xref_src': 'PubChem'}, {'xref_id': '26747095', 'xref_name': 'SID: 26747095', 'xref_src': 'PubChem'}, {'xref_id': '26751620', 'xref_name': 'SID: 26751620', 'xref_src': 'PubChem'}, {'xref_id': '26751621', 'xref_name': 'SID: 26751621', 'xref_src': 'PubChem'}, {'xref_id': '50100209', 'xref_name': 'SID: 50100209', 'xref_src': 'PubChem'}, {'xref_id': '50104291', 'xref_name': 'SID: 50104291', 'xref_src': 'PubChem'}, {'xref_id': '57287810', 'xref_name': 'SID: 57287810', 'xref_src': 'PubChem'}, {'xref_id': '90340916', 'xref_name': 'SID: 90340916', 'xref_src': 'PubChem'}, {'xref_id': '16', 'xref_name': 'chlorpromazine', 'xref_src': 'TG-GATEs'}, {'xref_id': 'Chlorpromazine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (2) 
+True
+
+>  <first_approval>  (2) 
+1957.0
+
+>  <first_in_class>  (2) 
+0
+
+>  <helm_notation>  (2) 
+nan
+
+>  <indication_class>  (2) 
+Antipsychotic; Anti-Emetic
+
+>  <inorganic_flag>  (2) 
+0
+
+>  <max_phase>  (2) 
+4.0
+
+>  <molecule_hierarchy>  (2) 
+{'active_chembl_id': 'CHEMBL71', 'molecule_chembl_id': 'CHEMBL71', 'parent_chembl_id': 'CHEMBL71'}
+
+>  <molecule_properties>  (2) 
+{'alogp': '4.89', 'aromatic_rings': 2, 'cx_logd': '2.74', 'cx_logp': '4.54', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C17H19ClN2S', 'full_mwt': '318.87', 'hba': 3, 'hba_lipinski': 2, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 21, 'molecular_species': 'BASE', 'mw_freebase': '318.87', 'mw_monoisotopic': '318.0957', 'np_likeness_score': '-1.54', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '6.48', 'qed_weighted': '0.79', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (2) 
+[{'molecule_synonym': 'Aminazine', 'syn_type': 'OTHER', 'synonyms': 'AMINAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'USAN', 'synonyms': 'Chlorpromazine'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'ATC', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'BAN', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'FDA', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'INN', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'OTHER', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine', 'syn_type': 'USP', 'synonyms': 'CHLORPROMAZINE'}, {'molecule_synonym': 'Chlorpromazine hibenzate', 'syn_type': 'JAN', 'synonyms': 'CHLORPROMAZINE HIBENZATE'}, {'molecule_synonym': 'Chlorpromazine phenolphthalinate', 'syn_type': 'JAN', 'synonyms': 'CHLORPROMAZINE PHENOLPHTHALINATE'}, {'molecule_synonym': 'Chlorpromazine tannate', 'syn_type': 'JAN', 'synonyms': 'CHLORPROMAZINE TANNATE'}, {'molecule_synonym': 'Chlorpromazinum', 'syn_type': 'OTHER', 'synonyms': 'CHLORPROMAZINUM'}, {'molecule_synonym': 'Elmarin', 'syn_type': 'TRADE_NAME', 'synonyms': 'Elmarin'}, {'molecule_synonym': 'Esmind', 'syn_type': 'OTHER', 'synonyms': 'ESMIND'}, {'molecule_synonym': 'Fenactil', 'syn_type': 'OTHER', 'synonyms': 'FENACTIL'}, {'molecule_synonym': 'J2.794D', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'J2.794D'}, {'molecule_synonym': 'Largactil', 'syn_type': 'TRADE_NAME', 'synonyms': 'Largactil'}, {'molecule_synonym': 'Largactilothiazine', 'syn_type': 'OTHER', 'synonyms': 'LARGACTILOTHIAZINE'}, {'molecule_synonym': 'Megaphen', 'syn_type': 'TRADE_NAME', 'synonyms': 'Megaphen'}, {'molecule_synonym': 'Novomazina', 'syn_type': 'OTHER', 'synonyms': 'NOVOMAZINA'}, {'molecule_synonym': 'NSC-167745', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-167745'}, {'molecule_synonym': 'NSC-226514', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-226514'}, {'molecule_synonym': 'Propaphenin', 'syn_type': 'OTHER', 'synonyms': 'PROPAPHENIN'}, {'molecule_synonym': 'Sanopron', 'syn_type': 'OTHER', 'synonyms': 'SANOPRON'}, {'molecule_synonym': 'SKF-2601A', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'SKF-2601A'}, {'molecule_synonym': 'Sonazine', 'syn_type': 'OTHER', 'synonyms': 'Sonazine'}, {'molecule_synonym': 'Thorazine', 'syn_type': 'TRADE_NAME', 'synonyms': 'Thorazine'}, {'molecule_synonym': 'Wintermin', 'syn_type': 'OTHER', 'synonyms': 'WINTERMIN'}]
+
+>  <molecule_type>  (2) 
+Small molecule
+
+>  <natural_product>  (2) 
+1
+
+>  <oral>  (2) 
+True
+
+>  <parenteral>  (2) 
+True
+
+>  <polymer_flag>  (2) 
+0
+
+>  <pref_name>  (2) 
+CHLORPROMAZINE
+
+>  <prodrug>  (2) 
+0
+
+>  <structure_type>  (2) 
+MOL
+
+>  <therapeutic_flag>  (2) 
+True
+
+>  <topical>  (2) 
+True
+
+>  <usan_stem>  (2) 
+nan
+
+>  <usan_stem_definition>  (2) 
+nan
+
+>  <usan_substem>  (2) 
+nan
+
+>  <usan_year>  (2) 
+nan
+
+>  <withdrawn_flag>  (2) 
+False
+
+>  <smiles>  (2) 
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21
+
+>  <cluster>  (2) 
+-1
+
+$$$$
+CHEMBL490
+     RDKit          2D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+    7.5272    3.5312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4125    4.5348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9859    4.0713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8712    5.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1831    6.5422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0684    7.5459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3802    9.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2655   10.0169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8389    9.5533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271    8.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6418    7.0824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299    5.6152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0967    5.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4086    3.6844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8351    3.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1470    1.7537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943    1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7062    2.6807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2760    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943   -1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6097    7.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7244    6.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  1
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  6
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+  5 23  1  0
+ 23 24  2  0
+ 24  2  1  0
+ 11  6  1  0
+ 19 14  1  0
+ 22 17  1  0
+M  END
+>  <Unnamed: 0>  (3) 
+2
+
+>  <atc_classifications>  (3) 
+['N06AB05']
+
+>  <availability_type>  (3) 
+1
+
+>  <biotherapeutic>  (3) 
+nan
+
+>  <black_box_warning>  (3) 
+1
+
+>  <chebi_par_id>  (3) 
+7936.0
+
+>  <chemical_probe>  (3) 
+0
+
+>  <chirality>  (3) 
+1
+
+>  <cross_references>  (3) 
+[{'xref_id': 'paroxetine%20hydrochloride', 'xref_name': 'paroxetine hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': 'paroxetine%20mesylate', 'xref_name': 'paroxetine mesylate', 'xref_src': 'DailyMed'}, {'xref_id': '144206674', 'xref_name': 'SID: 144206674', 'xref_src': 'PubChem'}, {'xref_id': '170465075', 'xref_name': 'SID: 170465075', 'xref_src': 'PubChem'}, {'xref_id': '26752262', 'xref_name': 'SID: 26752262', 'xref_src': 'PubChem'}, {'xref_id': '29215051', 'xref_name': 'SID: 29215051', 'xref_src': 'PubChem'}, {'xref_id': '50104978', 'xref_name': 'SID: 50104978', 'xref_src': 'PubChem'}, {'xref_id': '50104979', 'xref_name': 'SID: 50104979', 'xref_src': 'PubChem'}, {'xref_id': '50104980', 'xref_name': 'SID: 50104980', 'xref_src': 'PubChem'}, {'xref_id': '50104981', 'xref_name': 'SID: 50104981', 'xref_src': 'PubChem'}, {'xref_id': '90341371', 'xref_name': 'SID: 90341371', 'xref_src': 'PubChem'}, {'xref_id': 'Paroxetine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (3) 
+False
+
+>  <first_approval>  (3) 
+1992.0
+
+>  <first_in_class>  (3) 
+0
+
+>  <helm_notation>  (3) 
+nan
+
+>  <indication_class>  (3) 
+Antidepressant
+
+>  <inorganic_flag>  (3) 
+0
+
+>  <max_phase>  (3) 
+4.0
+
+>  <molecule_hierarchy>  (3) 
+{'active_chembl_id': 'CHEMBL490', 'molecule_chembl_id': 'CHEMBL490', 'parent_chembl_id': 'CHEMBL490'}
+
+>  <molecule_properties>  (3) 
+{'alogp': '3.33', 'aromatic_rings': 2, 'cx_logd': '0.83', 'cx_logp': '3.15', 'cx_most_apka': None, 'cx_most_bpka': '9.77', 'full_molformula': 'C19H20FNO3', 'full_mwt': '329.37', 'hba': 4, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 24, 'molecular_species': 'BASE', 'mw_freebase': '329.37', 'mw_monoisotopic': '329.1427', 'np_likeness_score': '-0.12', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '39.72', 'qed_weighted': '0.93', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (3) 
+[{'molecule_synonym': '(-)3s,4r-paroxetine', 'syn_type': 'OTHER', 'synonyms': '(-)3S,4R-PAROXETINE'}, {'molecule_synonym': 'Arketis', 'syn_type': 'OTHER', 'synonyms': 'ARKETIS'}, {'molecule_synonym': 'Arotin', 'syn_type': 'OTHER', 'synonyms': 'AROTIN'}, {'molecule_synonym': 'Besitram', 'syn_type': 'OTHER', 'synonyms': 'BESITRAM'}, {'molecule_synonym': 'BRL 29060', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'BRL 29060'}, {'molecule_synonym': 'BRL-29060', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'BRL-29060'}, {'molecule_synonym': 'Casbol', 'syn_type': 'OTHER', 'synonyms': 'CASBOL'}, {'molecule_synonym': 'Daparox', 'syn_type': 'OTHER', 'synonyms': 'DAPAROX'}, {'molecule_synonym': 'Fg-7051', 'syn_type': 'OTHER', 'synonyms': 'FG-7051'}, {'molecule_synonym': 'Frosinor', 'syn_type': 'OTHER', 'synonyms': 'FROSINOR'}, {'molecule_synonym': 'Motivan', 'syn_type': 'OTHER', 'synonyms': 'MOTIVAN'}, {'molecule_synonym': 'Parogen', 'syn_type': 'OTHER', 'synonyms': 'PAROGEN'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'FDA', 'synonyms': 'Paroxetine'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'ATC', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'BAN', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'INN', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'OTHER', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'USAN', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paroxetine', 'syn_type': 'USP', 'synonyms': 'PAROXETINE'}, {'molecule_synonym': 'Paxil', 'syn_type': 'OTHER', 'synonyms': 'Paxil'}, {'molecule_synonym': 'Paxil [as hydrochloride]', 'syn_type': 'TRADE_NAME', 'synonyms': 'Paxil [as hydrochloride]'}, {'molecule_synonym': 'Paxpar', 'syn_type': 'OTHER', 'synonyms': 'PAXPAR'}, {'molecule_synonym': 'Pexeva', 'syn_type': 'OTHER', 'synonyms': 'Pexeva'}, {'molecule_synonym': 'Xetanor', 'syn_type': 'OTHER', 'synonyms': 'XETANOR'}]
+
+>  <molecule_type>  (3) 
+Small molecule
+
+>  <natural_product>  (3) 
+1
+
+>  <oral>  (3) 
+True
+
+>  <parenteral>  (3) 
+False
+
+>  <polymer_flag>  (3) 
+0
+
+>  <pref_name>  (3) 
+PAROXETINE
+
+>  <prodrug>  (3) 
+0
+
+>  <structure_type>  (3) 
+MOL
+
+>  <therapeutic_flag>  (3) 
+True
+
+>  <topical>  (3) 
+False
+
+>  <usan_stem>  (3) 
+-oxetine
+
+>  <usan_stem_definition>  (3) 
+antidepressants (fluoxetine type)
+
+>  <usan_substem>  (3) 
+-oxetine
+
+>  <usan_year>  (3) 
+1989.0
+
+>  <withdrawn_flag>  (3) 
+False
+
+>  <smiles>  (3) 
+Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1
+
+>  <cluster>  (3) 
+-1
+
+$$$$
+CHEMBL12713
+     RDKit          2D
+
+ 31 35  0  0  0  0  0  0  0  0999 V2000
+  -10.6747   -1.6579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6747   -3.1579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8882   -4.0396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4247   -5.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9247   -5.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4612   -4.0396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0346   -3.5760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9199   -4.5797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4933   -4.1162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4933   -4.1162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9199   -4.5797    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1814   -2.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7548   -2.1855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1814   -2.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 19 21  1  0
+ 21 22  2  0
+ 15 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  2  0
+ 26 27  1  0
+ 26 28  1  0
+ 28 29  2  0
+ 12 30  1  0
+ 30 31  1  0
+  6  2  1  0
+ 31  9  1  0
+ 29 13  1  0
+ 22 16  1  0
+ 29 23  1  0
+M  END
+>  <Unnamed: 0>  (4) 
+3
+
+>  <atc_classifications>  (4) 
+['N05AE03']
+
+>  <availability_type>  (4) 
+-2
+
+>  <biotherapeutic>  (4) 
+nan
+
+>  <black_box_warning>  (4) 
+0
+
+>  <chebi_par_id>  (4) 
+9122.0
+
+>  <chemical_probe>  (4) 
+0
+
+>  <chirality>  (4) 
+2
+
+>  <cross_references>  (4) 
+[{'xref_id': '144206958', 'xref_name': 'SID: 144206958', 'xref_src': 'PubChem'}, {'xref_id': '144206971', 'xref_name': 'SID: 144206971', 'xref_src': 'PubChem'}, {'xref_id': '170465613', 'xref_name': 'SID: 170465613', 'xref_src': 'PubChem'}, {'xref_id': 'Sertindole', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (4) 
+True
+
+>  <first_approval>  (4) 
+nan
+
+>  <first_in_class>  (4) 
+0
+
+>  <helm_notation>  (4) 
+nan
+
+>  <indication_class>  (4) 
+Antipsychotic; Neuroleptic
+
+>  <inorganic_flag>  (4) 
+0
+
+>  <max_phase>  (4) 
+4.0
+
+>  <molecule_hierarchy>  (4) 
+{'active_chembl_id': 'CHEMBL12713', 'molecule_chembl_id': 'CHEMBL12713', 'parent_chembl_id': 'CHEMBL12713'}
+
+>  <molecule_properties>  (4) 
+{'alogp': '4.63', 'aromatic_rings': 3, 'cx_logd': '2.96', 'cx_logp': '4.15', 'cx_most_apka': None, 'cx_most_bpka': '8.56', 'full_molformula': 'C24H26ClFN4O', 'full_mwt': '440.95', 'hba': 3, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 31, 'molecular_species': 'BASE', 'mw_freebase': '440.95', 'mw_monoisotopic': '440.1779', 'np_likeness_score': '-1.44', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '40.51', 'qed_weighted': '0.63', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (4) 
+[{'molecule_synonym': 'LU 23-174', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LU 23-174'}, {'molecule_synonym': 'LU-23-174', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LU-23-174'}, {'molecule_synonym': 'Serdolect', 'syn_type': 'OTHER', 'synonyms': 'SERDOLECT'}, {'molecule_synonym': 'Serlect', 'syn_type': 'TRADE_NAME', 'synonyms': 'SerLect'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'ATC', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'BAN', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'BNF', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'INN', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'MERCK_INDEX', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'OTHER', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Sertindole', 'syn_type': 'USAN', 'synonyms': 'SERTINDOLE'}, {'molecule_synonym': 'Zerdol', 'syn_type': 'OTHER', 'synonyms': 'ZERDOL'}]
+
+>  <molecule_type>  (4) 
+Small molecule
+
+>  <natural_product>  (4) 
+0
+
+>  <oral>  (4) 
+False
+
+>  <parenteral>  (4) 
+False
+
+>  <polymer_flag>  (4) 
+0
+
+>  <pref_name>  (4) 
+SERTINDOLE
+
+>  <prodrug>  (4) 
+0
+
+>  <structure_type>  (4) 
+MOL
+
+>  <therapeutic_flag>  (4) 
+True
+
+>  <topical>  (4) 
+False
+
+>  <usan_stem>  (4) 
+nan
+
+>  <usan_stem_definition>  (4) 
+nan
+
+>  <usan_substem>  (4) 
+nan
+
+>  <usan_year>  (4) 
+1992.0
+
+>  <withdrawn_flag>  (4) 
+True
+
+>  <smiles>  (4) 
+O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1
+
+>  <cluster>  (4) 
+-1
+
+$$$$
+CHEMBL118
+     RDKit          2D
+
+ 26 28  0  0  0  0  0  0  0  0999 V2000
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8817   -1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3083   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5218   -1.6317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7353   -2.5134    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4035   -0.4182    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6401   -2.8452    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3083    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8817    1.2135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4182    2.6401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9509    2.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4874    4.3786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4911    5.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0276    6.9199    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5641    8.3464    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6010    6.4563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4542    7.3834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9583    5.1814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4218    3.7548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+  8 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 19 21  2  0
+ 19 22  2  0
+ 18 23  1  0
+ 23 24  2  0
+  5 25  1  0
+ 25 26  2  0
+ 26  2  1  0
+ 14  6  1  0
+ 24 15  1  0
+M  END
+>  <Unnamed: 0>  (5) 
+4
+
+>  <atc_classifications>  (5) 
+['M01AH01', 'L01XX33']
+
+>  <availability_type>  (5) 
+1
+
+>  <biotherapeutic>  (5) 
+nan
+
+>  <black_box_warning>  (5) 
+1
+
+>  <chebi_par_id>  (5) 
+41423.0
+
+>  <chemical_probe>  (5) 
+0
+
+>  <chirality>  (5) 
+2
+
+>  <cross_references>  (5) 
+[{'xref_id': 'celecoxib', 'xref_name': 'celecoxib', 'xref_src': 'DailyMed'}, {'xref_id': '144204686', 'xref_name': 'SID: 144204686', 'xref_src': 'PubChem'}, {'xref_id': '144209162', 'xref_name': 'SID: 144209162', 'xref_src': 'PubChem'}, {'xref_id': '144210916', 'xref_name': 'SID: 144210916', 'xref_src': 'PubChem'}, {'xref_id': '170464693', 'xref_name': 'SID: 170464693', 'xref_src': 'PubChem'}, {'xref_id': '17389545', 'xref_name': 'SID: 17389545', 'xref_src': 'PubChem'}, {'xref_id': '26747363', 'xref_name': 'SID: 26747363', 'xref_src': 'PubChem'}, {'xref_id': '49665790', 'xref_name': 'SID: 49665790', 'xref_src': 'PubChem'}, {'xref_id': '49666478', 'xref_name': 'SID: 49666478', 'xref_src': 'PubChem'}, {'xref_id': '535138', 'xref_name': 'SID: 535138', 'xref_src': 'PubChem'}, {'xref_id': 'Celecoxib', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (5) 
+True
+
+>  <first_approval>  (5) 
+1998.0
+
+>  <first_in_class>  (5) 
+0
+
+>  <helm_notation>  (5) 
+nan
+
+>  <indication_class>  (5) 
+nan
+
+>  <inorganic_flag>  (5) 
+0
+
+>  <max_phase>  (5) 
+4.0
+
+>  <molecule_hierarchy>  (5) 
+{'active_chembl_id': 'CHEMBL118', 'molecule_chembl_id': 'CHEMBL118', 'parent_chembl_id': 'CHEMBL118'}
+
+>  <molecule_properties>  (5) 
+{'alogp': '3.51', 'aromatic_rings': 3, 'cx_logd': '4.01', 'cx_logp': '4.01', 'cx_most_apka': '10.60', 'cx_most_bpka': None, 'full_molformula': 'C17H14F3N3O2S', 'full_mwt': '381.38', 'hba': 4, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 2, 'heavy_atoms': 26, 'molecular_species': 'NEUTRAL', 'mw_freebase': '381.38', 'mw_monoisotopic': '381.0759', 'np_likeness_score': '-1.57', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '77.98', 'qed_weighted': '0.75', 'ro3_pass': 'N', 'rtb': 3}
+
+>  <molecule_synonyms>  (5) 
+[{'molecule_synonym': 'Celebra', 'syn_type': 'TRADE_NAME', 'synonyms': 'Celebra'}, {'molecule_synonym': 'Celebrex', 'syn_type': 'TRADE_NAME', 'synonyms': 'Celebrex'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'ATC', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'BAN', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'BNF', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'FDA', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'INN', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'JAN', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'MERCK_INDEX', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'OTHER', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'TRADE_NAME', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'USAN', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'Celecoxib', 'syn_type': 'USP', 'synonyms': 'CELECOXIB'}, {'molecule_synonym': 'DFN15', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'DFN15'}, {'molecule_synonym': 'DFN-15', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'DFN-15'}, {'molecule_synonym': 'Elyxyb', 'syn_type': 'TRADE_NAME', 'synonyms': 'ELYXYB'}, {'molecule_synonym': 'NSC-719627', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-719627'}, {'molecule_synonym': 'NSC-758624', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-758624'}, {'molecule_synonym': 'Onsenal', 'syn_type': 'TRADE_NAME', 'synonyms': 'ONSENAL'}, {'molecule_synonym': 'SC-58635', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'SC-58635'}]
+
+>  <molecule_type>  (5) 
+Small molecule
+
+>  <natural_product>  (5) 
+1
+
+>  <oral>  (5) 
+True
+
+>  <parenteral>  (5) 
+False
+
+>  <polymer_flag>  (5) 
+0
+
+>  <pref_name>  (5) 
+CELECOXIB
+
+>  <prodrug>  (5) 
+0
+
+>  <structure_type>  (5) 
+MOL
+
+>  <therapeutic_flag>  (5) 
+True
+
+>  <topical>  (5) 
+False
+
+>  <usan_stem>  (5) 
+-coxib
+
+>  <usan_stem_definition>  (5) 
+cyclooxygenase-2 inhibitors
+
+>  <usan_substem>  (5) 
+-coxib
+
+>  <usan_year>  (5) 
+1998.0
+
+>  <withdrawn_flag>  (5) 
+False
+
+>  <smiles>  (5) 
+Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1
+
+>  <cluster>  (5) 
+-1
+
+$$$$
+CHEMBL708
+     RDKit          2D
+
+ 28 32  0  0  0  0  0  0  0  0999 V2000
+    2.7760    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2760    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943    1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3313    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6304    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9294    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9294    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2284    3.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2284    5.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5275    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8265    5.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1256    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4959    5.3899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.4996    6.5046    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7496    7.8037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2131    9.2302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2094   10.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7422   10.0331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2786    8.6065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2823    7.4918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8265    3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5275    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6304   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9294   -1.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3313   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943   -1.2135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 12 22  1  0
+ 22 23  1  0
+  6 24  2  0
+ 24 25  1  0
+ 24 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 28  2  1  0
+ 27  4  1  0
+ 23  9  1  0
+ 21 13  1  0
+ 21 16  1  0
+M  END
+>  <Unnamed: 0>  (6) 
+5
+
+>  <atc_classifications>  (6) 
+['N05AE04']
+
+>  <availability_type>  (6) 
+1
+
+>  <biotherapeutic>  (6) 
+nan
+
+>  <black_box_warning>  (6) 
+1
+
+>  <chebi_par_id>  (6) 
+10119.0
+
+>  <chemical_probe>  (6) 
+0
+
+>  <chirality>  (6) 
+2
+
+>  <cross_references>  (6) 
+[{'xref_id': 'ziprasidone%20hydrochloride', 'xref_name': 'ziprasidone hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': 'ziprasidone%20mesylate', 'xref_name': 'ziprasidone mesylate', 'xref_src': 'DailyMed'}, {'xref_id': '144205747', 'xref_name': 'SID: 144205747', 'xref_src': 'PubChem'}, {'xref_id': '144207074', 'xref_name': 'SID: 144207074', 'xref_src': 'PubChem'}, {'xref_id': '170465342', 'xref_name': 'SID: 170465342', 'xref_src': 'PubChem'}, {'xref_id': '26719835', 'xref_name': 'SID: 26719835', 'xref_src': 'PubChem'}, {'xref_id': 'Ziprasidone', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (6) 
+False
+
+>  <first_approval>  (6) 
+2001.0
+
+>  <first_in_class>  (6) 
+0
+
+>  <helm_notation>  (6) 
+nan
+
+>  <indication_class>  (6) 
+Antipsychotic
+
+>  <inorganic_flag>  (6) 
+0
+
+>  <max_phase>  (6) 
+4.0
+
+>  <molecule_hierarchy>  (6) 
+{'active_chembl_id': 'CHEMBL708', 'molecule_chembl_id': 'CHEMBL708', 'parent_chembl_id': 'CHEMBL708'}
+
+>  <molecule_properties>  (6) 
+{'alogp': '3.81', 'aromatic_rings': 3, 'cx_logd': '4.13', 'cx_logp': '4.30', 'cx_most_apka': '12.21', 'cx_most_bpka': '7.09', 'full_molformula': 'C21H21ClN4OS', 'full_mwt': '412.95', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 28, 'molecular_species': 'NEUTRAL', 'mw_freebase': '412.95', 'mw_monoisotopic': '412.1125', 'np_likeness_score': '-1.57', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '48.47', 'qed_weighted': '0.71', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (6) 
+[{'molecule_synonym': 'CP-88059', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'CP-88059'}, {'molecule_synonym': 'Geodon', 'syn_type': 'OTHER', 'synonyms': 'Geodon'}, {'molecule_synonym': 'Zipradon', 'syn_type': 'OTHER', 'synonyms': 'ZIPRADON'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'FDA', 'synonyms': 'Ziprasidone'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'USAN', 'synonyms': 'Ziprasidone'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'ATC', 'synonyms': 'ZIPRASIDONE'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'BAN', 'synonyms': 'ZIPRASIDONE'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'INN', 'synonyms': 'ZIPRASIDONE'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'MERCK_INDEX', 'synonyms': 'ZIPRASIDONE'}, {'molecule_synonym': 'Ziprasidone', 'syn_type': 'OTHER', 'synonyms': 'ZIPRASIDONE'}]
+
+>  <molecule_type>  (6) 
+Small molecule
+
+>  <natural_product>  (6) 
+1
+
+>  <oral>  (6) 
+True
+
+>  <parenteral>  (6) 
+True
+
+>  <polymer_flag>  (6) 
+0
+
+>  <pref_name>  (6) 
+ZIPRASIDONE
+
+>  <prodrug>  (6) 
+0
+
+>  <structure_type>  (6) 
+MOL
+
+>  <therapeutic_flag>  (6) 
+True
+
+>  <topical>  (6) 
+False
+
+>  <usan_stem>  (6) 
+-sidone
+
+>  <usan_stem_definition>  (6) 
+antipsychotic with binding activity on sertonin (5-HT2A) and dopamine (D2) receptors
+
+>  <usan_substem>  (6) 
+-sidone
+
+>  <usan_year>  (6) 
+1994.0
+
+>  <withdrawn_flag>  (6) 
+False
+
+>  <smiles>  (6) 
+O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1
+
+>  <cluster>  (6) 
+-1
+
+$$$$
+CHEMBL726
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    8.2500  -11.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500   -9.0933    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010   -8.5442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -7.0442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+ 22 27  1  0
+ 27 28  2  0
+  7 29  1  0
+ 29 30  1  0
+ 30  4  1  0
+ 28 11  1  0
+ 17 12  1  0
+ 28 19  1  0
+M  END
+>  <Unnamed: 0>  (7) 
+6
+
+>  <atc_classifications>  (7) 
+['N05AB02']
+
+>  <availability_type>  (7) 
+-1
+
+>  <biotherapeutic>  (7) 
+nan
+
+>  <black_box_warning>  (7) 
+0
+
+>  <chebi_par_id>  (7) 
+5123.0
+
+>  <chemical_probe>  (7) 
+0
+
+>  <chirality>  (7) 
+2
+
+>  <cross_references>  (7) 
+[{'xref_id': 'fluphenazine%20hydrochloride', 'xref_name': 'fluphenazine hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': '104171155', 'xref_name': 'SID: 104171155', 'xref_src': 'PubChem'}, {'xref_id': '11111179', 'xref_name': 'SID: 11111179', 'xref_src': 'PubChem'}, {'xref_id': '11111180', 'xref_name': 'SID: 11111180', 'xref_src': 'PubChem'}, {'xref_id': '144203697', 'xref_name': 'SID: 144203697', 'xref_src': 'PubChem'}, {'xref_id': '170465375', 'xref_name': 'SID: 170465375', 'xref_src': 'PubChem'}, {'xref_id': '26751625', 'xref_name': 'SID: 26751625', 'xref_src': 'PubChem'}, {'xref_id': '50100242', 'xref_name': 'SID: 50100242', 'xref_src': 'PubChem'}, {'xref_id': '50104297', 'xref_name': 'SID: 50104297', 'xref_src': 'PubChem'}, {'xref_id': '57287813', 'xref_name': 'SID: 57287813', 'xref_src': 'PubChem'}, {'xref_id': '90341540', 'xref_name': 'SID: 90341540', 'xref_src': 'PubChem'}, {'xref_id': '37', 'xref_name': 'fluphenazine', 'xref_src': 'TG-GATEs'}, {'xref_id': 'Fluphenazine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (7) 
+False
+
+>  <first_approval>  (7) 
+nan
+
+>  <first_in_class>  (7) 
+0
+
+>  <helm_notation>  (7) 
+nan
+
+>  <indication_class>  (7) 
+Antipsychotic
+
+>  <inorganic_flag>  (7) 
+0
+
+>  <max_phase>  (7) 
+4.0
+
+>  <molecule_hierarchy>  (7) 
+{'active_chembl_id': 'CHEMBL726', 'molecule_chembl_id': 'CHEMBL726', 'parent_chembl_id': 'CHEMBL726'}
+
+>  <molecule_properties>  (7) 
+{'alogp': '4.31', 'aromatic_rings': 2, 'cx_logd': '3.41', 'cx_logp': '3.97', 'cx_most_apka': None, 'cx_most_bpka': '7.81', 'full_molformula': 'C22H26F3N3OS', 'full_mwt': '437.53', 'hba': 5, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 30, 'molecular_species': 'NEUTRAL', 'mw_freebase': '437.53', 'mw_monoisotopic': '437.1749', 'np_likeness_score': '-1.28', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '29.95', 'qed_weighted': '0.73', 'ro3_pass': 'N', 'rtb': 6}
+
+>  <molecule_synonyms>  (7) 
+[{'molecule_synonym': 'Fluphenazine', 'syn_type': 'FDA', 'synonyms': 'Fluphenazine'}, {'molecule_synonym': 'Fluphenazine', 'syn_type': 'ATC', 'synonyms': 'FLUPHENAZINE'}, {'molecule_synonym': 'Fluphenazine', 'syn_type': 'BAN', 'synonyms': 'FLUPHENAZINE'}, {'molecule_synonym': 'Fluphenazine', 'syn_type': 'INN', 'synonyms': 'FLUPHENAZINE'}, {'molecule_synonym': 'Fluphenazine', 'syn_type': 'OTHER', 'synonyms': 'FLUPHENAZINE'}, {'molecule_synonym': 'NSC-62323', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-62323'}, {'molecule_synonym': 'Permitil', 'syn_type': 'OTHER', 'synonyms': 'Permitil'}, {'molecule_synonym': 'Prolixin', 'syn_type': 'OTHER', 'synonyms': 'Prolixin'}]
+
+>  <molecule_type>  (7) 
+Small molecule
+
+>  <natural_product>  (7) 
+1
+
+>  <oral>  (7) 
+False
+
+>  <parenteral>  (7) 
+False
+
+>  <polymer_flag>  (7) 
+0
+
+>  <pref_name>  (7) 
+FLUPHENAZINE
+
+>  <prodrug>  (7) 
+0
+
+>  <structure_type>  (7) 
+MOL
+
+>  <therapeutic_flag>  (7) 
+True
+
+>  <topical>  (7) 
+False
+
+>  <usan_stem>  (7) 
+nan
+
+>  <usan_stem_definition>  (7) 
+nan
+
+>  <usan_substem>  (7) 
+nan
+
+>  <usan_year>  (7) 
+nan
+
+>  <withdrawn_flag>  (7) 
+False
+
+>  <smiles>  (7) 
+OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+
+>  <cluster>  (7) 
+-1
+
+$$$$
+CHEMBL728
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+    8.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 20 22  1  0
+ 22 23  2  0
+  5 24  1  0
+ 24 25  1  0
+ 25  2  1  0
+ 23  9  1  0
+ 15 10  1  0
+ 23 17  1  0
+M  END
+>  <Unnamed: 0>  (8) 
+7
+
+>  <atc_classifications>  (8) 
+['N05AB04']
+
+>  <availability_type>  (8) 
+1
+
+>  <biotherapeutic>  (8) 
+nan
+
+>  <black_box_warning>  (8) 
+1
+
+>  <chebi_par_id>  (8) 
+8435.0
+
+>  <chemical_probe>  (8) 
+0
+
+>  <chirality>  (8) 
+2
+
+>  <cross_references>  (8) 
+[{'xref_id': 'prochlorperazine', 'xref_name': 'prochlorperazine', 'xref_src': 'DailyMed'}, {'xref_id': 'prochlorperazine%20edisylate', 'xref_name': 'prochlorperazine edisylate', 'xref_src': 'DailyMed'}, {'xref_id': 'prochlorperazine%20maleate', 'xref_name': 'prochlorperazine maleate', 'xref_src': 'DailyMed'}, {'xref_id': '11111685', 'xref_name': 'SID: 11111685', 'xref_src': 'PubChem'}, {'xref_id': '11111686', 'xref_name': 'SID: 11111686', 'xref_src': 'PubChem'}, {'xref_id': '50100332', 'xref_name': 'SID: 50100332', 'xref_src': 'PubChem'}, {'xref_id': '50104093', 'xref_name': 'SID: 50104093', 'xref_src': 'PubChem'}, {'xref_id': '855827', 'xref_name': 'SID: 855827', 'xref_src': 'PubChem'}, {'xref_id': '90341442', 'xref_name': 'SID: 90341442', 'xref_src': 'PubChem'}, {'xref_id': 'Prochlorperazine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (8) 
+True
+
+>  <first_approval>  (8) 
+1956.0
+
+>  <first_in_class>  (8) 
+0
+
+>  <helm_notation>  (8) 
+nan
+
+>  <indication_class>  (8) 
+Anti-Emetic,Anti-Emetic; Antipsychotic,Antipsychotic; Anti-Emetic
+
+>  <inorganic_flag>  (8) 
+0
+
+>  <max_phase>  (8) 
+4.0
+
+>  <molecule_hierarchy>  (8) 
+{'active_chembl_id': 'CHEMBL728', 'molecule_chembl_id': 'CHEMBL728', 'parent_chembl_id': 'CHEMBL728'}
+
+>  <molecule_properties>  (8) 
+{'alogp': '4.58', 'aromatic_rings': 2, 'cx_logd': '3.69', 'cx_logp': '4.38', 'cx_most_apka': None, 'cx_most_bpka': '7.99', 'full_molformula': 'C20H24ClN3S', 'full_mwt': '373.95', 'hba': 4, 'hba_lipinski': 3, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 25, 'molecular_species': 'NEUTRAL', 'mw_freebase': '373.95', 'mw_monoisotopic': '373.1379', 'np_likeness_score': '-1.53', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '9.72', 'qed_weighted': '0.78', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (8) 
+[{'molecule_synonym': 'Compazine', 'syn_type': 'TRADE_NAME', 'synonyms': 'Compazine'}, {'molecule_synonym': 'Compro', 'syn_type': 'TRADE_NAME', 'synonyms': 'COMPRO'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'USAN', 'synonyms': 'Prochlorperazine'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'ATC', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'BAN', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'FDA', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'INN', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'JAN', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'OTHER', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'TRADE_NAME', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine', 'syn_type': 'USP', 'synonyms': 'PROCHLORPERAZINE'}, {'molecule_synonym': 'Prochlorperazine mesilate', 'syn_type': 'BNF', 'synonyms': 'PROCHLORPERAZINE MESILATE'}, {'molecule_synonym': 'Prochlorperazine mesilate', 'syn_type': 'JAN', 'synonyms': 'PROCHLORPERAZINE MESILATE'}, {'molecule_synonym': 'Prochlorperazine mesylate', 'syn_type': 'OTHER', 'synonyms': 'PROCHLORPERAZINE MESYLATE'}, {'molecule_synonym': 'Stemetil eff', 'syn_type': 'TRADE_NAME', 'synonyms': 'STEMETIL EFF'}]
+
+>  <molecule_type>  (8) 
+Small molecule
+
+>  <natural_product>  (8) 
+1
+
+>  <oral>  (8) 
+True
+
+>  <parenteral>  (8) 
+True
+
+>  <polymer_flag>  (8) 
+0
+
+>  <pref_name>  (8) 
+PROCHLORPERAZINE
+
+>  <prodrug>  (8) 
+0
+
+>  <structure_type>  (8) 
+MOL
+
+>  <therapeutic_flag>  (8) 
+True
+
+>  <topical>  (8) 
+True
+
+>  <usan_stem>  (8) 
+nan
+
+>  <usan_stem_definition>  (8) 
+nan
+
+>  <usan_substem>  (8) 
+nan
+
+>  <usan_year>  (8) 
+nan
+
+>  <withdrawn_flag>  (8) 
+False
+
+>  <smiles>  (8) 
+CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1
+
+>  <cluster>  (8) 
+-1
+
+$$$$
+CHEMBL841
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+    4.4610   -6.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981   -5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3971   -4.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -4.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -2.9462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4895    2.7762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1595    1.8121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4200    3.2893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8296    3.8023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9786    2.8381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3882    3.3512    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7181    1.3609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3086    0.8479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010   -5.9462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0981   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3971   -5.9462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3971   -7.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0981   -8.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010   -7.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 17 19  1  0
+ 19 20  2  0
+ 12 21  1  0
+ 21 22  1  0
+  6 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  2  0
+ 26 27  1  0
+ 27 28  2  0
+  6 29  1  0
+ 29 30  2  0
+ 30 31  1  0
+ 31 32  2  0
+ 32 33  1  0
+ 33 34  2  0
+ 22  9  1  0
+ 28 23  1  0
+ 34 29  1  0
+ 20 14  1  0
+M  END
+>  <Unnamed: 0>  (9) 
+9
+
+>  <atc_classifications>  (9) 
+['A07DA03', 'A07DA53']
+
+>  <availability_type>  (9) 
+2
+
+>  <biotherapeutic>  (9) 
+nan
+
+>  <black_box_warning>  (9) 
+1
+
+>  <chebi_par_id>  (9) 
+6532.0
+
+>  <chemical_probe>  (9) 
+0
+
+>  <chirality>  (9) 
+2
+
+>  <cross_references>  (9) 
+[{'xref_id': 'loperamide%20hydrochloride', 'xref_name': 'loperamide hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': '104171181', 'xref_name': 'SID: 104171181', 'xref_src': 'PubChem'}, {'xref_id': '11111380', 'xref_name': 'SID: 11111380', 'xref_src': 'PubChem'}, {'xref_id': '11112740', 'xref_name': 'SID: 11112740', 'xref_src': 'PubChem'}, {'xref_id': '11113732', 'xref_name': 'SID: 11113732', 'xref_src': 'PubChem'}, {'xref_id': '124880549', 'xref_name': 'SID: 124880549', 'xref_src': 'PubChem'}, {'xref_id': '124880551', 'xref_name': 'SID: 124880551', 'xref_src': 'PubChem'}, {'xref_id': '124880553', 'xref_name': 'SID: 124880553', 'xref_src': 'PubChem'}, {'xref_id': '144203731', 'xref_name': 'SID: 144203731', 'xref_src': 'PubChem'}, {'xref_id': '170464852', 'xref_name': 'SID: 170464852', 'xref_src': 'PubChem'}, {'xref_id': '26751916', 'xref_name': 'SID: 26751916', 'xref_src': 'PubChem'}, {'xref_id': '26751917', 'xref_name': 'SID: 26751917', 'xref_src': 'PubChem'}, {'xref_id': '50104594', 'xref_name': 'SID: 50104594', 'xref_src': 'PubChem'}, {'xref_id': '50104595', 'xref_name': 'SID: 50104595', 'xref_src': 'PubChem'}, {'xref_id': '90340730', 'xref_name': 'SID: 90340730', 'xref_src': 'PubChem'}, {'xref_id': 'Loperamide', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (9) 
+False
+
+>  <first_approval>  (9) 
+1976.0
+
+>  <first_in_class>  (9) 
+0
+
+>  <helm_notation>  (9) 
+nan
+
+>  <indication_class>  (9) 
+Antiperistaltic
+
+>  <inorganic_flag>  (9) 
+0
+
+>  <max_phase>  (9) 
+4.0
+
+>  <molecule_hierarchy>  (9) 
+{'active_chembl_id': 'CHEMBL841', 'molecule_chembl_id': 'CHEMBL841', 'parent_chembl_id': 'CHEMBL841'}
+
+>  <molecule_properties>  (9) 
+{'alogp': '5.09', 'aromatic_rings': 3, 'cx_logd': '2.77', 'cx_logp': '4.77', 'cx_most_apka': '13.96', 'cx_most_bpka': '9.41', 'full_molformula': 'C29H33ClN2O2', 'full_mwt': '477.05', 'hba': 3, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '477.05', 'mw_monoisotopic': '476.2231', 'np_likeness_score': '-0.36', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.78', 'qed_weighted': '0.52', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (9) 
+[{'molecule_synonym': 'Imodium', 'syn_type': 'OTHER', 'synonyms': 'Imodium'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'FDA', 'synonyms': 'Loperamide'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'ATC', 'synonyms': 'LOPERAMIDE'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'BAN', 'synonyms': 'LOPERAMIDE'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'INN', 'synonyms': 'LOPERAMIDE'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'JAN', 'synonyms': 'LOPERAMIDE'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'MERCK_INDEX', 'synonyms': 'LOPERAMIDE'}, {'molecule_synonym': 'Loperamide', 'syn_type': 'OTHER', 'synonyms': 'LOPERAMIDE'}]
+
+>  <molecule_type>  (9) 
+Small molecule
+
+>  <natural_product>  (9) 
+1
+
+>  <oral>  (9) 
+True
+
+>  <parenteral>  (9) 
+False
+
+>  <polymer_flag>  (9) 
+0
+
+>  <pref_name>  (9) 
+LOPERAMIDE
+
+>  <prodrug>  (9) 
+0
+
+>  <structure_type>  (9) 
+MOL
+
+>  <therapeutic_flag>  (9) 
+True
+
+>  <topical>  (9) 
+False
+
+>  <usan_stem>  (9) 
+nan
+
+>  <usan_stem_definition>  (9) 
+nan
+
+>  <usan_substem>  (9) 
+nan
+
+>  <usan_year>  (9) 
+1975.0
+
+>  <withdrawn_flag>  (9) 
+False
+
+>  <smiles>  (9) 
+CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1
+
+>  <cluster>  (9) 
+-1
+
+$$$$
+CHEMBL42055
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+   10.5000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000    2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500   -9.0933    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010   -8.5442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -7.0442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+ 22 27  1  0
+ 27 28  2  0
+  7 29  1  0
+ 29 30  1  0
+ 30  4  1  0
+ 28 11  1  0
+ 17 12  1  0
+ 28 19  1  0
+M  END
+>  <Unnamed: 0>  (10) 
+10
+
+>  <atc_classifications>  (10) 
+[]
+
+>  <availability_type>  (10) 
+-1
+
+>  <biotherapeutic>  (10) 
+nan
+
+>  <black_box_warning>  (10) 
+0
+
+>  <chebi_par_id>  (10) 
+nan
+
+>  <chemical_probe>  (10) 
+0
+
+>  <chirality>  (10) 
+2
+
+>  <cross_references>  (10) 
+[{'xref_id': '11111164', 'xref_name': 'SID: 11111164', 'xref_src': 'PubChem'}, {'xref_id': '11111165', 'xref_name': 'SID: 11111165', 'xref_src': 'PubChem'}, {'xref_id': 'Flupentixol', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (10) 
+False
+
+>  <first_approval>  (10) 
+nan
+
+>  <first_in_class>  (10) 
+0
+
+>  <helm_notation>  (10) 
+nan
+
+>  <indication_class>  (10) 
+nan
+
+>  <inorganic_flag>  (10) 
+0
+
+>  <max_phase>  (10) 
+2.0
+
+>  <molecule_hierarchy>  (10) 
+{'active_chembl_id': 'CHEMBL42055', 'molecule_chembl_id': 'CHEMBL42055', 'parent_chembl_id': 'CHEMBL42055'}
+
+>  <molecule_properties>  (10) 
+{'alogp': '4.60', 'aromatic_rings': 2, 'cx_logd': '3.78', 'cx_logp': '4.50', 'cx_most_apka': None, 'cx_most_bpka': '8.03', 'full_molformula': 'C23H25F3N2OS', 'full_mwt': '434.53', 'hba': 4, 'hba_lipinski': 3, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 30, 'molecular_species': 'NEUTRAL', 'mw_freebase': '434.53', 'mw_monoisotopic': '434.1640', 'np_likeness_score': '-0.77', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '26.71', 'qed_weighted': '0.63', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (10) 
+[{'molecule_synonym': '.beta.-flupenthixol', 'syn_type': 'OTHER', 'synonyms': '.BETA.-FLUPENTHIXOL'}, {'molecule_synonym': 'E-flupenthixol', 'syn_type': 'OTHER', 'synonyms': 'E-FLUPENTHIXOL'}, {'molecule_synonym': 'E-flupentixol', 'syn_type': 'OTHER', 'synonyms': 'E-FLUPENTIXOL'}, {'molecule_synonym': 'Flupenthixol', 'syn_type': 'OTHER', 'synonyms': 'Flupenthixol'}, {'molecule_synonym': 'Flupentixole', 'syn_type': 'OTHER', 'synonyms': 'Flupentixole'}, {'molecule_synonym': 'Flupentixol, (e)-', 'syn_type': 'OTHER', 'synonyms': 'FLUPENTIXOL, (E)-'}, {'molecule_synonym': 'Trans-flupenthixol', 'syn_type': 'OTHER', 'synonyms': 'TRANS-FLUPENTHIXOL'}, {'molecule_synonym': 'Trans-flupentixol', 'syn_type': 'OTHER', 'synonyms': 'TRANS-FLUPENTIXOL'}]
+
+>  <molecule_type>  (10) 
+Small molecule
+
+>  <natural_product>  (10) 
+0
+
+>  <oral>  (10) 
+False
+
+>  <parenteral>  (10) 
+False
+
+>  <polymer_flag>  (10) 
+0
+
+>  <pref_name>  (10) 
+E-FLUPENTIXOL
+
+>  <prodrug>  (10) 
+0
+
+>  <structure_type>  (10) 
+MOL
+
+>  <therapeutic_flag>  (10) 
+False
+
+>  <topical>  (10) 
+False
+
+>  <usan_stem>  (10) 
+nan
+
+>  <usan_stem_definition>  (10) 
+nan
+
+>  <usan_substem>  (10) 
+nan
+
+>  <usan_year>  (10) 
+nan
+
+>  <withdrawn_flag>  (10) 
+False
+
+>  <smiles>  (10) 
+OCCN1CCN(CC/C=C2\c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+
+>  <cluster>  (10) 
+-1
+
+$$$$
+CHEMBL296419
+     RDKit          2D
+
+ 34 38  0  0  0  0  0  0  0  0999 V2000
+  -12.9904   -9.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6913  -10.3573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3923   -9.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3923   -8.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0933   -7.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7942   -8.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4952   -7.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1962   -8.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8971   -7.3573    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5981   -8.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990   -7.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990   -5.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1073    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4430   -0.7182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5577    0.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9843   -0.1781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0990    0.8256    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2961   -1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1814   -2.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5981   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8971   -5.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7942   -9.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0933  -10.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 27 29  1  0
+ 29 30  2  0
+ 12 31  1  0
+ 31 32  1  0
+  6 33  1  0
+ 33 34  2  0
+ 34  3  1  0
+ 32  9  1  0
+ 22 14  1  0
+ 30 24  1  0
+ 21 16  1  0
+M  END
+>  <Unnamed: 0>  (11) 
+11
+
+>  <atc_classifications>  (11) 
+['R06AX11']
+
+>  <availability_type>  (11) 
+-2
+
+>  <biotherapeutic>  (11) 
+nan
+
+>  <black_box_warning>  (11) 
+0
+
+>  <chebi_par_id>  (11) 
+2896.0
+
+>  <chemical_probe>  (11) 
+0
+
+>  <chirality>  (11) 
+2
+
+>  <cross_references>  (11) 
+[{'xref_id': '104171329', 'xref_name': 'SID: 104171329', 'xref_src': 'PubChem'}, {'xref_id': '11112828', 'xref_name': 'SID: 11112828', 'xref_src': 'PubChem'}, {'xref_id': '124882660', 'xref_name': 'SID: 124882660', 'xref_src': 'PubChem'}, {'xref_id': '124882662', 'xref_name': 'SID: 124882662', 'xref_src': 'PubChem'}, {'xref_id': '144204231', 'xref_name': 'SID: 144204231', 'xref_src': 'PubChem'}, {'xref_id': '144207293', 'xref_name': 'SID: 144207293', 'xref_src': 'PubChem'}, {'xref_id': '170465888', 'xref_name': 'SID: 170465888', 'xref_src': 'PubChem'}, {'xref_id': '26746979', 'xref_name': 'SID: 26746979', 'xref_src': 'PubChem'}, {'xref_id': '26751496', 'xref_name': 'SID: 26751496', 'xref_src': 'PubChem'}, {'xref_id': '26751497', 'xref_name': 'SID: 26751497', 'xref_src': 'PubChem'}, {'xref_id': '56422418', 'xref_name': 'SID: 56422418', 'xref_src': 'PubChem'}, {'xref_id': '855746', 'xref_name': 'SID: 855746', 'xref_src': 'PubChem'}, {'xref_id': 'Astemizole', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (11) 
+True
+
+>  <first_approval>  (11) 
+1988.0
+
+>  <first_in_class>  (11) 
+0
+
+>  <helm_notation>  (11) 
+nan
+
+>  <indication_class>  (11) 
+Antihistaminic; Anti-Allergic
+
+>  <inorganic_flag>  (11) 
+0
+
+>  <max_phase>  (11) 
+4.0
+
+>  <molecule_hierarchy>  (11) 
+{'active_chembl_id': 'CHEMBL296419', 'molecule_chembl_id': 'CHEMBL296419', 'parent_chembl_id': 'CHEMBL296419'}
+
+>  <molecule_properties>  (11) 
+{'alogp': '5.35', 'aromatic_rings': 4, 'cx_logd': '4.01', 'cx_logp': '5.39', 'cx_most_apka': None, 'cx_most_bpka': '8.73', 'full_molformula': 'C28H31FN4O', 'full_mwt': '458.58', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '458.58', 'mw_monoisotopic': '458.2482', 'np_likeness_score': '-1.37', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '42.32', 'qed_weighted': '0.39', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (11) 
+[{'molecule_synonym': 'Astemizole', 'syn_type': 'ATC', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'BAN', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'BNF', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'INN', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'JAN', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'USAN', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'Astemizole', 'syn_type': 'USP', 'synonyms': 'ASTEMIZOLE'}, {'molecule_synonym': 'GNF-Pf-2461', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'GNF-Pf-2461'}, {'molecule_synonym': 'Hismanal', 'syn_type': 'TRADE_NAME', 'synonyms': 'Hismanal'}, {'molecule_synonym': 'NSC-329963', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-329963'}, {'molecule_synonym': 'NSC-759570', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-759570'}, {'molecule_synonym': 'Pollon-eze', 'syn_type': 'TRADE_NAME', 'synonyms': 'POLLON-EZE'}, {'molecule_synonym': 'R 43,512', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'R 43,512'}]
+
+>  <molecule_type>  (11) 
+Small molecule
+
+>  <natural_product>  (11) 
+1
+
+>  <oral>  (11) 
+True
+
+>  <parenteral>  (11) 
+False
+
+>  <polymer_flag>  (11) 
+0
+
+>  <pref_name>  (11) 
+ASTEMIZOLE
+
+>  <prodrug>  (11) 
+0
+
+>  <structure_type>  (11) 
+MOL
+
+>  <therapeutic_flag>  (11) 
+True
+
+>  <topical>  (11) 
+False
+
+>  <usan_stem>  (11) 
+nan
+
+>  <usan_stem_definition>  (11) 
+nan
+
+>  <usan_substem>  (11) 
+nan
+
+>  <usan_year>  (11) 
+1979.0
+
+>  <withdrawn_flag>  (11) 
+True
+
+>  <smiles>  (11) 
+COc1ccc(CCN2CCC(Nc3nc4ccccc4n3Cc3ccc(F)cc3)CC2)cc1
+
+>  <cluster>  (11) 
+-1
+
+$$$$
+CHEMBL54661
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    8.2500  -11.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500   -9.0933    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010   -8.5442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -7.0442    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+ 22 27  1  0
+ 27 28  2  0
+  7 29  1  0
+ 29 30  1  0
+ 30  4  1  0
+ 28 11  1  0
+ 17 12  1  0
+ 28 19  1  0
+M  END
+>  <Unnamed: 0>  (12) 
+12
+
+>  <atc_classifications>  (12) 
+['N05AF01']
+
+>  <availability_type>  (12) 
+-1
+
+>  <biotherapeutic>  (12) 
+nan
+
+>  <black_box_warning>  (12) 
+0
+
+>  <chebi_par_id>  (12) 
+10454.0
+
+>  <chemical_probe>  (12) 
+0
+
+>  <chirality>  (12) 
+2
+
+>  <cross_references>  (12) 
+[{'xref_id': '144205556', 'xref_name': 'SID: 144205556', 'xref_src': 'PubChem'}, {'xref_id': '170465964', 'xref_name': 'SID: 170465964', 'xref_src': 'PubChem'}, {'xref_id': '26755684', 'xref_name': 'SID: 26755684', 'xref_src': 'PubChem'}, {'xref_id': '29216405', 'xref_name': 'SID: 29216405', 'xref_src': 'PubChem'}, {'xref_id': '50111069', 'xref_name': 'SID: 50111069', 'xref_src': 'PubChem'}, {'xref_id': '50111070', 'xref_name': 'SID: 50111070', 'xref_src': 'PubChem'}, {'xref_id': '90341514', 'xref_name': 'SID: 90341514', 'xref_src': 'PubChem'}]
+
+>  <dosed_ingredient>  (12) 
+False
+
+>  <first_approval>  (12) 
+nan
+
+>  <first_in_class>  (12) 
+0
+
+>  <helm_notation>  (12) 
+nan
+
+>  <indication_class>  (12) 
+nan
+
+>  <inorganic_flag>  (12) 
+0
+
+>  <max_phase>  (12) 
+3.0
+
+>  <molecule_hierarchy>  (12) 
+{'active_chembl_id': 'CHEMBL54661', 'molecule_chembl_id': 'CHEMBL54661', 'parent_chembl_id': 'CHEMBL54661'}
+
+>  <molecule_properties>  (12) 
+{'alogp': '4.60', 'aromatic_rings': 2, 'cx_logd': '3.78', 'cx_logp': '4.50', 'cx_most_apka': None, 'cx_most_bpka': '8.03', 'full_molformula': 'C23H25F3N2OS', 'full_mwt': '434.53', 'hba': 4, 'hba_lipinski': 3, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 30, 'molecular_species': 'NEUTRAL', 'mw_freebase': '434.53', 'mw_monoisotopic': '434.1640', 'np_likeness_score': '-0.77', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '26.71', 'qed_weighted': '0.63', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (12) 
+[{'molecule_synonym': 'Flupenthixol', 'syn_type': 'OTHER', 'synonyms': 'FLUPENTHIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'ATC', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'BAN', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'DCF', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'INN', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'MERCK_INDEX', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'Flupentixol', 'syn_type': 'OTHER', 'synonyms': 'FLUPENTIXOL'}, {'molecule_synonym': 'LC 44', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LC 44'}, {'molecule_synonym': 'LC-44', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LC-44'}, {'molecule_synonym': 'N-7009', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'N-7009'}]
+
+>  <molecule_type>  (12) 
+Small molecule
+
+>  <natural_product>  (12) 
+0
+
+>  <oral>  (12) 
+False
+
+>  <parenteral>  (12) 
+False
+
+>  <polymer_flag>  (12) 
+0
+
+>  <pref_name>  (12) 
+FLUPENTIXOL
+
+>  <prodrug>  (12) 
+0
+
+>  <structure_type>  (12) 
+MOL
+
+>  <therapeutic_flag>  (12) 
+False
+
+>  <topical>  (12) 
+False
+
+>  <usan_stem>  (12) 
+nan
+
+>  <usan_stem_definition>  (12) 
+nan
+
+>  <usan_substem>  (12) 
+nan
+
+>  <usan_year>  (12) 
+nan
+
+>  <withdrawn_flag>  (12) 
+False
+
+>  <smiles>  (12) 
+OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+
+>  <cluster>  (12) 
+-1
+
+$$$$
+CHEMBL939
+     RDKit          2D
+
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    5.1962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    2.5981    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   -7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000  -10.3923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 16 18  2  0
+  9 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21  3  1  0
+ 31 26  1  0
+ 19  5  1  0
+ 18 11  1  0
+M  END
+>  <Unnamed: 0>  (13) 
+13
+
+>  <atc_classifications>  (13) 
+['L01EB01']
+
+>  <availability_type>  (13) 
+1
+
+>  <biotherapeutic>  (13) 
+nan
+
+>  <black_box_warning>  (13) 
+0
+
+>  <chebi_par_id>  (13) 
+49668.0
+
+>  <chemical_probe>  (13) 
+0
+
+>  <chirality>  (13) 
+2
+
+>  <cross_references>  (13) 
+[{'xref_id': 'gefitinib', 'xref_name': 'gefitinib', 'xref_src': 'DailyMed'}, {'xref_id': '103905343', 'xref_name': 'SID: 103905343', 'xref_src': 'PubChem'}, {'xref_id': '103905344', 'xref_name': 'SID: 103905344', 'xref_src': 'PubChem'}, {'xref_id': '124892204', 'xref_name': 'SID: 124892204', 'xref_src': 'PubChem'}, {'xref_id': '124892206', 'xref_name': 'SID: 124892206', 'xref_src': 'PubChem'}, {'xref_id': '137275808', 'xref_name': 'SID: 137275808', 'xref_src': 'PubChem'}, {'xref_id': '144205236', 'xref_name': 'SID: 144205236', 'xref_src': 'PubChem'}, {'xref_id': '170464828', 'xref_name': 'SID: 170464828', 'xref_src': 'PubChem'}, {'xref_id': '29215403', 'xref_name': 'SID: 29215403', 'xref_src': 'PubChem'}, {'xref_id': '50100103', 'xref_name': 'SID: 50100103', 'xref_src': 'PubChem'}, {'xref_id': 'Gefitinib', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (13) 
+True
+
+>  <first_approval>  (13) 
+2003.0
+
+>  <first_in_class>  (13) 
+0
+
+>  <helm_notation>  (13) 
+nan
+
+>  <indication_class>  (13) 
+nan
+
+>  <inorganic_flag>  (13) 
+0
+
+>  <max_phase>  (13) 
+4.0
+
+>  <molecule_hierarchy>  (13) 
+{'active_chembl_id': 'CHEMBL939', 'molecule_chembl_id': 'CHEMBL939', 'parent_chembl_id': 'CHEMBL939'}
+
+>  <molecule_properties>  (13) 
+{'alogp': '4.28', 'aromatic_rings': 3, 'cx_logd': '3.64', 'cx_logp': '3.75', 'cx_most_apka': None, 'cx_most_bpka': '6.85', 'full_molformula': 'C22H24ClFN4O3', 'full_mwt': '446.91', 'hba': 7, 'hba_lipinski': 7, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 31, 'molecular_species': 'NEUTRAL', 'mw_freebase': '446.91', 'mw_monoisotopic': '446.1521', 'np_likeness_score': '-1.75', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '68.74', 'qed_weighted': '0.52', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (13) 
+[{'molecule_synonym': 'Gefitinib', 'syn_type': 'ATC', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'BAN', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'BNF', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'FDA', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'INN', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'JAN', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'MERCK_INDEX', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'OTHER', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Gefitinib', 'syn_type': 'USAN', 'synonyms': 'GEFITINIB'}, {'molecule_synonym': 'Iressa', 'syn_type': 'OTHER', 'synonyms': 'Iressa'}, {'molecule_synonym': 'Iressa', 'syn_type': 'TRADE_NAME', 'synonyms': 'Iressa'}, {'molecule_synonym': 'NSC-759856', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-759856'}, {'molecule_synonym': 'ZD1839', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'ZD1839'}, {'molecule_synonym': 'ZD-1839', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'ZD-1839'}]
+
+>  <molecule_type>  (13) 
+Small molecule
+
+>  <natural_product>  (13) 
+1
+
+>  <oral>  (13) 
+True
+
+>  <parenteral>  (13) 
+False
+
+>  <polymer_flag>  (13) 
+0
+
+>  <pref_name>  (13) 
+GEFITINIB
+
+>  <prodrug>  (13) 
+0
+
+>  <structure_type>  (13) 
+MOL
+
+>  <therapeutic_flag>  (13) 
+True
+
+>  <topical>  (13) 
+False
+
+>  <usan_stem>  (13) 
+-tinib
+
+>  <usan_stem_definition>  (13) 
+tyrosine kinase inhibitors
+
+>  <usan_substem>  (13) 
+-tinib
+
+>  <usan_year>  (13) 
+2002.0
+
+>  <withdrawn_flag>  (13) 
+False
+
+>  <smiles>  (13) 
+COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1
+
+>  <cluster>  (13) 
+-1
+
+$$$$
+CHEMBL305660
+     RDKit          2D
+
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+    3.0000   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 19 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 28 29  2  0
+ 29 30  1  0
+ 30 31  2  0
+ 17 32  1  0
+ 32 33  1  0
+  8 34  1  0
+ 34 35  2  0
+ 35  5  1  0
+ 33 14  1  0
+ 25 20  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (14) 
+14
+
+>  <atc_classifications>  (14) 
+['R06AX22']
+
+>  <availability_type>  (14) 
+-1
+
+>  <biotherapeutic>  (14) 
+nan
+
+>  <black_box_warning>  (14) 
+0
+
+>  <chebi_par_id>  (14) 
+nan
+
+>  <chemical_probe>  (14) 
+0
+
+>  <chirality>  (14) 
+2
+
+>  <cross_references>  (14) 
+[{'xref_id': '144205778', 'xref_name': 'SID: 144205778', 'xref_src': 'PubChem'}, {'xref_id': '170465995', 'xref_name': 'SID: 170465995', 'xref_src': 'PubChem'}, {'xref_id': '26758025', 'xref_name': 'SID: 26758025', 'xref_src': 'PubChem'}, {'xref_id': '90340626', 'xref_name': 'SID: 90340626', 'xref_src': 'PubChem'}, {'xref_id': 'Ebastine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (14) 
+False
+
+>  <first_approval>  (14) 
+nan
+
+>  <first_in_class>  (14) 
+0
+
+>  <helm_notation>  (14) 
+nan
+
+>  <indication_class>  (14) 
+Antihistaminic
+
+>  <inorganic_flag>  (14) 
+0
+
+>  <max_phase>  (14) 
+3.0
+
+>  <molecule_hierarchy>  (14) 
+{'active_chembl_id': 'CHEMBL305660', 'molecule_chembl_id': 'CHEMBL305660', 'parent_chembl_id': 'CHEMBL305660'}
+
+>  <molecule_properties>  (14) 
+{'alogp': '7.22', 'aromatic_rings': 3, 'cx_logd': '5.89', 'cx_logp': '6.96', 'cx_most_apka': None, 'cx_most_bpka': '8.43', 'full_molformula': 'C32H39NO2', 'full_mwt': '469.67', 'hba': 3, 'hba_lipinski': 3, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 35, 'molecular_species': 'NEUTRAL', 'mw_freebase': '469.67', 'mw_monoisotopic': '469.2981', 'np_likeness_score': '-0.64', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '29.54', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (14) 
+[{'molecule_synonym': 'Ebastine', 'syn_type': 'ATC', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'BAN', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'INN', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'JAN', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'OTHER', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'USAN', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Ebastine', 'syn_type': 'USP', 'synonyms': 'EBASTINE'}, {'molecule_synonym': 'Kestine', 'syn_type': 'TRADE_NAME', 'synonyms': 'Kestine'}, {'molecule_synonym': 'LAS W-090', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LAS W-090'}, {'molecule_synonym': 'LAS-W-090', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'LAS-W-090'}, {'molecule_synonym': 'RP 64305', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'RP 64305'}, {'molecule_synonym': 'RP-64305', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'RP-64305'}]
+
+>  <molecule_type>  (14) 
+Small molecule
+
+>  <natural_product>  (14) 
+1
+
+>  <oral>  (14) 
+False
+
+>  <parenteral>  (14) 
+False
+
+>  <polymer_flag>  (14) 
+0
+
+>  <pref_name>  (14) 
+EBASTINE
+
+>  <prodrug>  (14) 
+0
+
+>  <structure_type>  (14) 
+MOL
+
+>  <therapeutic_flag>  (14) 
+False
+
+>  <topical>  (14) 
+False
+
+>  <usan_stem>  (14) 
+-astine
+
+>  <usan_stem_definition>  (14) 
+antihistaminics (histamine-H1 receptor antagonists)
+
+>  <usan_substem>  (14) 
+-astine
+
+>  <usan_year>  (14) 
+1987.0
+
+>  <withdrawn_flag>  (14) 
+False
+
+>  <smiles>  (14) 
+CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1
+
+>  <cluster>  (14) 
+-1
+
+$$$$
+CHEMBL1112
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   16.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   16.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   18.1865    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   15.5885    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 22 24  2  0
+ 24 25  1  0
+ 17 26  1  0
+ 26 27  1  0
+  8 28  1  0
+ 28 29  2  0
+ 29 30  1  0
+ 30  2  1  0
+ 29  5  1  0
+ 27 14  1  0
+ 24 18  1  0
+M  END
+>  <Unnamed: 0>  (15) 
+15
+
+>  <atc_classifications>  (15) 
+['N05AX12']
+
+>  <availability_type>  (15) 
+1
+
+>  <biotherapeutic>  (15) 
+nan
+
+>  <black_box_warning>  (15) 
+1
+
+>  <chebi_par_id>  (15) 
+31236.0
+
+>  <chemical_probe>  (15) 
+0
+
+>  <chirality>  (15) 
+2
+
+>  <cross_references>  (15) 
+[{'xref_id': 'aripiprazole', 'xref_name': 'aripiprazole', 'xref_src': 'DailyMed'}, {'xref_id': '144205281', 'xref_name': 'SID: 144205281', 'xref_src': 'PubChem'}, {'xref_id': '170465392', 'xref_name': 'SID: 170465392', 'xref_src': 'PubChem'}, {'xref_id': '174006897', 'xref_name': 'SID: 174006897', 'xref_src': 'PubChem'}, {'xref_id': '26719891', 'xref_name': 'SID: 26719891', 'xref_src': 'PubChem'}, {'xref_id': '29215485', 'xref_name': 'SID: 29215485', 'xref_src': 'PubChem'}, {'xref_id': '49666418', 'xref_name': 'SID: 49666418', 'xref_src': 'PubChem'}, {'xref_id': 'Aripiprazole', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (15) 
+True
+
+>  <first_approval>  (15) 
+2002.0
+
+>  <first_in_class>  (15) 
+0
+
+>  <helm_notation>  (15) 
+nan
+
+>  <indication_class>  (15) 
+Antipsychotic; Antischizophrenic
+
+>  <inorganic_flag>  (15) 
+0
+
+>  <max_phase>  (15) 
+4.0
+
+>  <molecule_hierarchy>  (15) 
+{'active_chembl_id': 'CHEMBL1112', 'molecule_chembl_id': 'CHEMBL1112', 'parent_chembl_id': 'CHEMBL1112'}
+
+>  <molecule_properties>  (15) 
+{'alogp': '4.86', 'aromatic_rings': 2, 'cx_logd': '4.57', 'cx_logp': '4.90', 'cx_most_apka': '13.51', 'cx_most_bpka': '7.46', 'full_molformula': 'C23H27Cl2N3O2', 'full_mwt': '448.39', 'hba': 4, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 30, 'molecular_species': 'NEUTRAL', 'mw_freebase': '448.39', 'mw_monoisotopic': '447.1480', 'np_likeness_score': '-1.16', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '44.81', 'qed_weighted': '0.61', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (15) 
+[{'molecule_synonym': 'Abilify', 'syn_type': 'TRADE_NAME', 'synonyms': 'Abilify'}, {'molecule_synonym': 'Abilify maintena', 'syn_type': 'TRADE_NAME', 'synonyms': 'ABILIFY MAINTENA'}, {'molecule_synonym': 'Abilify maintena kit', 'syn_type': 'TRADE_NAME', 'synonyms': 'ABILIFY MAINTENA KIT'}, {'molecule_synonym': 'Abilify mycite', 'syn_type': 'OTHER', 'synonyms': 'ABILIFY MYCITE'}, {'molecule_synonym': 'Abilify mycite kit', 'syn_type': 'TRADE_NAME', 'synonyms': 'ABILIFY MYCITE KIT'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'ATC', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'BAN', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'BNF', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'FDA', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'INN', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'JAN', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'MERCK_INDEX', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'OTHER', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'TRADE_NAME', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'USAN', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprazole', 'syn_type': 'USP', 'synonyms': 'ARIPIPRAZOLE'}, {'molecule_synonym': 'Aripiprex', 'syn_type': 'OTHER', 'synonyms': 'ARIPIPREX'}, {'molecule_synonym': 'NSC-759266', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-759266'}, {'molecule_synonym': 'OPC-14597', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'OPC-14597'}, {'molecule_synonym': 'OPC-31', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'OPC-31'}]
+
+>  <molecule_type>  (15) 
+Small molecule
+
+>  <natural_product>  (15) 
+1
+
+>  <oral>  (15) 
+True
+
+>  <parenteral>  (15) 
+True
+
+>  <polymer_flag>  (15) 
+0
+
+>  <pref_name>  (15) 
+ARIPIPRAZOLE
+
+>  <prodrug>  (15) 
+0
+
+>  <structure_type>  (15) 
+MOL
+
+>  <therapeutic_flag>  (15) 
+True
+
+>  <topical>  (15) 
+False
+
+>  <usan_stem>  (15) 
+-prazole
+
+>  <usan_stem_definition>  (15) 
+antiulcer agents (benzimidazole derivatives)
+
+>  <usan_substem>  (15) 
+-prazole
+
+>  <usan_year>  (15) 
+1997.0
+
+>  <withdrawn_flag>  (15) 
+False
+
+>  <smiles>  (15) 
+O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1
+
+>  <cluster>  (15) 
+-1
+
+$$$$
+CHEMBL104677
+     RDKit          2D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+    7.5272    3.5312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4125    4.5348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9859    4.0713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8712    5.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1831    6.5422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0684    7.5459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3802    9.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2655   10.0169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8389    9.5533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271    8.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6418    7.0824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299    5.6152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0967    5.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4086    3.6844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8351    3.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1470    1.7537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943    1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7062    2.6807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2760    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943   -1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6097    7.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7244    6.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  6
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  1
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+  5 23  1  0
+ 23 24  2  0
+ 24  2  1  0
+ 11  6  1  0
+ 19 14  1  0
+ 22 17  1  0
+M  END
+>  <Unnamed: 0>  (16) 
+16
+
+>  <atc_classifications>  (16) 
+[]
+
+>  <availability_type>  (16) 
+-1
+
+>  <biotherapeutic>  (16) 
+nan
+
+>  <black_box_warning>  (16) 
+0
+
+>  <chebi_par_id>  (16) 
+nan
+
+>  <chemical_probe>  (16) 
+0
+
+>  <chirality>  (16) 
+-1
+
+>  <cross_references>  (16) 
+[]
+
+>  <dosed_ingredient>  (16) 
+False
+
+>  <first_approval>  (16) 
+nan
+
+>  <first_in_class>  (16) 
+-1
+
+>  <helm_notation>  (16) 
+nan
+
+>  <indication_class>  (16) 
+nan
+
+>  <inorganic_flag>  (16) 
+-1
+
+>  <max_phase>  (16) 
+nan
+
+>  <molecule_hierarchy>  (16) 
+{'active_chembl_id': 'CHEMBL104677', 'molecule_chembl_id': 'CHEMBL104677', 'parent_chembl_id': 'CHEMBL104677'}
+
+>  <molecule_properties>  (16) 
+{'alogp': '3.33', 'aromatic_rings': 2, 'cx_logd': '0.83', 'cx_logp': '3.15', 'cx_most_apka': None, 'cx_most_bpka': '9.77', 'full_molformula': 'C19H20FNO3', 'full_mwt': '329.37', 'hba': 4, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 24, 'molecular_species': 'BASE', 'mw_freebase': '329.37', 'mw_monoisotopic': '329.1427', 'np_likeness_score': '-0.12', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '39.72', 'qed_weighted': '0.93', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (16) 
+[]
+
+>  <molecule_type>  (16) 
+Small molecule
+
+>  <natural_product>  (16) 
+1
+
+>  <oral>  (16) 
+False
+
+>  <parenteral>  (16) 
+False
+
+>  <polymer_flag>  (16) 
+0
+
+>  <pref_name>  (16) 
+nan
+
+>  <prodrug>  (16) 
+-1
+
+>  <structure_type>  (16) 
+MOL
+
+>  <therapeutic_flag>  (16) 
+False
+
+>  <topical>  (16) 
+False
+
+>  <usan_stem>  (16) 
+nan
+
+>  <usan_stem_definition>  (16) 
+nan
+
+>  <usan_substem>  (16) 
+nan
+
+>  <usan_year>  (16) 
+nan
+
+>  <withdrawn_flag>  (16) 
+False
+
+>  <smiles>  (16) 
+Fc1ccc([C@H]2CCNC[C@@H]2COc2ccc3c(c2)OCO3)cc1
+
+>  <cluster>  (16) 
+-1
+
+$$$$
+CHEMBL1421
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8817   -3.8116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3083   -3.3481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3083   -1.8481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5218   -0.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8921   -1.5765    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3650    0.5254    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5785    1.4071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4217    2.8988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0514    3.5090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6353    3.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0056    3.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1624    1.6786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9488    0.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1056   -0.6948    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8817   -1.3846    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+  9 21  1  0
+  4 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 27 31  1  0
+ 31 32  1  0
+ 23 33  2  0
+ 33  2  1  0
+ 21  6  1  0
+ 32 24  1  0
+ 19 13  1  0
+M  END
+>  <Unnamed: 0>  (17) 
+17
+
+>  <atc_classifications>  (17) 
+['L01EA02']
+
+>  <availability_type>  (17) 
+1
+
+>  <biotherapeutic>  (17) 
+nan
+
+>  <black_box_warning>  (17) 
+0
+
+>  <chebi_par_id>  (17) 
+49375.0
+
+>  <chemical_probe>  (17) 
+0
+
+>  <chirality>  (17) 
+2
+
+>  <cross_references>  (17) 
+[{'xref_id': 'dasatinib', 'xref_name': 'dasatinib', 'xref_src': 'DailyMed'}, {'xref_id': '103905543', 'xref_name': 'SID: 103905543', 'xref_src': 'PubChem'}, {'xref_id': '124893650', 'xref_name': 'SID: 124893650', 'xref_src': 'PubChem'}, {'xref_id': '124893651', 'xref_name': 'SID: 124893651', 'xref_src': 'PubChem'}, {'xref_id': '124893652', 'xref_name': 'SID: 124893652', 'xref_src': 'PubChem'}, {'xref_id': '144206289', 'xref_name': 'SID: 144206289', 'xref_src': 'PubChem'}, {'xref_id': '164339436', 'xref_name': 'SID: 164339436', 'xref_src': 'PubChem'}, {'xref_id': '170465390', 'xref_name': 'SID: 170465390', 'xref_src': 'PubChem'}, {'xref_id': '50100097', 'xref_name': 'SID: 50100097', 'xref_src': 'PubChem'}, {'xref_id': '50125840', 'xref_name': 'SID: 50125840', 'xref_src': 'PubChem'}, {'xref_id': 'Dasatinib', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (17) 
+True
+
+>  <first_approval>  (17) 
+2006.0
+
+>  <first_in_class>  (17) 
+1
+
+>  <helm_notation>  (17) 
+nan
+
+>  <indication_class>  (17) 
+nan
+
+>  <inorganic_flag>  (17) 
+0
+
+>  <max_phase>  (17) 
+4.0
+
+>  <molecule_hierarchy>  (17) 
+{'active_chembl_id': 'CHEMBL1421', 'molecule_chembl_id': 'CHEMBL1421', 'parent_chembl_id': 'CHEMBL1421'}
+
+>  <molecule_properties>  (17) 
+{'alogp': '3.31', 'aromatic_rings': 3, 'cx_logd': '3.74', 'cx_logp': '3.83', 'cx_most_apka': '8.52', 'cx_most_bpka': '7.19', 'full_molformula': 'C22H26ClN7O2S', 'full_mwt': '488.02', 'hba': 9, 'hba_lipinski': 9, 'hbd': 3, 'hbd_lipinski': 3, 'heavy_atoms': 33, 'molecular_species': 'NEUTRAL', 'mw_freebase': '488.02', 'mw_monoisotopic': '487.1557', 'np_likeness_score': '-2.33', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '106.51', 'qed_weighted': '0.47', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (17) 
+[{'molecule_synonym': 'BMS-354825', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'BMS-354825'}, {'molecule_synonym': 'BMS-354825-03', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'BMS-354825-03'}, {'molecule_synonym': 'BMS-354825 HYDRATE', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'BMS-354825 HYDRATE'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'ATC', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'BNF', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'FDA', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'INN', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'MERCK_INDEX', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'OTHER', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'TRADE_NAME', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib', 'syn_type': 'USAN', 'synonyms': 'DASATINIB'}, {'molecule_synonym': 'Dasatinib anhydrous', 'syn_type': 'OTHER', 'synonyms': 'DASATINIB ANHYDROUS'}, {'molecule_synonym': 'Dasatinib hydrate', 'syn_type': 'JAN', 'synonyms': 'DASATINIB HYDRATE'}, {'molecule_synonym': 'Dasatinib hydrate', 'syn_type': 'OTHER', 'synonyms': 'DASATINIB HYDRATE'}, {'molecule_synonym': 'Dasatinib monohydrate', 'syn_type': 'OTHER', 'synonyms': 'DASATINIB MONOHYDRATE'}, {'molecule_synonym': 'NSC-759877', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'NSC-759877'}, {'molecule_synonym': 'Sprycel', 'syn_type': 'TRADE_NAME', 'synonyms': 'Sprycel'}]
+
+>  <molecule_type>  (17) 
+Small molecule
+
+>  <natural_product>  (17) 
+1
+
+>  <oral>  (17) 
+True
+
+>  <parenteral>  (17) 
+False
+
+>  <polymer_flag>  (17) 
+0
+
+>  <pref_name>  (17) 
+DASATINIB
+
+>  <prodrug>  (17) 
+0
+
+>  <structure_type>  (17) 
+MOL
+
+>  <therapeutic_flag>  (17) 
+True
+
+>  <topical>  (17) 
+False
+
+>  <usan_stem>  (17) 
+-tinib
+
+>  <usan_stem_definition>  (17) 
+tyrosine kinase inhibitors
+
+>  <usan_substem>  (17) 
+-tinib
+
+>  <usan_year>  (17) 
+2005.0
+
+>  <withdrawn_flag>  (17) 
+False
+
+>  <smiles>  (17) 
+Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1
+
+>  <cluster>  (17) 
+-1
+
+$$$$
+CHEMBL1484
+     RDKit          2D
+
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+    5.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    7.7942    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+  9 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 11 26  1  0
+ 26 27  1  0
+ 27 28  2  0
+ 28 29  1  0
+ 29 30  2  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  2  0
+ 32 34  1  0
+ 31 35  2  0
+ 26  5  1  0
+ 35 27  1  0
+ 25 20  1  0
+M  CHG  2  32   1  34  -1
+M  END
+>  <Unnamed: 0>  (18) 
+18
+
+>  <atc_classifications>  (18) 
+['C08CA04']
+
+>  <availability_type>  (18) 
+1
+
+>  <biotherapeutic>  (18) 
+nan
+
+>  <black_box_warning>  (18) 
+0
+
+>  <chebi_par_id>  (18) 
+7550.0
+
+>  <chemical_probe>  (18) 
+0
+
+>  <chirality>  (18) 
+0
+
+>  <cross_references>  (18) 
+[{'xref_id': 'nicardipine%20hydrochloride', 'xref_name': 'nicardipine hydrochloride', 'xref_src': 'DailyMed'}, {'xref_id': '104171201', 'xref_name': 'SID: 104171201', 'xref_src': 'PubChem'}, {'xref_id': '124880905', 'xref_name': 'SID: 124880905', 'xref_src': 'PubChem'}, {'xref_id': '144203762', 'xref_name': 'SID: 144203762', 'xref_src': 'PubChem'}, {'xref_id': '170465173', 'xref_name': 'SID: 170465173', 'xref_src': 'PubChem'}, {'xref_id': '26755701', 'xref_name': 'SID: 26755701', 'xref_src': 'PubChem'}, {'xref_id': '26755702', 'xref_name': 'SID: 26755702', 'xref_src': 'PubChem'}, {'xref_id': '50111158', 'xref_name': 'SID: 50111158', 'xref_src': 'PubChem'}, {'xref_id': '50111159', 'xref_name': 'SID: 50111159', 'xref_src': 'PubChem'}, {'xref_id': '90340664', 'xref_name': 'SID: 90340664', 'xref_src': 'PubChem'}, {'xref_id': 'Nicardipine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (18) 
+False
+
+>  <first_approval>  (18) 
+1988.0
+
+>  <first_in_class>  (18) 
+0
+
+>  <helm_notation>  (18) 
+nan
+
+>  <indication_class>  (18) 
+Vasodilator
+
+>  <inorganic_flag>  (18) 
+0
+
+>  <max_phase>  (18) 
+4.0
+
+>  <molecule_hierarchy>  (18) 
+{'active_chembl_id': 'CHEMBL1484', 'molecule_chembl_id': 'CHEMBL1484', 'parent_chembl_id': 'CHEMBL1484'}
+
+>  <molecule_properties>  (18) 
+{'alogp': '3.68', 'aromatic_rings': 2, 'cx_logd': '2.78', 'cx_logp': '3.56', 'cx_most_apka': None, 'cx_most_bpka': '8.10', 'full_molformula': 'C26H29N3O6', 'full_mwt': '479.53', 'hba': 8, 'hba_lipinski': 9, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 35, 'molecular_species': 'NEUTRAL', 'mw_freebase': '479.53', 'mw_monoisotopic': '479.2056', 'np_likeness_score': '-1.11', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '111.01', 'qed_weighted': '0.33', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (18) 
+[{'molecule_synonym': 'Nicardipine', 'syn_type': 'FDA', 'synonyms': 'Nicardipine'}, {'molecule_synonym': 'Nicardipine', 'syn_type': 'ATC', 'synonyms': 'NICARDIPINE'}, {'molecule_synonym': 'Nicardipine', 'syn_type': 'BAN', 'synonyms': 'NICARDIPINE'}, {'molecule_synonym': 'Nicardipine', 'syn_type': 'INN', 'synonyms': 'NICARDIPINE'}, {'molecule_synonym': 'Nicardipine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'NICARDIPINE'}, {'molecule_synonym': 'Nicardipine', 'syn_type': 'OTHER', 'synonyms': 'NICARDIPINE'}, {'molecule_synonym': 'Nicardipine (stn)', 'syn_type': 'OTHER', 'synonyms': 'NICARDIPINE (STN)'}, {'molecule_synonym': 'Perpidine', 'syn_type': 'OTHER', 'synonyms': 'PERPIDINE'}]
+
+>  <molecule_type>  (18) 
+Small molecule
+
+>  <natural_product>  (18) 
+0
+
+>  <oral>  (18) 
+True
+
+>  <parenteral>  (18) 
+True
+
+>  <polymer_flag>  (18) 
+0
+
+>  <pref_name>  (18) 
+NICARDIPINE
+
+>  <prodrug>  (18) 
+0
+
+>  <structure_type>  (18) 
+MOL
+
+>  <therapeutic_flag>  (18) 
+True
+
+>  <topical>  (18) 
+False
+
+>  <usan_stem>  (18) 
+-dipine; -pine
+
+>  <usan_stem_definition>  (18) 
+phenylpyridine vasodilators; tricyclic compounds
+
+>  <usan_substem>  (18) 
+-dipine; -pine
+
+>  <usan_year>  (18) 
+1979.0
+
+>  <withdrawn_flag>  (18) 
+False
+
+>  <smiles>  (18) 
+COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1
+
+>  <cluster>  (18) 
+-1
+
+$$$$
+CHEMBL248779
+     RDKit          2D
+
+ 26 28  0  0  0  0  0  0  0  0999 V2000
+  -13.2499   -9.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1352  -10.3720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7086   -9.9084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3968   -8.4412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9702   -7.9777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8555   -8.9814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4289   -8.5179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1170   -7.0506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5757   -7.5908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1673  -10.4486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5939  -10.9121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9058  -12.3794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7911  -13.3831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+  6 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  1  0
+ 24  3  1  0
+ 22 14  1  0
+ 22 17  1  0
+M  END
+>  <Unnamed: 0>  (19) 
+19
+
+>  <atc_classifications>  (19) 
+[]
+
+>  <availability_type>  (19) 
+-1
+
+>  <biotherapeutic>  (19) 
+nan
+
+>  <black_box_warning>  (19) 
+0
+
+>  <chebi_par_id>  (19) 
+nan
+
+>  <chemical_probe>  (19) 
+0
+
+>  <chirality>  (19) 
+-1
+
+>  <cross_references>  (19) 
+[{'xref_id': '47204853', 'xref_name': 'SID: 47204853', 'xref_src': 'PubChem'}]
+
+>  <dosed_ingredient>  (19) 
+False
+
+>  <first_approval>  (19) 
+nan
+
+>  <first_in_class>  (19) 
+-1
+
+>  <helm_notation>  (19) 
+nan
+
+>  <indication_class>  (19) 
+nan
+
+>  <inorganic_flag>  (19) 
+-1
+
+>  <max_phase>  (19) 
+nan
+
+>  <molecule_hierarchy>  (19) 
+{'active_chembl_id': 'CHEMBL248779', 'molecule_chembl_id': 'CHEMBL248779', 'parent_chembl_id': 'CHEMBL248779'}
+
+>  <molecule_properties>  (19) 
+{'alogp': '3.56', 'aromatic_rings': 3, 'cx_logd': '3.35', 'cx_logp': '3.35', 'cx_most_apka': None, 'cx_most_bpka': None, 'full_molformula': 'C21H22N2O3', 'full_mwt': '350.42', 'hba': 3, 'hba_lipinski': 5, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 26, 'molecular_species': 'NEUTRAL', 'mw_freebase': '350.42', 'mw_monoisotopic': '350.1630', 'np_likeness_score': '-0.20', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '63.35', 'qed_weighted': '0.64', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (19) 
+[]
+
+>  <molecule_type>  (19) 
+Small molecule
+
+>  <natural_product>  (19) 
+0
+
+>  <oral>  (19) 
+False
+
+>  <parenteral>  (19) 
+False
+
+>  <polymer_flag>  (19) 
+0
+
+>  <pref_name>  (19) 
+nan
+
+>  <prodrug>  (19) 
+-1
+
+>  <structure_type>  (19) 
+MOL
+
+>  <therapeutic_flag>  (19) 
+False
+
+>  <topical>  (19) 
+False
+
+>  <usan_stem>  (19) 
+nan
+
+>  <usan_stem_definition>  (19) 
+nan
+
+>  <usan_substem>  (19) 
+nan
+
+>  <usan_year>  (19) 
+nan
+
+>  <withdrawn_flag>  (19) 
+False
+
+>  <smiles>  (19) 
+COc1ccc(/C=C/C(=O)NCCc2c[nH]c3ccccc23)cc1OC
+
+>  <cluster>  (19) 
+-1
+
+$$$$
+CHEMBL1491
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    6.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1155    3.5040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2268    4.0171    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+  7 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 19 20  1  0
+ 16 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 21  6  1  0
+ 27 22  1  0
+M  END
+>  <Unnamed: 0>  (20) 
+20
+
+>  <atc_classifications>  (20) 
+['C08CA01']
+
+>  <availability_type>  (20) 
+1
+
+>  <biotherapeutic>  (20) 
+nan
+
+>  <black_box_warning>  (20) 
+1
+
+>  <chebi_par_id>  (20) 
+2668.0
+
+>  <chemical_probe>  (20) 
+0
+
+>  <chirality>  (20) 
+0
+
+>  <cross_references>  (20) 
+[{'xref_id': 'amlodipine%20benzoate', 'xref_name': 'amlodipine benzoate', 'xref_src': 'DailyMed'}, {'xref_id': 'amlodipine%20besylate', 'xref_name': 'amlodipine besylate', 'xref_src': 'DailyMed'}, {'xref_id': '124893198', 'xref_name': 'SID: 124893198', 'xref_src': 'PubChem'}, {'xref_id': '225144262', 'xref_name': 'SID: 225144262', 'xref_src': 'PubChem'}, {'xref_id': '29217715', 'xref_name': 'SID: 29217715', 'xref_src': 'PubChem'}, {'xref_id': '50111725', 'xref_name': 'SID: 50111725', 'xref_src': 'PubChem'}, {'xref_id': 'Amlodipine', 'xref_name': None, 'xref_src': 'Wikipedia'}]
+
+>  <dosed_ingredient>  (20) 
+True
+
+>  <first_approval>  (20) 
+1992.0
+
+>  <first_in_class>  (20) 
+0
+
+>  <helm_notation>  (20) 
+nan
+
+>  <indication_class>  (20) 
+Antihypertensive; Anti-Anginal
+
+>  <inorganic_flag>  (20) 
+0
+
+>  <max_phase>  (20) 
+4.0
+
+>  <molecule_hierarchy>  (20) 
+{'active_chembl_id': 'CHEMBL1491', 'molecule_chembl_id': 'CHEMBL1491', 'parent_chembl_id': 'CHEMBL1491'}
+
+>  <molecule_properties>  (20) 
+{'alogp': '2.27', 'aromatic_rings': 1, 'cx_logd': '-0.37', 'cx_logp': '1.64', 'cx_most_apka': None, 'cx_most_bpka': '9.45', 'full_molformula': 'C20H25ClN2O5', 'full_mwt': '408.88', 'hba': 7, 'hba_lipinski': 7, 'hbd': 2, 'hbd_lipinski': 3, 'heavy_atoms': 28, 'molecular_species': 'BASE', 'mw_freebase': '408.88', 'mw_monoisotopic': '408.1452', 'np_likeness_score': '-0.78', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '99.88', 'qed_weighted': '0.50', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (20) 
+[{'molecule_synonym': 'Amlodipine', 'syn_type': 'ATC', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Amlodipine', 'syn_type': 'BAN', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Amlodipine', 'syn_type': 'BNF', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Amlodipine', 'syn_type': 'INN', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Amlodipine', 'syn_type': 'MERCK_INDEX', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Amlodipine', 'syn_type': 'OTHER', 'synonyms': 'AMLODIPINE'}, {'molecule_synonym': 'Astudal 5', 'syn_type': 'TRADE_NAME', 'synonyms': 'ASTUDAL 5'}, {'molecule_synonym': 'CKD-330 COMPONENT AMLODIPINE', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'CKD-330 COMPONENT AMLODIPINE'}, {'molecule_synonym': 'HGP0904', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'HGP0904'}, {'molecule_synonym': 'HGP-0904', 'syn_type': 'RESEARCH_CODE', 'synonyms': 'HGP-0904'}, {'molecule_synonym': 'Istin', 'syn_type': 'TRADE_NAME', 'synonyms': 'ISTIN'}, {'molecule_synonym': 'Norvas', 'syn_type': 'TRADE_NAME', 'synonyms': 'NORVAS'}, {'molecule_synonym': 'Norvasc', 'syn_type': 'TRADE_NAME', 'synonyms': 'NORVASC'}]
+
+>  <molecule_type>  (20) 
+Small molecule
+
+>  <natural_product>  (20) 
+1
+
+>  <oral>  (20) 
+True
+
+>  <parenteral>  (20) 
+False
+
+>  <polymer_flag>  (20) 
+0
+
+>  <pref_name>  (20) 
+AMLODIPINE
+
+>  <prodrug>  (20) 
+0
+
+>  <structure_type>  (20) 
+MOL
+
+>  <therapeutic_flag>  (20) 
+True
+
+>  <topical>  (20) 
+False
+
+>  <usan_stem>  (20) 
+-dipine; -pine
+
+>  <usan_stem_definition>  (20) 
+phenylpyridine vasodilators; tricyclic compounds
+
+>  <usan_substem>  (20) 
+-dipine; -pine
+
+>  <usan_year>  (20) 
+1986.0
+
+>  <withdrawn_flag>  (20) 
+False
+
+>  <smiles>  (20) 
+CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl
+
+>  <cluster>  (20) 
+-1
+
+$$$$
+CHEMBL444726
+     RDKit          2D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+    3.0000  -12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500  -11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -9.0933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+  8 19  1  0
+ 19 20  2  0
+ 20  5  1  0
+ 18  9  1  0
+ 16 11  1  0
+M  END
+>  <Unnamed: 0>  (21) 
+21
+
+>  <atc_classifications>  (21) 
+[]
+
+>  <availability_type>  (21) 
+-1
+
+>  <biotherapeutic>  (21) 
+nan
+
+>  <black_box_warning>  (21) 
+0
+
+>  <chebi_par_id>  (21) 
+nan
+
+>  <chemical_probe>  (21) 
+0
+
+>  <chirality>  (21) 
+-1
+
+>  <cross_references>  (21) 
+[]
+
+>  <dosed_ingredient>  (21) 
+False
+
+>  <first_approval>  (21) 
+nan
+
+>  <first_in_class>  (21) 
+-1
+
+>  <helm_notation>  (21) 
+nan
+
+>  <indication_class>  (21) 
+nan
+
+>  <inorganic_flag>  (21) 
+-1
+
+>  <max_phase>  (21) 
+nan
+
+>  <molecule_hierarchy>  (21) 
+{'active_chembl_id': 'CHEMBL444726', 'molecule_chembl_id': 'CHEMBL444726', 'parent_chembl_id': 'CHEMBL444726'}
+
+>  <molecule_properties>  (21) 
+{'alogp': '4.70', 'aromatic_rings': 2, 'cx_logd': '4.43', 'cx_logp': '4.43', 'cx_most_apka': None, 'cx_most_bpka': '1.37', 'full_molformula': 'C17H17NOS', 'full_mwt': '283.40', 'hba': 3, 'hba_lipinski': 2, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 20, 'molecular_species': 'NEUTRAL', 'mw_freebase': '283.40', 'mw_monoisotopic': '283.1031', 'np_likeness_score': '-1.04', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '21.59', 'qed_weighted': '0.81', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (21) 
+[]
+
+>  <molecule_type>  (21) 
+Small molecule
+
+>  <natural_product>  (21) 
+0
+
+>  <oral>  (21) 
+False
+
+>  <parenteral>  (21) 
+False
+
+>  <polymer_flag>  (21) 
+0
+
+>  <pref_name>  (21) 
+nan
+
+>  <prodrug>  (21) 
+-1
+
+>  <structure_type>  (21) 
+MOL
+
+>  <therapeutic_flag>  (21) 
+False
+
+>  <topical>  (21) 
+False
+
+>  <usan_stem>  (21) 
+nan
+
+>  <usan_stem_definition>  (21) 
+nan
+
+>  <usan_substem>  (21) 
+nan
+
+>  <usan_year>  (21) 
+nan
+
+>  <withdrawn_flag>  (21) 
+False
+
+>  <smiles>  (21) 
+CCCOc1ccc(C2=Nc3ccccc3SC2)cc1
+
+>  <cluster>  (21) 
+-1
+
+$$$$
+CHEMBL447756
+     RDKit          2D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    5.2500   -6.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -6.4952    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    3.0000   -7.7942    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    3.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2500    6.4952    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990    4.4462    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2010    5.9462    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 13 16  1  0
+ 12 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+  7 22  1  0
+ 22 23  2  0
+ 23  4  1  0
+ 21  8  1  0
+ 19 10  1  0
+M  CHG  2   2   1   3  -1
+M  END
+>  <Unnamed: 0>  (22) 
+22
+
+>  <atc_classifications>  (22) 
+[]
+
+>  <availability_type>  (22) 
+-1
+
+>  <biotherapeutic>  (22) 
+nan
+
+>  <black_box_warning>  (22) 
+0
+
+>  <chebi_par_id>  (22) 
+nan
+
+>  <chemical_probe>  (22) 
+0
+
+>  <chirality>  (22) 
+-1
+
+>  <cross_references>  (22) 
+[]
+
+>  <dosed_ingredient>  (22) 
+False
+
+>  <first_approval>  (22) 
+nan
+
+>  <first_in_class>  (22) 
+-1
+
+>  <helm_notation>  (22) 
+nan
+
+>  <indication_class>  (22) 
+nan
+
+>  <inorganic_flag>  (22) 
+-1
+
+>  <max_phase>  (22) 
+nan
+
+>  <molecule_hierarchy>  (22) 
+{'active_chembl_id': 'CHEMBL447756', 'molecule_chembl_id': 'CHEMBL447756', 'parent_chembl_id': 'CHEMBL447756'}
+
+>  <molecule_properties>  (22) 
+{'alogp': '4.84', 'aromatic_rings': 2, 'cx_logd': '4.53', 'cx_logp': '4.53', 'cx_most_apka': None, 'cx_most_bpka': '0.43', 'full_molformula': 'C15H9F3N2O2S', 'full_mwt': '338.31', 'hba': 4, 'hba_lipinski': 4, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 23, 'molecular_species': 'NEUTRAL', 'mw_freebase': '338.31', 'mw_monoisotopic': '338.0337', 'np_likeness_score': '-1.53', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '55.50', 'qed_weighted': '0.58', 'ro3_pass': 'N', 'rtb': 2}
+
+>  <molecule_synonyms>  (22) 
+[]
+
+>  <molecule_type>  (22) 
+Small molecule
+
+>  <natural_product>  (22) 
+0
+
+>  <oral>  (22) 
+False
+
+>  <parenteral>  (22) 
+False
+
+>  <polymer_flag>  (22) 
+0
+
+>  <pref_name>  (22) 
+nan
+
+>  <prodrug>  (22) 
+-1
+
+>  <structure_type>  (22) 
+MOL
+
+>  <therapeutic_flag>  (22) 
+False
+
+>  <topical>  (22) 
+False
+
+>  <usan_stem>  (22) 
+nan
+
+>  <usan_stem_definition>  (22) 
+nan
+
+>  <usan_substem>  (22) 
+nan
+
+>  <usan_year>  (22) 
+nan
+
+>  <withdrawn_flag>  (22) 
+False
+
+>  <smiles>  (22) 
+O=[N+]([O-])c1ccc(C2=Nc3cc(C(F)(F)F)ccc3SC2)cc1
+
+>  <cluster>  (22) 
+-1
+
+$$$$
+CHEMBL1478329
+     RDKit          2D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+   -2.6401   -5.5255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -5.9890    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -7.4156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -7.4156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -5.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 11 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+  6  2  1  0
+ 24  7  1  0
+ 23  9  1  0
+ 20 15  1  0
+M  END
+>  <Unnamed: 0>  (23) 
+29
+
+>  <atc_classifications>  (23) 
+[]
+
+>  <availability_type>  (23) 
+-1
+
+>  <biotherapeutic>  (23) 
+nan
+
+>  <black_box_warning>  (23) 
+0
+
+>  <chebi_par_id>  (23) 
+nan
+
+>  <chemical_probe>  (23) 
+0
+
+>  <chirality>  (23) 
+-1
+
+>  <cross_references>  (23) 
+[{'xref_id': '4254562', 'xref_name': 'SID: 4254562', 'xref_src': 'PubChem'}]
+
+>  <dosed_ingredient>  (23) 
+False
+
+>  <first_approval>  (23) 
+nan
+
+>  <first_in_class>  (23) 
+-1
+
+>  <helm_notation>  (23) 
+nan
+
+>  <indication_class>  (23) 
+nan
+
+>  <inorganic_flag>  (23) 
+-1
+
+>  <max_phase>  (23) 
+nan
+
+>  <molecule_hierarchy>  (23) 
+{'active_chembl_id': 'CHEMBL1478329', 'molecule_chembl_id': 'CHEMBL1478329', 'parent_chembl_id': 'CHEMBL1478329'}
+
+>  <molecule_properties>  (23) 
+{'alogp': '3.82', 'aromatic_rings': 4, 'cx_logd': '3.60', 'cx_logp': '3.60', 'cx_most_apka': '11.20', 'cx_most_bpka': '4.80', 'full_molformula': 'C19H16N4O', 'full_mwt': '316.36', 'hba': 3, 'hba_lipinski': 5, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 24, 'molecular_species': 'NEUTRAL', 'mw_freebase': '316.36', 'mw_monoisotopic': '316.1324', 'np_likeness_score': '-1.70', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '62.71', 'qed_weighted': '0.60', 'ro3_pass': 'N', 'rtb': 3}
+
+>  <molecule_synonyms>  (23) 
+[]
+
+>  <molecule_type>  (23) 
+Small molecule
+
+>  <natural_product>  (23) 
+0
+
+>  <oral>  (23) 
+False
+
+>  <parenteral>  (23) 
+False
+
+>  <polymer_flag>  (23) 
+0
+
+>  <pref_name>  (23) 
+nan
+
+>  <prodrug>  (23) 
+-1
+
+>  <structure_type>  (23) 
+MOL
+
+>  <therapeutic_flag>  (23) 
+False
+
+>  <topical>  (23) 
+False
+
+>  <usan_stem>  (23) 
+nan
+
+>  <usan_stem_definition>  (23) 
+nan
+
+>  <usan_substem>  (23) 
+nan
+
+>  <usan_year>  (23) 
+nan
+
+>  <withdrawn_flag>  (23) 
+False
+
+>  <smiles>  (23) 
+Cn1cccc1-c1nc2cc(NC(=O)c3ccccc3)ccc2[nH]1
+
+>  <cluster>  (23) 
+-1
+
+$$$$
+CHEMBL1492652
+     RDKit          2D
+
+ 26 29  0  0  0  0  0  0  0  0999 V2000
+   -2.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5490   -3.1471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0490   -4.6471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7537    2.4138    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1240    1.8037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4231    2.5537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7934    1.9435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7971    3.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0471    4.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5798    4.0454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4651    5.0491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9672    0.3119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+ 15 22  2  0
+ 22 23  1  0
+ 23 24  2  0
+  5 25  1  0
+ 25 26  2  0
+ 26  2  1  0
+ 24 10  1  0
+ 23 13  1  0
+ 20 16  1  0
+M  END
+>  <Unnamed: 0>  (24) 
+30
+
+>  <atc_classifications>  (24) 
+[]
+
+>  <availability_type>  (24) 
+-1
+
+>  <biotherapeutic>  (24) 
+nan
+
+>  <black_box_warning>  (24) 
+0
+
+>  <chebi_par_id>  (24) 
+nan
+
+>  <chemical_probe>  (24) 
+0
+
+>  <chirality>  (24) 
+-1
+
+>  <cross_references>  (24) 
+[{'xref_id': '4255395', 'xref_name': 'SID: 4255395', 'xref_src': 'PubChem'}]
+
+>  <dosed_ingredient>  (24) 
+False
+
+>  <first_approval>  (24) 
+nan
+
+>  <first_in_class>  (24) 
+-1
+
+>  <helm_notation>  (24) 
+nan
+
+>  <indication_class>  (24) 
+nan
+
+>  <inorganic_flag>  (24) 
+-1
+
+>  <max_phase>  (24) 
+nan
+
+>  <molecule_hierarchy>  (24) 
+{'active_chembl_id': 'CHEMBL1492652', 'molecule_chembl_id': 'CHEMBL1492652', 'parent_chembl_id': 'CHEMBL1492652'}
+
+>  <molecule_properties>  (24) 
+{'alogp': '3.68', 'aromatic_rings': 4, 'cx_logd': '3.38', 'cx_logp': '3.51', 'cx_most_apka': '7.82', 'cx_most_bpka': '5.41', 'full_molformula': 'C19H18N4O2S', 'full_mwt': '366.45', 'hba': 4, 'hba_lipinski': 6, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 26, 'molecular_species': 'NEUTRAL', 'mw_freebase': '366.45', 'mw_monoisotopic': '366.1150', 'np_likeness_score': '-1.90', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '79.78', 'qed_weighted': '0.58', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (24) 
+[]
+
+>  <molecule_type>  (24) 
+Small molecule
+
+>  <natural_product>  (24) 
+0
+
+>  <oral>  (24) 
+False
+
+>  <parenteral>  (24) 
+False
+
+>  <polymer_flag>  (24) 
+0
+
+>  <pref_name>  (24) 
+nan
+
+>  <prodrug>  (24) 
+-1
+
+>  <structure_type>  (24) 
+MOL
+
+>  <therapeutic_flag>  (24) 
+False
+
+>  <topical>  (24) 
+False
+
+>  <usan_stem>  (24) 
+nan
+
+>  <usan_stem_definition>  (24) 
+nan
+
+>  <usan_substem>  (24) 
+nan
+
+>  <usan_year>  (24) 
+nan
+
+>  <withdrawn_flag>  (24) 
+False
+
+>  <smiles>  (24) 
+Cc1ccc(S(=O)(=O)Nc2ccc3[nH]c(-c4cccn4C)nc3c2)cc1
+
+>  <cluster>  (24) 
+-1
+
+$$$$
+CHEMBL1650989
+     RDKit          2D
+
+ 26 28  0  0  0  0  0  0  0  0999 V2000
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  9 18  2  0
+  2 19  1  0
+ 19 20  1  1
+ 19 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  2  0
+ 18  5  1  0
+ 26 21  1  0
+ 17 12  1  0
+M  END
+>  <Unnamed: 0>  (25) 
+31
+
+>  <atc_classifications>  (25) 
+[]
+
+>  <availability_type>  (25) 
+-1
+
+>  <biotherapeutic>  (25) 
+nan
+
+>  <black_box_warning>  (25) 
+0
+
+>  <chebi_par_id>  (25) 
+nan
+
+>  <chemical_probe>  (25) 
+0
+
+>  <chirality>  (25) 
+-1
+
+>  <cross_references>  (25) 
+[]
+
+>  <dosed_ingredient>  (25) 
+False
+
+>  <first_approval>  (25) 
+nan
+
+>  <first_in_class>  (25) 
+-1
+
+>  <helm_notation>  (25) 
+nan
+
+>  <indication_class>  (25) 
+nan
+
+>  <inorganic_flag>  (25) 
+-1
+
+>  <max_phase>  (25) 
+nan
+
+>  <molecule_hierarchy>  (25) 
+{'active_chembl_id': 'CHEMBL1650989', 'molecule_chembl_id': 'CHEMBL1650989', 'parent_chembl_id': 'CHEMBL1650989'}
+
+>  <molecule_properties>  (25) 
+{'alogp': '4.48', 'aromatic_rings': 3, 'cx_logd': '3.12', 'cx_logp': '4.61', 'cx_most_apka': '13.89', 'cx_most_bpka': '8.88', 'full_molformula': 'C23H25NO2', 'full_mwt': '347.46', 'hba': 3, 'hba_lipinski': 3, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 26, 'molecular_species': 'BASE', 'mw_freebase': '347.46', 'mw_monoisotopic': '347.1885', 'np_likeness_score': '-0.51', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '41.49', 'qed_weighted': '0.63', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (25) 
+[]
+
+>  <molecule_type>  (25) 
+Small molecule
+
+>  <natural_product>  (25) 
+0
+
+>  <oral>  (25) 
+False
+
+>  <parenteral>  (25) 
+False
+
+>  <polymer_flag>  (25) 
+0
+
+>  <pref_name>  (25) 
+nan
+
+>  <prodrug>  (25) 
+-1
+
+>  <structure_type>  (25) 
+MOL
+
+>  <therapeutic_flag>  (25) 
+False
+
+>  <topical>  (25) 
+False
+
+>  <usan_stem>  (25) 
+nan
+
+>  <usan_stem_definition>  (25) 
+nan
+
+>  <usan_substem>  (25) 
+nan
+
+>  <usan_year>  (25) 
+nan
+
+>  <withdrawn_flag>  (25) 
+False
+
+>  <smiles>  (25) 
+C[C@@H](NCc1cccc(OCc2ccccc2)c1)[C@@H](O)c1ccccc1
+
+>  <cluster>  (25) 
+-1
+
+$$$$
+CHEMBL1650991
+     RDKit          2D
+
+ 29 31  0  0  0  0  0  0  0  0999 V2000
+    3.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.2990    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7500   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7500    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5000    5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.1962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0490    4.6471    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5490    3.1471    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  2  1  1
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 14 18  1  0
+ 18 19  2  0
+  8 20  2  0
+ 20 21  1  0
+ 21 22  3  0
+ 20 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 24 26  1  0
+ 24 27  1  0
+ 23 28  2  0
+ 28 29  1  0
+ 29  3  1  0
+ 28  6  1  0
+ 19 11  1  0
+M  END
+>  <Unnamed: 0>  (26) 
+32
+
+>  <atc_classifications>  (26) 
+[]
+
+>  <availability_type>  (26) 
+-1
+
+>  <biotherapeutic>  (26) 
+nan
+
+>  <black_box_warning>  (26) 
+0
+
+>  <chebi_par_id>  (26) 
+nan
+
+>  <chemical_probe>  (26) 
+0
+
+>  <chirality>  (26) 
+-1
+
+>  <cross_references>  (26) 
+[]
+
+>  <dosed_ingredient>  (26) 
+False
+
+>  <first_approval>  (26) 
+nan
+
+>  <first_in_class>  (26) 
+-1
+
+>  <helm_notation>  (26) 
+nan
+
+>  <indication_class>  (26) 
+nan
+
+>  <inorganic_flag>  (26) 
+-1
+
+>  <max_phase>  (26) 
+nan
+
+>  <molecule_hierarchy>  (26) 
+{'active_chembl_id': 'CHEMBL1650991', 'molecule_chembl_id': 'CHEMBL1650991', 'parent_chembl_id': 'CHEMBL1650991'}
+
+>  <molecule_properties>  (26) 
+{'alogp': '5.48', 'aromatic_rings': 2, 'cx_logd': '2.93', 'cx_logp': '6.05', 'cx_most_apka': '4.07', 'cx_most_bpka': '0.62', 'full_molformula': 'C21H19F3N2O2S', 'full_mwt': '420.46', 'hba': 4, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 29, 'molecular_species': 'ACID', 'mw_freebase': '420.46', 'mw_monoisotopic': '420.1119', 'np_likeness_score': '-1.08', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '73.98', 'qed_weighted': '0.65', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (26) 
+[]
+
+>  <molecule_type>  (26) 
+Small molecule
+
+>  <natural_product>  (26) 
+0
+
+>  <oral>  (26) 
+False
+
+>  <parenteral>  (26) 
+False
+
+>  <polymer_flag>  (26) 
+0
+
+>  <pref_name>  (26) 
+nan
+
+>  <prodrug>  (26) 
+-1
+
+>  <structure_type>  (26) 
+MOL
+
+>  <therapeutic_flag>  (26) 
+False
+
+>  <topical>  (26) 
+False
+
+>  <usan_stem>  (26) 
+nan
+
+>  <usan_stem_definition>  (26) 
+nan
+
+>  <usan_substem>  (26) 
+nan
+
+>  <usan_year>  (26) 
+nan
+
+>  <withdrawn_flag>  (26) 
+False
+
+>  <smiles>  (26) 
+CC[C@H]1CCc2nc(SCc3ccc(C(=O)O)cc3)c(C#N)c(C(F)(F)F)c2C1
+
+>  <cluster>  (26) 
+-1
+
+$$$$
+CHEMBL1650996
+     RDKit          2D
+
+ 27 29  0  0  0  0  0  0  0  0999 V2000
+    3.5761  -12.5951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3261  -11.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5761   -9.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0761   -9.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3261   -8.6980    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8179   -8.5412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8216   -9.6559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1298   -7.0740    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8308   -6.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6740   -4.8322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3037   -4.2221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -4.9721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8899   -3.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9918   -2.7549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7160   -7.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2488   -7.0158    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  6
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 17 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 14 25  1  0
+  9 26  1  0
+ 26 27  2  0
+ 26  5  1  0
+ 25 11  1  0
+ 23 15  1  0
+M  END
+>  <Unnamed: 0>  (27) 
+33
+
+>  <atc_classifications>  (27) 
+[]
+
+>  <availability_type>  (27) 
+-1
+
+>  <biotherapeutic>  (27) 
+nan
+
+>  <black_box_warning>  (27) 
+0
+
+>  <chebi_par_id>  (27) 
+nan
+
+>  <chemical_probe>  (27) 
+0
+
+>  <chirality>  (27) 
+-1
+
+>  <cross_references>  (27) 
+[]
+
+>  <dosed_ingredient>  (27) 
+False
+
+>  <first_approval>  (27) 
+nan
+
+>  <first_in_class>  (27) 
+-1
+
+>  <helm_notation>  (27) 
+nan
+
+>  <indication_class>  (27) 
+nan
+
+>  <inorganic_flag>  (27) 
+-1
+
+>  <max_phase>  (27) 
+nan
+
+>  <molecule_hierarchy>  (27) 
+{'active_chembl_id': 'CHEMBL1650996', 'molecule_chembl_id': 'CHEMBL1650996', 'parent_chembl_id': 'CHEMBL1650996'}
+
+>  <molecule_properties>  (27) 
+{'alogp': '5.13', 'aromatic_rings': 2, 'cx_logd': '1.08', 'cx_logp': '4.26', 'cx_most_apka': '3.97', 'cx_most_bpka': None, 'full_molformula': 'C19H16ClNO5S', 'full_mwt': '405.86', 'hba': 5, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 27, 'molecular_species': 'ACID', 'mw_freebase': '405.86', 'mw_monoisotopic': '405.0438', 'np_likeness_score': '-1.49', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '87.82', 'qed_weighted': '0.69', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (27) 
+[]
+
+>  <molecule_type>  (27) 
+Small molecule
+
+>  <natural_product>  (27) 
+0
+
+>  <oral>  (27) 
+False
+
+>  <parenteral>  (27) 
+False
+
+>  <polymer_flag>  (27) 
+0
+
+>  <pref_name>  (27) 
+nan
+
+>  <prodrug>  (27) 
+-1
+
+>  <structure_type>  (27) 
+MOL
+
+>  <therapeutic_flag>  (27) 
+False
+
+>  <topical>  (27) 
+False
+
+>  <usan_stem>  (27) 
+nan
+
+>  <usan_stem_definition>  (27) 
+nan
+
+>  <usan_substem>  (27) 
+nan
+
+>  <usan_year>  (27) 
+nan
+
+>  <withdrawn_flag>  (27) 
+False
+
+>  <smiles>  (27) 
+CC[C@H](C)N1C(=O)S/C(=C/c2ccc(-c3cc(C(=O)O)ccc3Cl)o2)C1=O
+
+>  <cluster>  (27) 
+-1
+
+$$$$
+CHEMBL1651009
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+   -2.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5490   -3.1471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0490   -4.6471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7537    2.4138    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1240    1.8037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4231    2.5537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7934    1.9435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7971    3.0583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0471    4.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5798    4.0454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9672    0.3119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 15 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+  5 24  1  0
+ 24 25  2  0
+ 25  2  1  0
+ 23 10  1  0
+ 22 13  1  0
+ 20 16  1  0
+M  END
+>  <Unnamed: 0>  (28) 
+34
+
+>  <atc_classifications>  (28) 
+[]
+
+>  <availability_type>  (28) 
+-1
+
+>  <biotherapeutic>  (28) 
+nan
+
+>  <black_box_warning>  (28) 
+0
+
+>  <chebi_par_id>  (28) 
+nan
+
+>  <chemical_probe>  (28) 
+0
+
+>  <chirality>  (28) 
+-1
+
+>  <cross_references>  (28) 
+[]
+
+>  <dosed_ingredient>  (28) 
+False
+
+>  <first_approval>  (28) 
+nan
+
+>  <first_in_class>  (28) 
+-1
+
+>  <helm_notation>  (28) 
+nan
+
+>  <indication_class>  (28) 
+nan
+
+>  <inorganic_flag>  (28) 
+-1
+
+>  <max_phase>  (28) 
+nan
+
+>  <molecule_hierarchy>  (28) 
+{'active_chembl_id': 'CHEMBL1651009', 'molecule_chembl_id': 'CHEMBL1651009', 'parent_chembl_id': 'CHEMBL1651009'}
+
+>  <molecule_properties>  (28) 
+{'alogp': '3.93', 'aromatic_rings': 4, 'cx_logd': '3.22', 'cx_logp': '3.35', 'cx_most_apka': '7.81', 'cx_most_bpka': '4.53', 'full_molformula': 'C18H15N3O3S', 'full_mwt': '353.40', 'hba': 4, 'hba_lipinski': 6, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 25, 'molecular_species': 'NEUTRAL', 'mw_freebase': '353.40', 'mw_monoisotopic': '353.0834', 'np_likeness_score': '-1.98', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '87.99', 'qed_weighted': '0.58', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (28) 
+[]
+
+>  <molecule_type>  (28) 
+Small molecule
+
+>  <natural_product>  (28) 
+0
+
+>  <oral>  (28) 
+False
+
+>  <parenteral>  (28) 
+False
+
+>  <polymer_flag>  (28) 
+0
+
+>  <pref_name>  (28) 
+nan
+
+>  <prodrug>  (28) 
+-1
+
+>  <structure_type>  (28) 
+MOL
+
+>  <therapeutic_flag>  (28) 
+False
+
+>  <topical>  (28) 
+False
+
+>  <usan_stem>  (28) 
+nan
+
+>  <usan_stem_definition>  (28) 
+nan
+
+>  <usan_substem>  (28) 
+nan
+
+>  <usan_year>  (28) 
+nan
+
+>  <withdrawn_flag>  (28) 
+False
+
+>  <smiles>  (28) 
+Cc1ccc(S(=O)(=O)Nc2ccc3[nH]c(-c4ccco4)nc3c2)cc1
+
+>  <cluster>  (28) 
+-1
+
+$$$$
+CHEMBL1651010
+     RDKit          2D
+
+ 25 27  0  0  0  0  0  0  0  0999 V2000
+   -0.7500   -6.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 10 19  2  0
+  2 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 19  6  1  0
+ 25 20  1  0
+ 18 13  1  0
+M  END
+>  <Unnamed: 0>  (29) 
+35
+
+>  <atc_classifications>  (29) 
+[]
+
+>  <availability_type>  (29) 
+-1
+
+>  <biotherapeutic>  (29) 
+nan
+
+>  <black_box_warning>  (29) 
+0
+
+>  <chebi_par_id>  (29) 
+nan
+
+>  <chemical_probe>  (29) 
+0
+
+>  <chirality>  (29) 
+-1
+
+>  <cross_references>  (29) 
+[]
+
+>  <dosed_ingredient>  (29) 
+False
+
+>  <first_approval>  (29) 
+nan
+
+>  <first_in_class>  (29) 
+-1
+
+>  <helm_notation>  (29) 
+nan
+
+>  <indication_class>  (29) 
+nan
+
+>  <inorganic_flag>  (29) 
+-1
+
+>  <max_phase>  (29) 
+nan
+
+>  <molecule_hierarchy>  (29) 
+{'active_chembl_id': 'CHEMBL1651010', 'molecule_chembl_id': 'CHEMBL1651010', 'parent_chembl_id': 'CHEMBL1651010'}
+
+>  <molecule_properties>  (29) 
+{'alogp': '4.09', 'aromatic_rings': 3, 'cx_logd': '2.79', 'cx_logp': '4.19', 'cx_most_apka': None, 'cx_most_bpka': '8.79', 'full_molformula': 'C22H23NO2', 'full_mwt': '333.43', 'hba': 3, 'hba_lipinski': 3, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 25, 'molecular_species': 'BASE', 'mw_freebase': '333.43', 'mw_monoisotopic': '333.1729', 'np_likeness_score': '-0.70', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '41.49', 'qed_weighted': '0.65', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (29) 
+[]
+
+>  <molecule_type>  (29) 
+Small molecule
+
+>  <natural_product>  (29) 
+0
+
+>  <oral>  (29) 
+False
+
+>  <parenteral>  (29) 
+False
+
+>  <polymer_flag>  (29) 
+0
+
+>  <pref_name>  (29) 
+nan
+
+>  <prodrug>  (29) 
+-1
+
+>  <structure_type>  (29) 
+MOL
+
+>  <therapeutic_flag>  (29) 
+False
+
+>  <topical>  (29) 
+False
+
+>  <usan_stem>  (29) 
+nan
+
+>  <usan_stem_definition>  (29) 
+nan
+
+>  <usan_substem>  (29) 
+nan
+
+>  <usan_year>  (29) 
+nan
+
+>  <withdrawn_flag>  (29) 
+False
+
+>  <smiles>  (29) 
+OC(CNCc1cccc(OCc2ccccc2)c1)c1ccccc1
+
+>  <cluster>  (29) 
+-1
+
+$$$$
+CHEMBL1651013
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+    3.6964    6.0835    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6761    4.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6559    3.8844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1935    4.2182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2487    5.6515    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7110    5.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1532    7.4187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1329    8.5182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5750    9.9516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0374   10.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4796   11.7187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9420   12.0525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4593   12.8183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0577    9.1858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6156    7.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8268    3.1186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3846    1.6852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0777    1.3515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0980    2.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5604    2.1172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0228    1.7835    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8942    3.5796    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2266    0.6549    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7286    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0777   -1.3515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3846   -1.6852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5574   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5574    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 10 14  1  0
+ 14 15  2  0
+  4 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 20 23  1  0
+ 18 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 19  3  1  0
+ 15  7  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (30) 
+36
+
+>  <atc_classifications>  (30) 
+[]
+
+>  <availability_type>  (30) 
+-1
+
+>  <biotherapeutic>  (30) 
+nan
+
+>  <black_box_warning>  (30) 
+0
+
+>  <chebi_par_id>  (30) 
+nan
+
+>  <chemical_probe>  (30) 
+0
+
+>  <chirality>  (30) 
+-1
+
+>  <cross_references>  (30) 
+[]
+
+>  <dosed_ingredient>  (30) 
+False
+
+>  <first_approval>  (30) 
+nan
+
+>  <first_in_class>  (30) 
+-1
+
+>  <helm_notation>  (30) 
+nan
+
+>  <indication_class>  (30) 
+nan
+
+>  <inorganic_flag>  (30) 
+-1
+
+>  <max_phase>  (30) 
+nan
+
+>  <molecule_hierarchy>  (30) 
+{'active_chembl_id': 'CHEMBL1651013', 'molecule_chembl_id': 'CHEMBL1651013', 'parent_chembl_id': 'CHEMBL1651013'}
+
+>  <molecule_properties>  (30) 
+{'alogp': '5.23', 'aromatic_rings': 2, 'cx_logd': '2.64', 'cx_logp': '5.76', 'cx_most_apka': '4.07', 'cx_most_bpka': '0.63', 'full_molformula': 'C20H17F3N2O2S', 'full_mwt': '406.43', 'hba': 4, 'hba_lipinski': 4, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 28, 'molecular_species': 'ACID', 'mw_freebase': '406.43', 'mw_monoisotopic': '406.0963', 'np_likeness_score': '-1.33', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '73.98', 'qed_weighted': '0.56', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (30) 
+[]
+
+>  <molecule_type>  (30) 
+Small molecule
+
+>  <natural_product>  (30) 
+0
+
+>  <oral>  (30) 
+False
+
+>  <parenteral>  (30) 
+False
+
+>  <polymer_flag>  (30) 
+0
+
+>  <pref_name>  (30) 
+nan
+
+>  <prodrug>  (30) 
+-1
+
+>  <structure_type>  (30) 
+MOL
+
+>  <therapeutic_flag>  (30) 
+False
+
+>  <topical>  (30) 
+False
+
+>  <usan_stem>  (30) 
+nan
+
+>  <usan_stem_definition>  (30) 
+nan
+
+>  <usan_substem>  (30) 
+nan
+
+>  <usan_year>  (30) 
+nan
+
+>  <withdrawn_flag>  (30) 
+False
+
+>  <smiles>  (30) 
+N#Cc1c(SCc2ccc(C(=O)O)cc2)nc2c(c1C(F)(F)F)CCCCC2
+
+>  <cluster>  (30) 
+-1
+
+$$$$
+CHEMBL1651019
+     RDKit          2D
+
+ 27 29  0  0  0  0  0  0  0  0999 V2000
+    9.2925  -10.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2888   -9.3440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8216   -9.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3581  -11.0825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8179   -8.5412    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3261   -8.6980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5761   -9.9970    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7160   -7.3277    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8308   -6.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6740   -4.8322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3037   -4.2221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -4.9721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8899   -3.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    3.8971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9918   -2.7549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1298   -7.0740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5001   -6.4639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 17 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 14 25  1  0
+  9 26  1  0
+ 26 27  2  0
+ 26  5  1  0
+ 25 11  1  0
+ 23 15  1  0
+M  END
+>  <Unnamed: 0>  (31) 
+37
+
+>  <atc_classifications>  (31) 
+[]
+
+>  <availability_type>  (31) 
+-1
+
+>  <biotherapeutic>  (31) 
+nan
+
+>  <black_box_warning>  (31) 
+0
+
+>  <chebi_par_id>  (31) 
+nan
+
+>  <chemical_probe>  (31) 
+0
+
+>  <chirality>  (31) 
+-1
+
+>  <cross_references>  (31) 
+[]
+
+>  <dosed_ingredient>  (31) 
+False
+
+>  <first_approval>  (31) 
+nan
+
+>  <first_in_class>  (31) 
+-1
+
+>  <helm_notation>  (31) 
+nan
+
+>  <indication_class>  (31) 
+nan
+
+>  <inorganic_flag>  (31) 
+-1
+
+>  <max_phase>  (31) 
+nan
+
+>  <molecule_hierarchy>  (31) 
+{'active_chembl_id': 'CHEMBL1651019', 'molecule_chembl_id': 'CHEMBL1651019', 'parent_chembl_id': 'CHEMBL1651019'}
+
+>  <molecule_properties>  (31) 
+{'alogp': '5.13', 'aromatic_rings': 2, 'cx_logd': '1.08', 'cx_logp': '4.26', 'cx_most_apka': '3.97', 'cx_most_bpka': None, 'full_molformula': 'C19H16ClNO5S', 'full_mwt': '405.86', 'hba': 5, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 27, 'molecular_species': 'ACID', 'mw_freebase': '405.86', 'mw_monoisotopic': '405.0438', 'np_likeness_score': '-1.49', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '87.82', 'qed_weighted': '0.69', 'ro3_pass': 'N', 'rtb': 5}
+
+>  <molecule_synonyms>  (31) 
+[]
+
+>  <molecule_type>  (31) 
+Small molecule
+
+>  <natural_product>  (31) 
+0
+
+>  <oral>  (31) 
+False
+
+>  <parenteral>  (31) 
+False
+
+>  <polymer_flag>  (31) 
+0
+
+>  <pref_name>  (31) 
+nan
+
+>  <prodrug>  (31) 
+-1
+
+>  <structure_type>  (31) 
+MOL
+
+>  <therapeutic_flag>  (31) 
+False
+
+>  <topical>  (31) 
+False
+
+>  <usan_stem>  (31) 
+nan
+
+>  <usan_stem_definition>  (31) 
+nan
+
+>  <usan_substem>  (31) 
+nan
+
+>  <usan_year>  (31) 
+nan
+
+>  <withdrawn_flag>  (31) 
+False
+
+>  <smiles>  (31) 
+CCC(C)N1C(=O)S/C(=C\c2ccc(-c3cc(C(=O)O)ccc3Cl)o2)C1=O
+
+>  <cluster>  (31) 
+-1
+
+$$$$
+CHEMBL1651022
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+   -0.2758   10.5570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8389    9.5533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2655   10.0169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3802    9.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0684    7.5459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1831    6.5422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8712    5.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9859    4.0713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4125    4.5348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5272    3.5312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7244    6.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6097    7.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6418    7.0824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299    5.6152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0967    5.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4086    3.6844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8351    3.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1470    1.7537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943    1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7062    2.6807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2760    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3943   -1.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271    8.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+  9 11  1  0
+ 11 12  2  0
+  5 13  1  0
+ 13 14  1  1
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 13 25  1  0
+ 25  2  1  0
+ 12  6  1  0
+ 21 16  1  0
+ 24 19  1  0
+M  END
+>  <Unnamed: 0>  (32) 
+38
+
+>  <atc_classifications>  (32) 
+[]
+
+>  <availability_type>  (32) 
+-1
+
+>  <biotherapeutic>  (32) 
+nan
+
+>  <black_box_warning>  (32) 
+0
+
+>  <chebi_par_id>  (32) 
+nan
+
+>  <chemical_probe>  (32) 
+0
+
+>  <chirality>  (32) 
+-1
+
+>  <cross_references>  (32) 
+[]
+
+>  <dosed_ingredient>  (32) 
+False
+
+>  <first_approval>  (32) 
+nan
+
+>  <first_in_class>  (32) 
+-1
+
+>  <helm_notation>  (32) 
+nan
+
+>  <indication_class>  (32) 
+nan
+
+>  <inorganic_flag>  (32) 
+-1
+
+>  <max_phase>  (32) 
+nan
+
+>  <molecule_hierarchy>  (32) 
+{'active_chembl_id': 'CHEMBL1651022', 'molecule_chembl_id': 'CHEMBL1651022', 'parent_chembl_id': 'CHEMBL1651022'}
+
+>  <molecule_properties>  (32) 
+{'alogp': '3.67', 'aromatic_rings': 2, 'cx_logd': '2.17', 'cx_logp': '3.53', 'cx_most_apka': None, 'cx_most_bpka': '8.75', 'full_molformula': 'C20H22FNO3', 'full_mwt': '343.40', 'hba': 4, 'hba_lipinski': 4, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 25, 'molecular_species': 'BASE', 'mw_freebase': '343.40', 'mw_monoisotopic': '343.1584', 'np_likeness_score': '-0.20', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '30.93', 'qed_weighted': '0.85', 'ro3_pass': 'N', 'rtb': 4}
+
+>  <molecule_synonyms>  (32) 
+[]
+
+>  <molecule_type>  (32) 
+Small molecule
+
+>  <natural_product>  (32) 
+1
+
+>  <oral>  (32) 
+False
+
+>  <parenteral>  (32) 
+False
+
+>  <polymer_flag>  (32) 
+0
+
+>  <pref_name>  (32) 
+nan
+
+>  <prodrug>  (32) 
+-1
+
+>  <structure_type>  (32) 
+MOL
+
+>  <therapeutic_flag>  (32) 
+False
+
+>  <topical>  (32) 
+False
+
+>  <usan_stem>  (32) 
+nan
+
+>  <usan_stem_definition>  (32) 
+nan
+
+>  <usan_substem>  (32) 
+nan
+
+>  <usan_year>  (32) 
+nan
+
+>  <withdrawn_flag>  (32) 
+False
+
+>  <smiles>  (32) 
+CN1CC[C@H](c2ccc(F)cc2)[C@@H](COc2ccc3c(c2)OCO3)C1
+
+>  <cluster>  (32) 
+-1
+
+$$$$
+CHEMBL1651163
+     RDKit          2D
+
+ 29 32  0  0  0  0  0  0  0  0999 V2000
+   -7.5000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   -9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   -9.0933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   -1.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+  8 28  1  0
+ 28 29  2  0
+ 29  5  1  0
+ 19  9  1  0
+ 27 22  1  0
+ 18 13  1  0
+M  END
+>  <Unnamed: 0>  (33) 
+39
+
+>  <atc_classifications>  (33) 
+[]
+
+>  <availability_type>  (33) 
+-1
+
+>  <biotherapeutic>  (33) 
+nan
+
+>  <black_box_warning>  (33) 
+0
+
+>  <chebi_par_id>  (33) 
+nan
+
+>  <chemical_probe>  (33) 
+0
+
+>  <chirality>  (33) 
+-1
+
+>  <cross_references>  (33) 
+[]
+
+>  <dosed_ingredient>  (33) 
+False
+
+>  <first_approval>  (33) 
+nan
+
+>  <first_in_class>  (33) 
+-1
+
+>  <helm_notation>  (33) 
+nan
+
+>  <indication_class>  (33) 
+nan
+
+>  <inorganic_flag>  (33) 
+-1
+
+>  <max_phase>  (33) 
+nan
+
+>  <molecule_hierarchy>  (33) 
+{'active_chembl_id': 'CHEMBL1651163', 'molecule_chembl_id': 'CHEMBL1651163', 'parent_chembl_id': 'CHEMBL1651163'}
+
+>  <molecule_properties>  (33) 
+{'alogp': '4.94', 'aromatic_rings': 3, 'cx_logd': '3.21', 'cx_logp': '4.67', 'cx_most_apka': None, 'cx_most_bpka': '8.85', 'full_molformula': 'C25H30N2O2', 'full_mwt': '390.53', 'hba': 4, 'hba_lipinski': 4, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 29, 'molecular_species': 'BASE', 'mw_freebase': '390.53', 'mw_monoisotopic': '390.2307', 'np_likeness_score': '-0.88', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '34.47', 'qed_weighted': '0.57', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (33) 
+[]
+
+>  <molecule_type>  (33) 
+Small molecule
+
+>  <natural_product>  (33) 
+0
+
+>  <oral>  (33) 
+False
+
+>  <parenteral>  (33) 
+False
+
+>  <polymer_flag>  (33) 
+0
+
+>  <pref_name>  (33) 
+nan
+
+>  <prodrug>  (33) 
+-1
+
+>  <structure_type>  (33) 
+MOL
+
+>  <therapeutic_flag>  (33) 
+False
+
+>  <topical>  (33) 
+False
+
+>  <usan_stem>  (33) 
+nan
+
+>  <usan_stem_definition>  (33) 
+nan
+
+>  <usan_substem>  (33) 
+nan
+
+>  <usan_year>  (33) 
+nan
+
+>  <withdrawn_flag>  (33) 
+False
+
+>  <smiles>  (33) 
+CCCOc1ccc(-c2cc(=O)c3ccccc3n2CCN2CCCCC2)cc1
+
+>  <cluster>  (33) 
+-1
+
+$$$$
+CHEMBL2048632
+     RDKit          2D
+
+ 31 35  0  0  0  0  0  0  0  0999 V2000
+    7.1142    2.5721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4261    1.1048    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    8.8527    0.6413    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    6.3114    0.1011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6232   -1.3661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5085   -2.3698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0819   -1.9062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9672   -2.9099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1240   -4.4017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7537   -5.0118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418   -6.4791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0152   -6.9426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2966   -8.4098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8181   -9.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5062  -10.8807    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2447   -8.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5565   -7.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   -2.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6491   -3.5623    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6491   -1.6339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -3.8971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7701   -0.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8848    0.5647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+ 10 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 26 28  2  0
+ 26 29  1  0
+  7 30  1  0
+ 30 31  2  0
+ 31  4  1  0
+ 19  8  1  0
+ 25 20  1  0
+ 17 11  1  0
+ 29 18  1  0
+M  CHG  2   2   1   3  -1
+M  END
+>  <Unnamed: 0>  (34) 
+49
+
+>  <atc_classifications>  (34) 
+[]
+
+>  <availability_type>  (34) 
+-1
+
+>  <biotherapeutic>  (34) 
+nan
+
+>  <black_box_warning>  (34) 
+0
+
+>  <chebi_par_id>  (34) 
+nan
+
+>  <chemical_probe>  (34) 
+0
+
+>  <chirality>  (34) 
+-1
+
+>  <cross_references>  (34) 
+[]
+
+>  <dosed_ingredient>  (34) 
+False
+
+>  <first_approval>  (34) 
+nan
+
+>  <first_in_class>  (34) 
+-1
+
+>  <helm_notation>  (34) 
+nan
+
+>  <indication_class>  (34) 
+nan
+
+>  <inorganic_flag>  (34) 
+-1
+
+>  <max_phase>  (34) 
+nan
+
+>  <molecule_hierarchy>  (34) 
+{'active_chembl_id': 'CHEMBL2048632', 'molecule_chembl_id': 'CHEMBL2048632', 'parent_chembl_id': 'CHEMBL2048632'}
+
+>  <molecule_properties>  (34) 
+{'alogp': '4.88', 'aromatic_rings': 4, 'cx_logd': '4.37', 'cx_logp': '4.72', 'cx_most_apka': '7.17', 'cx_most_bpka': None, 'full_molformula': 'C21H13ClN4O4S', 'full_mwt': '452.88', 'hba': 6, 'hba_lipinski': 8, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 31, 'molecular_species': 'NEUTRAL', 'mw_freebase': '452.88', 'mw_monoisotopic': '452.0346', 'np_likeness_score': '-1.49', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '107.13', 'qed_weighted': '0.35', 'ro3_pass': 'N', 'rtb': 3}
+
+>  <molecule_synonyms>  (34) 
+[]
+
+>  <molecule_type>  (34) 
+Small molecule
+
+>  <natural_product>  (34) 
+0
+
+>  <oral>  (34) 
+False
+
+>  <parenteral>  (34) 
+False
+
+>  <polymer_flag>  (34) 
+0
+
+>  <pref_name>  (34) 
+nan
+
+>  <prodrug>  (34) 
+-1
+
+>  <structure_type>  (34) 
+MOL
+
+>  <therapeutic_flag>  (34) 
+False
+
+>  <topical>  (34) 
+False
+
+>  <usan_stem>  (34) 
+nan
+
+>  <usan_stem_definition>  (34) 
+nan
+
+>  <usan_substem>  (34) 
+nan
+
+>  <usan_year>  (34) 
+nan
+
+>  <withdrawn_flag>  (34) 
+False
+
+>  <smiles>  (34) 
+O=[N+]([O-])c1ccc(-n2nc(-c3ccc(Cl)cc3)c3c2-c2ccccc2S(=O)(=O)N3)cc1
+
+>  <cluster>  (34) 
+-1
+
+$$$$
+CHEMBL3774968
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -6.1170   -7.0506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8373   -5.6601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9958    7.6821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0161    8.7817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7925   10.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4935   11.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0972   10.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6550    9.0336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 10 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 21 33  1  0
+ 33 34  2  0
+ 34  7  1  0
+ 17 12  1  0
+ 34 18  1  0
+ 32 26  1  0
+M  END
+>  <Unnamed: 0>  (35) 
+84
+
+>  <atc_classifications>  (35) 
+[]
+
+>  <availability_type>  (35) 
+-1
+
+>  <biotherapeutic>  (35) 
+nan
+
+>  <black_box_warning>  (35) 
+0
+
+>  <chebi_par_id>  (35) 
+nan
+
+>  <chemical_probe>  (35) 
+0
+
+>  <chirality>  (35) 
+-1
+
+>  <cross_references>  (35) 
+[]
+
+>  <dosed_ingredient>  (35) 
+False
+
+>  <first_approval>  (35) 
+nan
+
+>  <first_in_class>  (35) 
+-1
+
+>  <helm_notation>  (35) 
+nan
+
+>  <indication_class>  (35) 
+nan
+
+>  <inorganic_flag>  (35) 
+-1
+
+>  <max_phase>  (35) 
+nan
+
+>  <molecule_hierarchy>  (35) 
+{'active_chembl_id': 'CHEMBL3774968', 'molecule_chembl_id': 'CHEMBL3774968', 'parent_chembl_id': 'CHEMBL3774968'}
+
+>  <molecule_properties>  (35) 
+{'alogp': '5.75', 'aromatic_rings': 3, 'cx_logd': '3.32', 'cx_logp': '5.58', 'cx_most_apka': None, 'cx_most_bpka': '9.68', 'full_molformula': 'C29H38N2O3', 'full_mwt': '462.63', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '462.63', 'mw_monoisotopic': '462.2882', 'np_likeness_score': '-1.12', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.28', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (35) 
+[]
+
+>  <molecule_type>  (35) 
+Small molecule
+
+>  <natural_product>  (35) 
+0
+
+>  <oral>  (35) 
+False
+
+>  <parenteral>  (35) 
+False
+
+>  <polymer_flag>  (35) 
+0
+
+>  <pref_name>  (35) 
+nan
+
+>  <prodrug>  (35) 
+-1
+
+>  <structure_type>  (35) 
+MOL
+
+>  <therapeutic_flag>  (35) 
+False
+
+>  <topical>  (35) 
+False
+
+>  <usan_stem>  (35) 
+nan
+
+>  <usan_stem_definition>  (35) 
+nan
+
+>  <usan_substem>  (35) 
+nan
+
+>  <usan_year>  (35) 
+nan
+
+>  <withdrawn_flag>  (35) 
+False
+
+>  <smiles>  (35) 
+CCOC(=O)Cc1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCCCCC3)cc12
+
+>  <cluster>  (35) 
+-1
+
+$$$$
+CHEMBL3775722
+     RDKit          2D
+
+ 27 30  0  0  0  0  0  0  0  0999 V2000
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000    5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4430   -0.7182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5577    0.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9843   -0.1781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2961   -1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1814   -2.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+  6 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 20  2  1  0
+ 27 22  1  0
+ 19  4  1  0
+ 16 11  1  0
+M  END
+>  <Unnamed: 0>  (36) 
+85
+
+>  <atc_classifications>  (36) 
+[]
+
+>  <availability_type>  (36) 
+-1
+
+>  <biotherapeutic>  (36) 
+nan
+
+>  <black_box_warning>  (36) 
+0
+
+>  <chebi_par_id>  (36) 
+nan
+
+>  <chemical_probe>  (36) 
+0
+
+>  <chirality>  (36) 
+-1
+
+>  <cross_references>  (36) 
+[]
+
+>  <dosed_ingredient>  (36) 
+False
+
+>  <first_approval>  (36) 
+nan
+
+>  <first_in_class>  (36) 
+-1
+
+>  <helm_notation>  (36) 
+nan
+
+>  <indication_class>  (36) 
+nan
+
+>  <inorganic_flag>  (36) 
+-1
+
+>  <max_phase>  (36) 
+nan
+
+>  <molecule_hierarchy>  (36) 
+{'active_chembl_id': 'CHEMBL3775722', 'molecule_chembl_id': 'CHEMBL3775722', 'parent_chembl_id': 'CHEMBL3775722'}
+
+>  <molecule_properties>  (36) 
+{'alogp': '5.25', 'aromatic_rings': 3, 'cx_logd': '3.18', 'cx_logp': '4.99', 'cx_most_apka': None, 'cx_most_bpka': '9.22', 'full_molformula': 'C24H30N2O', 'full_mwt': '362.52', 'hba': 3, 'hba_lipinski': 3, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 27, 'molecular_species': 'BASE', 'mw_freebase': '362.52', 'mw_monoisotopic': '362.2358', 'np_likeness_score': '-1.46', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '17.40', 'qed_weighted': '0.53', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (36) 
+[]
+
+>  <molecule_type>  (36) 
+Small molecule
+
+>  <natural_product>  (36) 
+0
+
+>  <oral>  (36) 
+False
+
+>  <parenteral>  (36) 
+False
+
+>  <polymer_flag>  (36) 
+0
+
+>  <pref_name>  (36) 
+nan
+
+>  <prodrug>  (36) 
+-1
+
+>  <structure_type>  (36) 
+MOL
+
+>  <therapeutic_flag>  (36) 
+False
+
+>  <topical>  (36) 
+False
+
+>  <usan_stem>  (36) 
+nan
+
+>  <usan_stem_definition>  (36) 
+nan
+
+>  <usan_substem>  (36) 
+nan
+
+>  <usan_year>  (36) 
+nan
+
+>  <withdrawn_flag>  (36) 
+False
+
+>  <smiles>  (36) 
+Cc1cc2cc(OCCCN3CCCCC3)ccc2n1Cc1ccccc1
+
+>  <cluster>  (36) 
+-1
+
+$$$$

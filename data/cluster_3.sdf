@@ -1,0 +1,7034 @@
+CHEMBL3775114
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 24 26  1  0
+ 20 27  1  0
+ 27 28  2  0
+ 28  6  1  0
+ 16 11  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (1) 
+51
+
+>  <atc_classifications>  (1) 
+[]
+
+>  <availability_type>  (1) 
+-1
+
+>  <biotherapeutic>  (1) 
+nan
+
+>  <black_box_warning>  (1) 
+0
+
+>  <chebi_par_id>  (1) 
+nan
+
+>  <chemical_probe>  (1) 
+0
+
+>  <chirality>  (1) 
+-1
+
+>  <cross_references>  (1) 
+[]
+
+>  <dosed_ingredient>  (1) 
+False
+
+>  <first_approval>  (1) 
+nan
+
+>  <first_in_class>  (1) 
+-1
+
+>  <helm_notation>  (1) 
+nan
+
+>  <indication_class>  (1) 
+nan
+
+>  <inorganic_flag>  (1) 
+-1
+
+>  <max_phase>  (1) 
+nan
+
+>  <molecule_hierarchy>  (1) 
+{'active_chembl_id': 'CHEMBL3775114', 'molecule_chembl_id': 'CHEMBL3775114', 'parent_chembl_id': 'CHEMBL3775114'}
+
+>  <molecule_properties>  (1) 
+{'alogp': '4.12', 'aromatic_rings': 3, 'cx_logd': '3.08', 'cx_logp': '4.44', 'cx_most_apka': None, 'cx_most_bpka': '8.75', 'full_molformula': 'C23H28N2O3', 'full_mwt': '380.49', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 28, 'molecular_species': 'BASE', 'mw_freebase': '380.49', 'mw_monoisotopic': '380.2100', 'np_likeness_score': '-1.24', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '43.70', 'qed_weighted': '0.55', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (1) 
+[]
+
+>  <molecule_type>  (1) 
+Small molecule
+
+>  <natural_product>  (1) 
+0
+
+>  <oral>  (1) 
+False
+
+>  <parenteral>  (1) 
+False
+
+>  <polymer_flag>  (1) 
+0
+
+>  <pref_name>  (1) 
+nan
+
+>  <prodrug>  (1) 
+-1
+
+>  <structure_type>  (1) 
+MOL
+
+>  <therapeutic_flag>  (1) 
+False
+
+>  <topical>  (1) 
+False
+
+>  <usan_stem>  (1) 
+nan
+
+>  <usan_stem_definition>  (1) 
+nan
+
+>  <usan_substem>  (1) 
+nan
+
+>  <usan_year>  (1) 
+nan
+
+>  <withdrawn_flag>  (1) 
+False
+
+>  <smiles>  (1) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN(C)C)cc12
+
+>  <cluster>  (1) 
+3
+
+$$$$
+CHEMBL3774716
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 20 27  1  0
+ 27 28  2  0
+ 28  6  1  0
+ 16 11  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (2) 
+52
+
+>  <atc_classifications>  (2) 
+[]
+
+>  <availability_type>  (2) 
+-1
+
+>  <biotherapeutic>  (2) 
+nan
+
+>  <black_box_warning>  (2) 
+0
+
+>  <chebi_par_id>  (2) 
+nan
+
+>  <chemical_probe>  (2) 
+0
+
+>  <chirality>  (2) 
+-1
+
+>  <cross_references>  (2) 
+[]
+
+>  <dosed_ingredient>  (2) 
+False
+
+>  <first_approval>  (2) 
+nan
+
+>  <first_in_class>  (2) 
+-1
+
+>  <helm_notation>  (2) 
+nan
+
+>  <indication_class>  (2) 
+nan
+
+>  <inorganic_flag>  (2) 
+-1
+
+>  <max_phase>  (2) 
+nan
+
+>  <molecule_hierarchy>  (2) 
+{'active_chembl_id': 'CHEMBL3774716', 'molecule_chembl_id': 'CHEMBL3774716', 'parent_chembl_id': 'CHEMBL3774716'}
+
+>  <molecule_properties>  (2) 
+{'alogp': '4.32', 'aromatic_rings': 3, 'cx_logd': '4.67', 'cx_logp': '4.67', 'cx_most_apka': None, 'cx_most_bpka': None, 'full_molformula': 'C23H27NO4', 'full_mwt': '381.47', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 28, 'molecular_species': 'NEUTRAL', 'mw_freebase': '381.47', 'mw_monoisotopic': '381.1940', 'np_likeness_score': '-0.81', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '60.69', 'qed_weighted': '0.59', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (2) 
+[]
+
+>  <molecule_type>  (2) 
+Small molecule
+
+>  <natural_product>  (2) 
+0
+
+>  <oral>  (2) 
+False
+
+>  <parenteral>  (2) 
+False
+
+>  <polymer_flag>  (2) 
+0
+
+>  <pref_name>  (2) 
+nan
+
+>  <prodrug>  (2) 
+-1
+
+>  <structure_type>  (2) 
+MOL
+
+>  <therapeutic_flag>  (2) 
+False
+
+>  <topical>  (2) 
+False
+
+>  <usan_stem>  (2) 
+nan
+
+>  <usan_stem_definition>  (2) 
+nan
+
+>  <usan_substem>  (2) 
+nan
+
+>  <usan_year>  (2) 
+nan
+
+>  <withdrawn_flag>  (2) 
+False
+
+>  <smiles>  (2) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CC)cc12
+
+>  <cluster>  (2) 
+3
+
+$$$$
+CHEMBL3775322
+     RDKit          2D
+
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 20 30  1  0
+ 30 31  2  0
+ 31  6  1  0
+ 16 11  1  0
+ 31 17  1  0
+ 29 24  1  0
+M  END
+>  <Unnamed: 0>  (3) 
+53
+
+>  <atc_classifications>  (3) 
+[]
+
+>  <availability_type>  (3) 
+-1
+
+>  <biotherapeutic>  (3) 
+nan
+
+>  <black_box_warning>  (3) 
+0
+
+>  <chebi_par_id>  (3) 
+nan
+
+>  <chemical_probe>  (3) 
+0
+
+>  <chirality>  (3) 
+-1
+
+>  <cross_references>  (3) 
+[]
+
+>  <dosed_ingredient>  (3) 
+False
+
+>  <first_approval>  (3) 
+nan
+
+>  <first_in_class>  (3) 
+-1
+
+>  <helm_notation>  (3) 
+nan
+
+>  <indication_class>  (3) 
+nan
+
+>  <inorganic_flag>  (3) 
+-1
+
+>  <max_phase>  (3) 
+nan
+
+>  <molecule_hierarchy>  (3) 
+{'active_chembl_id': 'CHEMBL3775322', 'molecule_chembl_id': 'CHEMBL3775322', 'parent_chembl_id': 'CHEMBL3775322'}
+
+>  <molecule_properties>  (3) 
+{'alogp': '5.04', 'aromatic_rings': 3, 'cx_logd': '3.81', 'cx_logp': '5.29', 'cx_most_apka': None, 'cx_most_bpka': '8.87', 'full_molformula': 'C26H32N2O3', 'full_mwt': '420.55', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 31, 'molecular_species': 'BASE', 'mw_freebase': '420.55', 'mw_monoisotopic': '420.2413', 'np_likeness_score': '-1.28', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.48', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (3) 
+[]
+
+>  <molecule_type>  (3) 
+Small molecule
+
+>  <natural_product>  (3) 
+0
+
+>  <oral>  (3) 
+False
+
+>  <parenteral>  (3) 
+False
+
+>  <polymer_flag>  (3) 
+0
+
+>  <pref_name>  (3) 
+nan
+
+>  <prodrug>  (3) 
+-1
+
+>  <structure_type>  (3) 
+MOL
+
+>  <therapeutic_flag>  (3) 
+False
+
+>  <topical>  (3) 
+False
+
+>  <usan_stem>  (3) 
+nan
+
+>  <usan_stem_definition>  (3) 
+nan
+
+>  <usan_substem>  (3) 
+nan
+
+>  <usan_year>  (3) 
+nan
+
+>  <withdrawn_flag>  (3) 
+False
+
+>  <smiles>  (3) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN3CCCCC3)cc12
+
+>  <cluster>  (3) 
+3
+
+$$$$
+CHEMBL3775842
+     RDKit          2D
+
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    9.0933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 20 30  1  0
+ 30 31  2  0
+ 31  6  1  0
+ 16 11  1  0
+ 31 17  1  0
+ 29 24  1  0
+M  END
+>  <Unnamed: 0>  (4) 
+54
+
+>  <atc_classifications>  (4) 
+[]
+
+>  <availability_type>  (4) 
+-1
+
+>  <biotherapeutic>  (4) 
+nan
+
+>  <black_box_warning>  (4) 
+0
+
+>  <chebi_par_id>  (4) 
+nan
+
+>  <chemical_probe>  (4) 
+0
+
+>  <chirality>  (4) 
+-1
+
+>  <cross_references>  (4) 
+[]
+
+>  <dosed_ingredient>  (4) 
+False
+
+>  <first_approval>  (4) 
+nan
+
+>  <first_in_class>  (4) 
+-1
+
+>  <helm_notation>  (4) 
+nan
+
+>  <indication_class>  (4) 
+nan
+
+>  <inorganic_flag>  (4) 
+-1
+
+>  <max_phase>  (4) 
+nan
+
+>  <molecule_hierarchy>  (4) 
+{'active_chembl_id': 'CHEMBL3775842', 'molecule_chembl_id': 'CHEMBL3775842', 'parent_chembl_id': 'CHEMBL3775842'}
+
+>  <molecule_properties>  (4) 
+{'alogp': '3.89', 'aromatic_rings': 3, 'cx_logd': '4.15', 'cx_logp': '4.22', 'cx_most_apka': None, 'cx_most_bpka': '6.68', 'full_molformula': 'C25H30N2O4', 'full_mwt': '422.53', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 31, 'molecular_species': 'NEUTRAL', 'mw_freebase': '422.53', 'mw_monoisotopic': '422.2206', 'np_likeness_score': '-1.43', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '52.93', 'qed_weighted': '0.52', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (4) 
+[]
+
+>  <molecule_type>  (4) 
+Small molecule
+
+>  <natural_product>  (4) 
+0
+
+>  <oral>  (4) 
+False
+
+>  <parenteral>  (4) 
+False
+
+>  <polymer_flag>  (4) 
+0
+
+>  <pref_name>  (4) 
+nan
+
+>  <prodrug>  (4) 
+-1
+
+>  <structure_type>  (4) 
+MOL
+
+>  <therapeutic_flag>  (4) 
+False
+
+>  <topical>  (4) 
+False
+
+>  <usan_stem>  (4) 
+nan
+
+>  <usan_stem_definition>  (4) 
+nan
+
+>  <usan_substem>  (4) 
+nan
+
+>  <usan_year>  (4) 
+nan
+
+>  <withdrawn_flag>  (4) 
+False
+
+>  <smiles>  (4) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN3CCOCC3)cc12
+
+>  <cluster>  (4) 
+3
+
+$$$$
+CHEMBL3775445
+     RDKit          2D
+
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    9.0933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 20 30  1  0
+ 30 31  2  0
+ 31  6  1  0
+ 16 11  1  0
+ 31 17  1  0
+ 29 24  1  0
+M  END
+>  <Unnamed: 0>  (5) 
+55
+
+>  <atc_classifications>  (5) 
+[]
+
+>  <availability_type>  (5) 
+-1
+
+>  <biotherapeutic>  (5) 
+nan
+
+>  <black_box_warning>  (5) 
+0
+
+>  <chebi_par_id>  (5) 
+nan
+
+>  <chemical_probe>  (5) 
+0
+
+>  <chirality>  (5) 
+-1
+
+>  <cross_references>  (5) 
+[]
+
+>  <dosed_ingredient>  (5) 
+False
+
+>  <first_approval>  (5) 
+nan
+
+>  <first_in_class>  (5) 
+-1
+
+>  <helm_notation>  (5) 
+nan
+
+>  <indication_class>  (5) 
+nan
+
+>  <inorganic_flag>  (5) 
+-1
+
+>  <max_phase>  (5) 
+nan
+
+>  <molecule_hierarchy>  (5) 
+{'active_chembl_id': 'CHEMBL3775445', 'molecule_chembl_id': 'CHEMBL3775445', 'parent_chembl_id': 'CHEMBL3775445'}
+
+>  <molecule_properties>  (5) 
+{'alogp': '3.46', 'aromatic_rings': 3, 'cx_logd': '2.09', 'cx_logp': '3.91', 'cx_most_apka': None, 'cx_most_bpka': '9.23', 'full_molformula': 'C25H31N3O3', 'full_mwt': '421.54', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 31, 'molecular_species': 'BASE', 'mw_freebase': '421.54', 'mw_monoisotopic': '421.2365', 'np_likeness_score': '-1.25', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '55.73', 'qed_weighted': '0.56', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (5) 
+[]
+
+>  <molecule_type>  (5) 
+Small molecule
+
+>  <natural_product>  (5) 
+0
+
+>  <oral>  (5) 
+False
+
+>  <parenteral>  (5) 
+False
+
+>  <polymer_flag>  (5) 
+0
+
+>  <pref_name>  (5) 
+nan
+
+>  <prodrug>  (5) 
+-1
+
+>  <structure_type>  (5) 
+MOL
+
+>  <therapeutic_flag>  (5) 
+False
+
+>  <topical>  (5) 
+False
+
+>  <usan_stem>  (5) 
+nan
+
+>  <usan_stem_definition>  (5) 
+nan
+
+>  <usan_substem>  (5) 
+nan
+
+>  <usan_year>  (5) 
+nan
+
+>  <withdrawn_flag>  (5) 
+False
+
+>  <smiles>  (5) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN3CCNCC3)cc12
+
+>  <cluster>  (5) 
+3
+
+$$$$
+CHEMBL3774527
+     RDKit          2D
+
+ 32 35  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    9.0933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 27 29  1  0
+ 29 30  1  0
+ 20 31  1  0
+ 31 32  2  0
+ 32  6  1  0
+ 16 11  1  0
+ 32 17  1  0
+ 30 24  1  0
+M  END
+>  <Unnamed: 0>  (6) 
+56
+
+>  <atc_classifications>  (6) 
+[]
+
+>  <availability_type>  (6) 
+-1
+
+>  <biotherapeutic>  (6) 
+nan
+
+>  <black_box_warning>  (6) 
+0
+
+>  <chebi_par_id>  (6) 
+nan
+
+>  <chemical_probe>  (6) 
+0
+
+>  <chirality>  (6) 
+-1
+
+>  <cross_references>  (6) 
+[]
+
+>  <dosed_ingredient>  (6) 
+False
+
+>  <first_approval>  (6) 
+nan
+
+>  <first_in_class>  (6) 
+-1
+
+>  <helm_notation>  (6) 
+nan
+
+>  <indication_class>  (6) 
+nan
+
+>  <inorganic_flag>  (6) 
+-1
+
+>  <max_phase>  (6) 
+nan
+
+>  <molecule_hierarchy>  (6) 
+{'active_chembl_id': 'CHEMBL3774527', 'molecule_chembl_id': 'CHEMBL3774527', 'parent_chembl_id': 'CHEMBL3774527'}
+
+>  <molecule_properties>  (6) 
+{'alogp': '3.80', 'aromatic_rings': 3, 'cx_logd': '3.70', 'cx_logp': '4.29', 'cx_most_apka': None, 'cx_most_bpka': '7.86', 'full_molformula': 'C26H33N3O3', 'full_mwt': '435.57', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 32, 'molecular_species': 'NEUTRAL', 'mw_freebase': '435.57', 'mw_monoisotopic': '435.2522', 'np_likeness_score': '-1.32', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '46.94', 'qed_weighted': '0.50', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (6) 
+[]
+
+>  <molecule_type>  (6) 
+Small molecule
+
+>  <natural_product>  (6) 
+0
+
+>  <oral>  (6) 
+False
+
+>  <parenteral>  (6) 
+False
+
+>  <polymer_flag>  (6) 
+0
+
+>  <pref_name>  (6) 
+nan
+
+>  <prodrug>  (6) 
+-1
+
+>  <structure_type>  (6) 
+MOL
+
+>  <therapeutic_flag>  (6) 
+False
+
+>  <topical>  (6) 
+False
+
+>  <usan_stem>  (6) 
+nan
+
+>  <usan_stem_definition>  (6) 
+nan
+
+>  <usan_substem>  (6) 
+nan
+
+>  <usan_year>  (6) 
+nan
+
+>  <withdrawn_flag>  (6) 
+False
+
+>  <smiles>  (6) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN3CCN(C)CC3)cc12
+
+>  <cluster>  (6) 
+3
+
+$$$$
+CHEMBL3775105
+     RDKit          2D
+
+ 32 35  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 20 31  1  0
+ 31 32  2  0
+ 32  6  1  0
+ 16 11  1  0
+ 32 17  1  0
+ 30 25  1  0
+M  END
+>  <Unnamed: 0>  (7) 
+57
+
+>  <atc_classifications>  (7) 
+[]
+
+>  <availability_type>  (7) 
+-1
+
+>  <biotherapeutic>  (7) 
+nan
+
+>  <black_box_warning>  (7) 
+0
+
+>  <chebi_par_id>  (7) 
+nan
+
+>  <chemical_probe>  (7) 
+0
+
+>  <chirality>  (7) 
+-1
+
+>  <cross_references>  (7) 
+[]
+
+>  <dosed_ingredient>  (7) 
+False
+
+>  <first_approval>  (7) 
+nan
+
+>  <first_in_class>  (7) 
+-1
+
+>  <helm_notation>  (7) 
+nan
+
+>  <indication_class>  (7) 
+nan
+
+>  <inorganic_flag>  (7) 
+-1
+
+>  <max_phase>  (7) 
+nan
+
+>  <molecule_hierarchy>  (7) 
+{'active_chembl_id': 'CHEMBL3775105', 'molecule_chembl_id': 'CHEMBL3775105', 'parent_chembl_id': 'CHEMBL3775105'}
+
+>  <molecule_properties>  (7) 
+{'alogp': '5.43', 'aromatic_rings': 3, 'cx_logd': '3.55', 'cx_logp': '5.35', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H34N2O3', 'full_mwt': '434.58', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 32, 'molecular_species': 'BASE', 'mw_freebase': '434.58', 'mw_monoisotopic': '434.2569', 'np_likeness_score': '-1.28', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.33', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (7) 
+[]
+
+>  <molecule_type>  (7) 
+Small molecule
+
+>  <natural_product>  (7) 
+0
+
+>  <oral>  (7) 
+False
+
+>  <parenteral>  (7) 
+False
+
+>  <polymer_flag>  (7) 
+0
+
+>  <pref_name>  (7) 
+nan
+
+>  <prodrug>  (7) 
+-1
+
+>  <structure_type>  (7) 
+MOL
+
+>  <therapeutic_flag>  (7) 
+False
+
+>  <topical>  (7) 
+False
+
+>  <usan_stem>  (7) 
+nan
+
+>  <usan_stem_definition>  (7) 
+nan
+
+>  <usan_substem>  (7) 
+nan
+
+>  <usan_year>  (7) 
+nan
+
+>  <withdrawn_flag>  (7) 
+False
+
+>  <smiles>  (7) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (7) 
+3
+
+$$$$
+CHEMBL3774853
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9958    7.6821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0161    8.7817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7925   10.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4935   11.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0972   10.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6550    9.0336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 25  1  0
+M  END
+>  <Unnamed: 0>  (8) 
+58
+
+>  <atc_classifications>  (8) 
+[]
+
+>  <availability_type>  (8) 
+-1
+
+>  <biotherapeutic>  (8) 
+nan
+
+>  <black_box_warning>  (8) 
+0
+
+>  <chebi_par_id>  (8) 
+nan
+
+>  <chemical_probe>  (8) 
+0
+
+>  <chirality>  (8) 
+-1
+
+>  <cross_references>  (8) 
+[]
+
+>  <dosed_ingredient>  (8) 
+False
+
+>  <first_approval>  (8) 
+nan
+
+>  <first_in_class>  (8) 
+-1
+
+>  <helm_notation>  (8) 
+nan
+
+>  <indication_class>  (8) 
+nan
+
+>  <inorganic_flag>  (8) 
+-1
+
+>  <max_phase>  (8) 
+nan
+
+>  <molecule_hierarchy>  (8) 
+{'active_chembl_id': 'CHEMBL3774853', 'molecule_chembl_id': 'CHEMBL3774853', 'parent_chembl_id': 'CHEMBL3774853'}
+
+>  <molecule_properties>  (8) 
+{'alogp': '5.82', 'aromatic_rings': 3, 'cx_logd': '3.55', 'cx_logp': '5.80', 'cx_most_apka': None, 'cx_most_bpka': '9.67', 'full_molformula': 'C28H36N2O3', 'full_mwt': '448.61', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '448.61', 'mw_monoisotopic': '448.2726', 'np_likeness_score': '-1.24', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (8) 
+[]
+
+>  <molecule_type>  (8) 
+Small molecule
+
+>  <natural_product>  (8) 
+0
+
+>  <oral>  (8) 
+False
+
+>  <parenteral>  (8) 
+False
+
+>  <polymer_flag>  (8) 
+0
+
+>  <pref_name>  (8) 
+nan
+
+>  <prodrug>  (8) 
+-1
+
+>  <structure_type>  (8) 
+MOL
+
+>  <therapeutic_flag>  (8) 
+False
+
+>  <topical>  (8) 
+False
+
+>  <usan_stem>  (8) 
+nan
+
+>  <usan_stem_definition>  (8) 
+nan
+
+>  <usan_substem>  (8) 
+nan
+
+>  <usan_year>  (8) 
+nan
+
+>  <withdrawn_flag>  (8) 
+False
+
+>  <smiles>  (8) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCCCCC3)cc12
+
+>  <cluster>  (8) 
+3
+
+$$$$
+CHEMBL3775483
+     RDKit          2D
+
+ 32 35  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 20 31  1  0
+ 31 32  2  0
+ 32  6  1  0
+ 16 11  1  0
+ 32 17  1  0
+ 30 25  1  0
+M  END
+>  <Unnamed: 0>  (9) 
+59
+
+>  <atc_classifications>  (9) 
+[]
+
+>  <availability_type>  (9) 
+-1
+
+>  <biotherapeutic>  (9) 
+nan
+
+>  <black_box_warning>  (9) 
+0
+
+>  <chebi_par_id>  (9) 
+nan
+
+>  <chemical_probe>  (9) 
+0
+
+>  <chirality>  (9) 
+-1
+
+>  <cross_references>  (9) 
+[]
+
+>  <dosed_ingredient>  (9) 
+False
+
+>  <first_approval>  (9) 
+nan
+
+>  <first_in_class>  (9) 
+-1
+
+>  <helm_notation>  (9) 
+nan
+
+>  <indication_class>  (9) 
+nan
+
+>  <inorganic_flag>  (9) 
+-1
+
+>  <max_phase>  (9) 
+nan
+
+>  <molecule_hierarchy>  (9) 
+{'active_chembl_id': 'CHEMBL3775483', 'molecule_chembl_id': 'CHEMBL3775483', 'parent_chembl_id': 'CHEMBL3775483'}
+
+>  <molecule_properties>  (9) 
+{'alogp': '4.28', 'aromatic_rings': 3, 'cx_logd': '4.14', 'cx_logp': '4.28', 'cx_most_apka': None, 'cx_most_bpka': '7.00', 'full_molformula': 'C26H32N2O4', 'full_mwt': '436.55', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 32, 'molecular_species': 'NEUTRAL', 'mw_freebase': '436.55', 'mw_monoisotopic': '436.2362', 'np_likeness_score': '-1.42', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '52.93', 'qed_weighted': '0.37', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (9) 
+[]
+
+>  <molecule_type>  (9) 
+Small molecule
+
+>  <natural_product>  (9) 
+0
+
+>  <oral>  (9) 
+False
+
+>  <parenteral>  (9) 
+False
+
+>  <polymer_flag>  (9) 
+0
+
+>  <pref_name>  (9) 
+nan
+
+>  <prodrug>  (9) 
+-1
+
+>  <structure_type>  (9) 
+MOL
+
+>  <therapeutic_flag>  (9) 
+False
+
+>  <topical>  (9) 
+False
+
+>  <usan_stem>  (9) 
+nan
+
+>  <usan_stem_definition>  (9) 
+nan
+
+>  <usan_substem>  (9) 
+nan
+
+>  <usan_year>  (9) 
+nan
+
+>  <withdrawn_flag>  (9) 
+False
+
+>  <smiles>  (9) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCOCC3)cc12
+
+>  <cluster>  (9) 
+3
+
+$$$$
+CHEMBL3774675
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 28 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 25  1  0
+M  END
+>  <Unnamed: 0>  (10) 
+60
+
+>  <atc_classifications>  (10) 
+[]
+
+>  <availability_type>  (10) 
+-1
+
+>  <biotherapeutic>  (10) 
+nan
+
+>  <black_box_warning>  (10) 
+0
+
+>  <chebi_par_id>  (10) 
+nan
+
+>  <chemical_probe>  (10) 
+0
+
+>  <chirality>  (10) 
+-1
+
+>  <cross_references>  (10) 
+[]
+
+>  <dosed_ingredient>  (10) 
+False
+
+>  <first_approval>  (10) 
+nan
+
+>  <first_in_class>  (10) 
+-1
+
+>  <helm_notation>  (10) 
+nan
+
+>  <indication_class>  (10) 
+nan
+
+>  <inorganic_flag>  (10) 
+-1
+
+>  <max_phase>  (10) 
+nan
+
+>  <molecule_hierarchy>  (10) 
+{'active_chembl_id': 'CHEMBL3774675', 'molecule_chembl_id': 'CHEMBL3774675', 'parent_chembl_id': 'CHEMBL3774675'}
+
+>  <molecule_properties>  (10) 
+{'alogp': '4.19', 'aromatic_rings': 3, 'cx_logd': '3.57', 'cx_logp': '4.35', 'cx_most_apka': None, 'cx_most_bpka': '8.09', 'full_molformula': 'C27H35N3O3', 'full_mwt': '449.60', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'NEUTRAL', 'mw_freebase': '449.60', 'mw_monoisotopic': '449.2678', 'np_likeness_score': '-1.32', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '46.94', 'qed_weighted': '0.36', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (10) 
+[]
+
+>  <molecule_type>  (10) 
+Small molecule
+
+>  <natural_product>  (10) 
+0
+
+>  <oral>  (10) 
+False
+
+>  <parenteral>  (10) 
+False
+
+>  <polymer_flag>  (10) 
+0
+
+>  <pref_name>  (10) 
+nan
+
+>  <prodrug>  (10) 
+-1
+
+>  <structure_type>  (10) 
+MOL
+
+>  <therapeutic_flag>  (10) 
+False
+
+>  <topical>  (10) 
+False
+
+>  <usan_stem>  (10) 
+nan
+
+>  <usan_stem_definition>  (10) 
+nan
+
+>  <usan_substem>  (10) 
+nan
+
+>  <usan_year>  (10) 
+nan
+
+>  <withdrawn_flag>  (10) 
+False
+
+>  <smiles>  (10) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCN(C)CC3)cc12
+
+>  <cluster>  (10) 
+3
+
+$$$$
+CHEMBL3775062
+     RDKit          2D
+
+ 32 35  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 20 31  1  0
+ 31 32  2  0
+ 32  6  1  0
+ 16 11  1  0
+ 32 17  1  0
+ 30 25  1  0
+M  END
+>  <Unnamed: 0>  (11) 
+61
+
+>  <atc_classifications>  (11) 
+[]
+
+>  <availability_type>  (11) 
+-1
+
+>  <biotherapeutic>  (11) 
+nan
+
+>  <black_box_warning>  (11) 
+0
+
+>  <chebi_par_id>  (11) 
+nan
+
+>  <chemical_probe>  (11) 
+0
+
+>  <chirality>  (11) 
+-1
+
+>  <cross_references>  (11) 
+[]
+
+>  <dosed_ingredient>  (11) 
+False
+
+>  <first_approval>  (11) 
+nan
+
+>  <first_in_class>  (11) 
+-1
+
+>  <helm_notation>  (11) 
+nan
+
+>  <indication_class>  (11) 
+nan
+
+>  <inorganic_flag>  (11) 
+-1
+
+>  <max_phase>  (11) 
+nan
+
+>  <molecule_hierarchy>  (11) 
+{'active_chembl_id': 'CHEMBL3775062', 'molecule_chembl_id': 'CHEMBL3775062', 'parent_chembl_id': 'CHEMBL3775062'}
+
+>  <molecule_properties>  (11) 
+{'alogp': '3.85', 'aromatic_rings': 3, 'cx_logd': '2.13', 'cx_logp': '3.97', 'cx_most_apka': None, 'cx_most_bpka': '9.25', 'full_molformula': 'C26H33N3O3', 'full_mwt': '435.57', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 32, 'molecular_species': 'BASE', 'mw_freebase': '435.57', 'mw_monoisotopic': '435.2522', 'np_likeness_score': '-1.25', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '55.73', 'qed_weighted': '0.41', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (11) 
+[]
+
+>  <molecule_type>  (11) 
+Small molecule
+
+>  <natural_product>  (11) 
+0
+
+>  <oral>  (11) 
+False
+
+>  <parenteral>  (11) 
+False
+
+>  <polymer_flag>  (11) 
+0
+
+>  <pref_name>  (11) 
+nan
+
+>  <prodrug>  (11) 
+-1
+
+>  <structure_type>  (11) 
+MOL
+
+>  <therapeutic_flag>  (11) 
+False
+
+>  <topical>  (11) 
+False
+
+>  <usan_stem>  (11) 
+nan
+
+>  <usan_stem_definition>  (11) 
+nan
+
+>  <usan_substem>  (11) 
+nan
+
+>  <usan_year>  (11) 
+nan
+
+>  <withdrawn_flag>  (11) 
+False
+
+>  <smiles>  (11) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN3CCNCC3)cc12
+
+>  <cluster>  (11) 
+3
+
+$$$$
+CHEMBL3775236
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   11.6913    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (12) 
+62
+
+>  <atc_classifications>  (12) 
+[]
+
+>  <availability_type>  (12) 
+-1
+
+>  <biotherapeutic>  (12) 
+nan
+
+>  <black_box_warning>  (12) 
+0
+
+>  <chebi_par_id>  (12) 
+nan
+
+>  <chemical_probe>  (12) 
+0
+
+>  <chirality>  (12) 
+-1
+
+>  <cross_references>  (12) 
+[]
+
+>  <dosed_ingredient>  (12) 
+False
+
+>  <first_approval>  (12) 
+nan
+
+>  <first_in_class>  (12) 
+-1
+
+>  <helm_notation>  (12) 
+nan
+
+>  <indication_class>  (12) 
+nan
+
+>  <inorganic_flag>  (12) 
+-1
+
+>  <max_phase>  (12) 
+nan
+
+>  <molecule_hierarchy>  (12) 
+{'active_chembl_id': 'CHEMBL3775236', 'molecule_chembl_id': 'CHEMBL3775236', 'parent_chembl_id': 'CHEMBL3775236'}
+
+>  <molecule_properties>  (12) 
+{'alogp': '4.24', 'aromatic_rings': 3, 'cx_logd': '2.57', 'cx_logp': '4.48', 'cx_most_apka': None, 'cx_most_bpka': '9.32', 'full_molformula': 'C27H35N3O3', 'full_mwt': '449.60', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '449.60', 'mw_monoisotopic': '449.2678', 'np_likeness_score': '-1.19', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '55.73', 'qed_weighted': '0.37', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (12) 
+[]
+
+>  <molecule_type>  (12) 
+Small molecule
+
+>  <natural_product>  (12) 
+0
+
+>  <oral>  (12) 
+False
+
+>  <parenteral>  (12) 
+False
+
+>  <polymer_flag>  (12) 
+0
+
+>  <pref_name>  (12) 
+nan
+
+>  <prodrug>  (12) 
+-1
+
+>  <structure_type>  (12) 
+MOL
+
+>  <therapeutic_flag>  (12) 
+False
+
+>  <topical>  (12) 
+False
+
+>  <usan_stem>  (12) 
+nan
+
+>  <usan_stem_definition>  (12) 
+nan
+
+>  <usan_substem>  (12) 
+nan
+
+>  <usan_year>  (12) 
+nan
+
+>  <withdrawn_flag>  (12) 
+False
+
+>  <smiles>  (12) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCCN3CCNCC3)cc12
+
+>  <cluster>  (12) 
+3
+
+$$$$
+CHEMBL3774832
+     RDKit          2D
+
+ 26 28  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 20 25  1  0
+ 25 26  2  0
+ 26  6  1  0
+ 16 11  1  0
+ 26 17  1  0
+M  END
+>  <Unnamed: 0>  (13) 
+63
+
+>  <atc_classifications>  (13) 
+[]
+
+>  <availability_type>  (13) 
+-1
+
+>  <biotherapeutic>  (13) 
+nan
+
+>  <black_box_warning>  (13) 
+0
+
+>  <chebi_par_id>  (13) 
+nan
+
+>  <chemical_probe>  (13) 
+0
+
+>  <chirality>  (13) 
+-1
+
+>  <cross_references>  (13) 
+[]
+
+>  <dosed_ingredient>  (13) 
+False
+
+>  <first_approval>  (13) 
+nan
+
+>  <first_in_class>  (13) 
+-1
+
+>  <helm_notation>  (13) 
+nan
+
+>  <indication_class>  (13) 
+nan
+
+>  <inorganic_flag>  (13) 
+-1
+
+>  <max_phase>  (13) 
+nan
+
+>  <molecule_hierarchy>  (13) 
+{'active_chembl_id': 'CHEMBL3774832', 'molecule_chembl_id': 'CHEMBL3774832', 'parent_chembl_id': 'CHEMBL3774832'}
+
+>  <molecule_properties>  (13) 
+{'alogp': '3.51', 'aromatic_rings': 3, 'cx_logd': '1.77', 'cx_logp': '3.63', 'cx_most_apka': None, 'cx_most_bpka': '9.28', 'full_molformula': 'C21H24N2O3', 'full_mwt': '352.43', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 2, 'heavy_atoms': 26, 'molecular_species': 'BASE', 'mw_freebase': '352.43', 'mw_monoisotopic': '352.1787', 'np_likeness_score': '-0.94', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '66.48', 'qed_weighted': '0.66', 'ro3_pass': 'N', 'rtb': 7}
+
+>  <molecule_synonyms>  (13) 
+[]
+
+>  <molecule_type>  (13) 
+Small molecule
+
+>  <natural_product>  (13) 
+0
+
+>  <oral>  (13) 
+False
+
+>  <parenteral>  (13) 
+False
+
+>  <polymer_flag>  (13) 
+0
+
+>  <pref_name>  (13) 
+nan
+
+>  <prodrug>  (13) 
+-1
+
+>  <structure_type>  (13) 
+MOL
+
+>  <therapeutic_flag>  (13) 
+False
+
+>  <topical>  (13) 
+False
+
+>  <usan_stem>  (13) 
+nan
+
+>  <usan_stem_definition>  (13) 
+nan
+
+>  <usan_substem>  (13) 
+nan
+
+>  <usan_year>  (13) 
+nan
+
+>  <withdrawn_flag>  (13) 
+False
+
+>  <smiles>  (13) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCN)cc12
+
+>  <cluster>  (13) 
+3
+
+$$$$
+CHEMBL3775841
+     RDKit          2D
+
+ 27 29  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 20 26  1  0
+ 26 27  2  0
+ 27  6  1  0
+ 16 11  1  0
+ 27 17  1  0
+M  END
+>  <Unnamed: 0>  (14) 
+64
+
+>  <atc_classifications>  (14) 
+[]
+
+>  <availability_type>  (14) 
+-1
+
+>  <biotherapeutic>  (14) 
+nan
+
+>  <black_box_warning>  (14) 
+0
+
+>  <chebi_par_id>  (14) 
+nan
+
+>  <chemical_probe>  (14) 
+0
+
+>  <chirality>  (14) 
+-1
+
+>  <cross_references>  (14) 
+[]
+
+>  <dosed_ingredient>  (14) 
+False
+
+>  <first_approval>  (14) 
+nan
+
+>  <first_in_class>  (14) 
+-1
+
+>  <helm_notation>  (14) 
+nan
+
+>  <indication_class>  (14) 
+nan
+
+>  <inorganic_flag>  (14) 
+-1
+
+>  <max_phase>  (14) 
+nan
+
+>  <molecule_hierarchy>  (14) 
+{'active_chembl_id': 'CHEMBL3775841', 'molecule_chembl_id': 'CHEMBL3775841', 'parent_chembl_id': 'CHEMBL3775841'}
+
+>  <molecule_properties>  (14) 
+{'alogp': '3.90', 'aromatic_rings': 3, 'cx_logd': '1.27', 'cx_logp': '3.69', 'cx_most_apka': None, 'cx_most_bpka': '9.94', 'full_molformula': 'C22H26N2O3', 'full_mwt': '366.46', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 2, 'heavy_atoms': 27, 'molecular_species': 'BASE', 'mw_freebase': '366.46', 'mw_monoisotopic': '366.1943', 'np_likeness_score': '-0.93', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '66.48', 'qed_weighted': '0.48', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (14) 
+[]
+
+>  <molecule_type>  (14) 
+Small molecule
+
+>  <natural_product>  (14) 
+0
+
+>  <oral>  (14) 
+False
+
+>  <parenteral>  (14) 
+False
+
+>  <polymer_flag>  (14) 
+0
+
+>  <pref_name>  (14) 
+nan
+
+>  <prodrug>  (14) 
+-1
+
+>  <structure_type>  (14) 
+MOL
+
+>  <therapeutic_flag>  (14) 
+False
+
+>  <topical>  (14) 
+False
+
+>  <usan_stem>  (14) 
+nan
+
+>  <usan_stem_definition>  (14) 
+nan
+
+>  <usan_substem>  (14) 
+nan
+
+>  <usan_year>  (14) 
+nan
+
+>  <withdrawn_flag>  (14) 
+False
+
+>  <smiles>  (14) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCN)cc12
+
+>  <cluster>  (14) 
+3
+
+$$$$
+CHEMBL3774445
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 20 27  1  0
+ 27 28  2  0
+ 28  6  1  0
+ 16 11  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (15) 
+65
+
+>  <atc_classifications>  (15) 
+[]
+
+>  <availability_type>  (15) 
+-1
+
+>  <biotherapeutic>  (15) 
+nan
+
+>  <black_box_warning>  (15) 
+0
+
+>  <chebi_par_id>  (15) 
+nan
+
+>  <chemical_probe>  (15) 
+0
+
+>  <chirality>  (15) 
+-1
+
+>  <cross_references>  (15) 
+[]
+
+>  <dosed_ingredient>  (15) 
+False
+
+>  <first_approval>  (15) 
+nan
+
+>  <first_in_class>  (15) 
+-1
+
+>  <helm_notation>  (15) 
+nan
+
+>  <indication_class>  (15) 
+nan
+
+>  <inorganic_flag>  (15) 
+-1
+
+>  <max_phase>  (15) 
+nan
+
+>  <molecule_hierarchy>  (15) 
+{'active_chembl_id': 'CHEMBL3774445', 'molecule_chembl_id': 'CHEMBL3774445', 'parent_chembl_id': 'CHEMBL3774445'}
+
+>  <molecule_properties>  (15) 
+{'alogp': '4.29', 'aromatic_rings': 3, 'cx_logd': '1.60', 'cx_logp': '4.20', 'cx_most_apka': None, 'cx_most_bpka': '10.20', 'full_molformula': 'C23H28N2O3', 'full_mwt': '380.49', 'hba': 5, 'hba_lipinski': 5, 'hbd': 1, 'hbd_lipinski': 2, 'heavy_atoms': 28, 'molecular_species': 'BASE', 'mw_freebase': '380.49', 'mw_monoisotopic': '380.2100', 'np_likeness_score': '-0.90', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '66.48', 'qed_weighted': '0.44', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (15) 
+[]
+
+>  <molecule_type>  (15) 
+Small molecule
+
+>  <natural_product>  (15) 
+0
+
+>  <oral>  (15) 
+False
+
+>  <parenteral>  (15) 
+False
+
+>  <polymer_flag>  (15) 
+0
+
+>  <pref_name>  (15) 
+nan
+
+>  <prodrug>  (15) 
+-1
+
+>  <structure_type>  (15) 
+MOL
+
+>  <therapeutic_flag>  (15) 
+False
+
+>  <topical>  (15) 
+False
+
+>  <usan_stem>  (15) 
+nan
+
+>  <usan_stem_definition>  (15) 
+nan
+
+>  <usan_substem>  (15) 
+nan
+
+>  <usan_year>  (15) 
+nan
+
+>  <withdrawn_flag>  (15) 
+False
+
+>  <smiles>  (15) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCCN)cc12
+
+>  <cluster>  (15) 
+3
+
+$$$$
+CHEMBL3775852
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (16) 
+66
+
+>  <atc_classifications>  (16) 
+[]
+
+>  <availability_type>  (16) 
+-1
+
+>  <biotherapeutic>  (16) 
+nan
+
+>  <black_box_warning>  (16) 
+0
+
+>  <chebi_par_id>  (16) 
+nan
+
+>  <chemical_probe>  (16) 
+0
+
+>  <chirality>  (16) 
+-1
+
+>  <cross_references>  (16) 
+[]
+
+>  <dosed_ingredient>  (16) 
+False
+
+>  <first_approval>  (16) 
+nan
+
+>  <first_in_class>  (16) 
+-1
+
+>  <helm_notation>  (16) 
+nan
+
+>  <indication_class>  (16) 
+nan
+
+>  <inorganic_flag>  (16) 
+-1
+
+>  <max_phase>  (16) 
+nan
+
+>  <molecule_hierarchy>  (16) 
+{'active_chembl_id': 'CHEMBL3775852', 'molecule_chembl_id': 'CHEMBL3775852', 'parent_chembl_id': 'CHEMBL3775852'}
+
+>  <molecule_properties>  (16) 
+{'alogp': '4.40', 'aromatic_rings': 3, 'cx_logd': '3.29', 'cx_logp': '4.66', 'cx_most_apka': None, 'cx_most_bpka': '8.76', 'full_molformula': 'C27H34N2O4', 'full_mwt': '450.58', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '450.58', 'mw_monoisotopic': '450.2519', 'np_likeness_score': '-1.18', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '63.93', 'qed_weighted': '0.49', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (16) 
+[]
+
+>  <molecule_type>  (16) 
+Small molecule
+
+>  <natural_product>  (16) 
+0
+
+>  <oral>  (16) 
+False
+
+>  <parenteral>  (16) 
+False
+
+>  <polymer_flag>  (16) 
+0
+
+>  <pref_name>  (16) 
+nan
+
+>  <prodrug>  (16) 
+-1
+
+>  <structure_type>  (16) 
+MOL
+
+>  <therapeutic_flag>  (16) 
+False
+
+>  <topical>  (16) 
+False
+
+>  <usan_stem>  (16) 
+nan
+
+>  <usan_stem_definition>  (16) 
+nan
+
+>  <usan_substem>  (16) 
+nan
+
+>  <usan_year>  (16) 
+nan
+
+>  <withdrawn_flag>  (16) 
+False
+
+>  <smiles>  (16) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CN3CCCCC3)cc12
+
+>  <cluster>  (16) 
+3
+
+$$$$
+CHEMBL3774995
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9958    7.6821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0161    8.7817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7925   10.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4935   11.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0972   10.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6550    9.0336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 20 33  1  0
+ 33 34  2  0
+ 34  6  1  0
+ 16 11  1  0
+ 34 17  1  0
+ 32 26  1  0
+M  END
+>  <Unnamed: 0>  (17) 
+67
+
+>  <atc_classifications>  (17) 
+[]
+
+>  <availability_type>  (17) 
+-1
+
+>  <biotherapeutic>  (17) 
+nan
+
+>  <black_box_warning>  (17) 
+0
+
+>  <chebi_par_id>  (17) 
+nan
+
+>  <chemical_probe>  (17) 
+0
+
+>  <chirality>  (17) 
+-1
+
+>  <cross_references>  (17) 
+[]
+
+>  <dosed_ingredient>  (17) 
+False
+
+>  <first_approval>  (17) 
+nan
+
+>  <first_in_class>  (17) 
+-1
+
+>  <helm_notation>  (17) 
+nan
+
+>  <indication_class>  (17) 
+nan
+
+>  <inorganic_flag>  (17) 
+-1
+
+>  <max_phase>  (17) 
+nan
+
+>  <molecule_hierarchy>  (17) 
+{'active_chembl_id': 'CHEMBL3774995', 'molecule_chembl_id': 'CHEMBL3774995', 'parent_chembl_id': 'CHEMBL3774995'}
+
+>  <molecule_properties>  (17) 
+{'alogp': '4.79', 'aromatic_rings': 3, 'cx_logd': '3.28', 'cx_logp': '5.11', 'cx_most_apka': None, 'cx_most_bpka': '9.23', 'full_molformula': 'C28H36N2O4', 'full_mwt': '464.61', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '464.61', 'mw_monoisotopic': '464.2675', 'np_likeness_score': '-1.14', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '63.93', 'qed_weighted': '0.46', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (17) 
+[]
+
+>  <molecule_type>  (17) 
+Small molecule
+
+>  <natural_product>  (17) 
+0
+
+>  <oral>  (17) 
+False
+
+>  <parenteral>  (17) 
+False
+
+>  <polymer_flag>  (17) 
+0
+
+>  <pref_name>  (17) 
+nan
+
+>  <prodrug>  (17) 
+-1
+
+>  <structure_type>  (17) 
+MOL
+
+>  <therapeutic_flag>  (17) 
+False
+
+>  <topical>  (17) 
+False
+
+>  <usan_stem>  (17) 
+nan
+
+>  <usan_stem_definition>  (17) 
+nan
+
+>  <usan_substem>  (17) 
+nan
+
+>  <usan_year>  (17) 
+nan
+
+>  <withdrawn_flag>  (17) 
+False
+
+>  <smiles>  (17) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CN3CCCCCC3)cc12
+
+>  <cluster>  (17) 
+3
+
+$$$$
+CHEMBL3775271
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (18) 
+68
+
+>  <atc_classifications>  (18) 
+[]
+
+>  <availability_type>  (18) 
+-1
+
+>  <biotherapeutic>  (18) 
+nan
+
+>  <black_box_warning>  (18) 
+0
+
+>  <chebi_par_id>  (18) 
+nan
+
+>  <chemical_probe>  (18) 
+0
+
+>  <chirality>  (18) 
+-1
+
+>  <cross_references>  (18) 
+[]
+
+>  <dosed_ingredient>  (18) 
+False
+
+>  <first_approval>  (18) 
+nan
+
+>  <first_in_class>  (18) 
+-1
+
+>  <helm_notation>  (18) 
+nan
+
+>  <indication_class>  (18) 
+nan
+
+>  <inorganic_flag>  (18) 
+-1
+
+>  <max_phase>  (18) 
+nan
+
+>  <molecule_hierarchy>  (18) 
+{'active_chembl_id': 'CHEMBL3775271', 'molecule_chembl_id': 'CHEMBL3775271', 'parent_chembl_id': 'CHEMBL3775271'}
+
+>  <molecule_properties>  (18) 
+{'alogp': '3.25', 'aromatic_rings': 3, 'cx_logd': '3.53', 'cx_logp': '3.59', 'cx_most_apka': None, 'cx_most_bpka': '6.56', 'full_molformula': 'C26H32N2O5', 'full_mwt': '452.55', 'hba': 7, 'hba_lipinski': 7, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 33, 'molecular_species': 'NEUTRAL', 'mw_freebase': '452.55', 'mw_monoisotopic': '452.2311', 'np_likeness_score': '-1.32', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '73.16', 'qed_weighted': '0.50', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (18) 
+[]
+
+>  <molecule_type>  (18) 
+Small molecule
+
+>  <natural_product>  (18) 
+0
+
+>  <oral>  (18) 
+False
+
+>  <parenteral>  (18) 
+False
+
+>  <polymer_flag>  (18) 
+0
+
+>  <pref_name>  (18) 
+nan
+
+>  <prodrug>  (18) 
+-1
+
+>  <structure_type>  (18) 
+MOL
+
+>  <therapeutic_flag>  (18) 
+False
+
+>  <topical>  (18) 
+False
+
+>  <usan_stem>  (18) 
+nan
+
+>  <usan_stem_definition>  (18) 
+nan
+
+>  <usan_substem>  (18) 
+nan
+
+>  <usan_year>  (18) 
+nan
+
+>  <withdrawn_flag>  (18) 
+False
+
+>  <smiles>  (18) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CN3CCOCC3)cc12
+
+>  <cluster>  (18) 
+3
+
+$$$$
+CHEMBL3775507
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 20 27  1  0
+ 27 28  2  0
+ 28  6  1  0
+ 16 11  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (19) 
+69
+
+>  <atc_classifications>  (19) 
+[]
+
+>  <availability_type>  (19) 
+-1
+
+>  <biotherapeutic>  (19) 
+nan
+
+>  <black_box_warning>  (19) 
+0
+
+>  <chebi_par_id>  (19) 
+nan
+
+>  <chemical_probe>  (19) 
+0
+
+>  <chirality>  (19) 
+-1
+
+>  <cross_references>  (19) 
+[]
+
+>  <dosed_ingredient>  (19) 
+False
+
+>  <first_approval>  (19) 
+nan
+
+>  <first_in_class>  (19) 
+-1
+
+>  <helm_notation>  (19) 
+nan
+
+>  <indication_class>  (19) 
+nan
+
+>  <inorganic_flag>  (19) 
+-1
+
+>  <max_phase>  (19) 
+nan
+
+>  <molecule_hierarchy>  (19) 
+{'active_chembl_id': 'CHEMBL3775507', 'molecule_chembl_id': 'CHEMBL3775507', 'parent_chembl_id': 'CHEMBL3775507'}
+
+>  <molecule_properties>  (19) 
+{'alogp': '2.87', 'aromatic_rings': 3, 'cx_logd': '1.10', 'cx_logp': '3.00', 'cx_most_apka': None, 'cx_most_bpka': '9.32', 'full_molformula': 'C22H26N2O4', 'full_mwt': '382.46', 'hba': 6, 'hba_lipinski': 6, 'hbd': 2, 'hbd_lipinski': 3, 'heavy_atoms': 28, 'molecular_species': 'BASE', 'mw_freebase': '382.46', 'mw_monoisotopic': '382.1893', 'np_likeness_score': '-0.86', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '86.71', 'qed_weighted': '0.59', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (19) 
+[]
+
+>  <molecule_type>  (19) 
+Small molecule
+
+>  <natural_product>  (19) 
+0
+
+>  <oral>  (19) 
+False
+
+>  <parenteral>  (19) 
+False
+
+>  <polymer_flag>  (19) 
+0
+
+>  <pref_name>  (19) 
+nan
+
+>  <prodrug>  (19) 
+-1
+
+>  <structure_type>  (19) 
+MOL
+
+>  <therapeutic_flag>  (19) 
+False
+
+>  <topical>  (19) 
+False
+
+>  <usan_stem>  (19) 
+nan
+
+>  <usan_stem_definition>  (19) 
+nan
+
+>  <usan_substem>  (19) 
+nan
+
+>  <usan_year>  (19) 
+nan
+
+>  <withdrawn_flag>  (19) 
+False
+
+>  <smiles>  (19) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CN)cc12
+
+>  <cluster>  (19) 
+3
+
+$$$$
+CHEMBL3775693
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 20 27  1  0
+ 27 28  2  0
+ 28  6  1  0
+ 16 11  1  0
+ 28 17  1  0
+M  END
+>  <Unnamed: 0>  (20) 
+70
+
+>  <atc_classifications>  (20) 
+[]
+
+>  <availability_type>  (20) 
+-1
+
+>  <biotherapeutic>  (20) 
+nan
+
+>  <black_box_warning>  (20) 
+0
+
+>  <chebi_par_id>  (20) 
+nan
+
+>  <chemical_probe>  (20) 
+0
+
+>  <chirality>  (20) 
+-1
+
+>  <cross_references>  (20) 
+[]
+
+>  <dosed_ingredient>  (20) 
+False
+
+>  <first_approval>  (20) 
+nan
+
+>  <first_in_class>  (20) 
+-1
+
+>  <helm_notation>  (20) 
+nan
+
+>  <indication_class>  (20) 
+nan
+
+>  <inorganic_flag>  (20) 
+-1
+
+>  <max_phase>  (20) 
+nan
+
+>  <molecule_hierarchy>  (20) 
+{'active_chembl_id': 'CHEMBL3775693', 'molecule_chembl_id': 'CHEMBL3775693', 'parent_chembl_id': 'CHEMBL3775693'}
+
+>  <molecule_properties>  (20) 
+{'alogp': '2.87', 'aromatic_rings': 3, 'cx_logd': '1.44', 'cx_logp': '3.00', 'cx_most_apka': None, 'cx_most_bpka': '8.95', 'full_molformula': 'C22H26N2O4', 'full_mwt': '382.46', 'hba': 6, 'hba_lipinski': 6, 'hbd': 2, 'hbd_lipinski': 3, 'heavy_atoms': 28, 'molecular_species': 'BASE', 'mw_freebase': '382.46', 'mw_monoisotopic': '382.1893', 'np_likeness_score': '-0.70', 'num_lipinski_ro5_violations': 0, 'num_ro5_violations': 0, 'psa': '86.71', 'qed_weighted': '0.59', 'ro3_pass': 'N', 'rtb': 8}
+
+>  <molecule_synonyms>  (20) 
+[]
+
+>  <molecule_type>  (20) 
+Small molecule
+
+>  <natural_product>  (20) 
+0
+
+>  <oral>  (20) 
+False
+
+>  <parenteral>  (20) 
+False
+
+>  <polymer_flag>  (20) 
+0
+
+>  <pref_name>  (20) 
+nan
+
+>  <prodrug>  (20) 
+-1
+
+>  <structure_type>  (20) 
+MOL
+
+>  <therapeutic_flag>  (20) 
+False
+
+>  <topical>  (20) 
+False
+
+>  <usan_stem>  (20) 
+nan
+
+>  <usan_stem_definition>  (20) 
+nan
+
+>  <usan_substem>  (20) 
+nan
+
+>  <usan_year>  (20) 
+nan
+
+>  <withdrawn_flag>  (20) 
+False
+
+>  <smiles>  (20) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(N)CO)cc12
+
+>  <cluster>  (20) 
+3
+
+$$$$
+CHEMBL3774689
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 20 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 17  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (21) 
+71
+
+>  <atc_classifications>  (21) 
+[]
+
+>  <availability_type>  (21) 
+-1
+
+>  <biotherapeutic>  (21) 
+nan
+
+>  <black_box_warning>  (21) 
+0
+
+>  <chebi_par_id>  (21) 
+nan
+
+>  <chemical_probe>  (21) 
+0
+
+>  <chirality>  (21) 
+-1
+
+>  <cross_references>  (21) 
+[]
+
+>  <dosed_ingredient>  (21) 
+False
+
+>  <first_approval>  (21) 
+nan
+
+>  <first_in_class>  (21) 
+-1
+
+>  <helm_notation>  (21) 
+nan
+
+>  <indication_class>  (21) 
+nan
+
+>  <inorganic_flag>  (21) 
+-1
+
+>  <max_phase>  (21) 
+nan
+
+>  <molecule_hierarchy>  (21) 
+{'active_chembl_id': 'CHEMBL3774689', 'molecule_chembl_id': 'CHEMBL3774689', 'parent_chembl_id': 'CHEMBL3774689'}
+
+>  <molecule_properties>  (21) 
+{'alogp': '5.38', 'aromatic_rings': 3, 'cx_logd': '5.12', 'cx_logp': '5.55', 'cx_most_apka': None, 'cx_most_bpka': '7.63', 'full_molformula': 'C27H33FN2O3', 'full_mwt': '452.57', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'NEUTRAL', 'mw_freebase': '452.57', 'mw_monoisotopic': '452.2475', 'np_likeness_score': '-1.18', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.41', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (21) 
+[]
+
+>  <molecule_type>  (21) 
+Small molecule
+
+>  <natural_product>  (21) 
+0
+
+>  <oral>  (21) 
+False
+
+>  <parenteral>  (21) 
+False
+
+>  <polymer_flag>  (21) 
+0
+
+>  <pref_name>  (21) 
+nan
+
+>  <prodrug>  (21) 
+-1
+
+>  <structure_type>  (21) 
+MOL
+
+>  <therapeutic_flag>  (21) 
+False
+
+>  <topical>  (21) 
+False
+
+>  <usan_stem>  (21) 
+nan
+
+>  <usan_stem_definition>  (21) 
+nan
+
+>  <usan_substem>  (21) 
+nan
+
+>  <usan_year>  (21) 
+nan
+
+>  <withdrawn_flag>  (21) 
+False
+
+>  <smiles>  (21) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(F)CN3CCCCC3)cc12
+
+>  <cluster>  (21) 
+3
+
+$$$$
+CHEMBL3774582
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1170   -7.0506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2317   -6.0469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9199   -4.5797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4933   -4.1162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  9 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 17 12  1  0
+ 33 18  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (22) 
+72
+
+>  <atc_classifications>  (22) 
+[]
+
+>  <availability_type>  (22) 
+-1
+
+>  <biotherapeutic>  (22) 
+nan
+
+>  <black_box_warning>  (22) 
+0
+
+>  <chebi_par_id>  (22) 
+nan
+
+>  <chemical_probe>  (22) 
+0
+
+>  <chirality>  (22) 
+-1
+
+>  <cross_references>  (22) 
+[]
+
+>  <dosed_ingredient>  (22) 
+False
+
+>  <first_approval>  (22) 
+nan
+
+>  <first_in_class>  (22) 
+-1
+
+>  <helm_notation>  (22) 
+nan
+
+>  <indication_class>  (22) 
+nan
+
+>  <inorganic_flag>  (22) 
+-1
+
+>  <max_phase>  (22) 
+nan
+
+>  <molecule_hierarchy>  (22) 
+{'active_chembl_id': 'CHEMBL3774582', 'molecule_chembl_id': 'CHEMBL3774582', 'parent_chembl_id': 'CHEMBL3774582'}
+
+>  <molecule_properties>  (22) 
+{'alogp': '5.62', 'aromatic_rings': 3, 'cx_logd': '3.84', 'cx_logp': '5.64', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H36N2O3', 'full_mwt': '448.61', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '448.61', 'mw_monoisotopic': '448.2726', 'np_likeness_score': '-1.16', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.30', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (22) 
+[]
+
+>  <molecule_type>  (22) 
+Small molecule
+
+>  <natural_product>  (22) 
+0
+
+>  <oral>  (22) 
+False
+
+>  <parenteral>  (22) 
+False
+
+>  <polymer_flag>  (22) 
+0
+
+>  <pref_name>  (22) 
+nan
+
+>  <prodrug>  (22) 
+-1
+
+>  <structure_type>  (22) 
+MOL
+
+>  <therapeutic_flag>  (22) 
+False
+
+>  <topical>  (22) 
+False
+
+>  <usan_stem>  (22) 
+nan
+
+>  <usan_stem_definition>  (22) 
+nan
+
+>  <usan_substem>  (22) 
+nan
+
+>  <usan_year>  (22) 
+nan
+
+>  <withdrawn_flag>  (22) 
+False
+
+>  <smiles>  (22) 
+CCOC(=O)c1c(C)n(CCc2ccccc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (22) 
+3
+
+$$$$
+CHEMBL3774886
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1170   -7.0506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  2  0
+  9 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 17 11  1  0
+ 33 18  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (23) 
+73
+
+>  <atc_classifications>  (23) 
+[]
+
+>  <availability_type>  (23) 
+-1
+
+>  <biotherapeutic>  (23) 
+nan
+
+>  <black_box_warning>  (23) 
+0
+
+>  <chebi_par_id>  (23) 
+nan
+
+>  <chemical_probe>  (23) 
+0
+
+>  <chirality>  (23) 
+-1
+
+>  <cross_references>  (23) 
+[]
+
+>  <dosed_ingredient>  (23) 
+False
+
+>  <first_approval>  (23) 
+nan
+
+>  <first_in_class>  (23) 
+-1
+
+>  <helm_notation>  (23) 
+nan
+
+>  <indication_class>  (23) 
+nan
+
+>  <inorganic_flag>  (23) 
+-1
+
+>  <max_phase>  (23) 
+nan
+
+>  <molecule_hierarchy>  (23) 
+{'active_chembl_id': 'CHEMBL3774886', 'molecule_chembl_id': 'CHEMBL3774886', 'parent_chembl_id': 'CHEMBL3774886'}
+
+>  <molecule_properties>  (23) 
+{'alogp': '5.74', 'aromatic_rings': 3, 'cx_logd': '4.06', 'cx_logp': '5.86', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H36N2O3', 'full_mwt': '448.61', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '448.61', 'mw_monoisotopic': '448.2726', 'np_likeness_score': '-1.42', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (23) 
+[]
+
+>  <molecule_type>  (23) 
+Small molecule
+
+>  <natural_product>  (23) 
+0
+
+>  <oral>  (23) 
+False
+
+>  <parenteral>  (23) 
+False
+
+>  <polymer_flag>  (23) 
+0
+
+>  <pref_name>  (23) 
+nan
+
+>  <prodrug>  (23) 
+-1
+
+>  <structure_type>  (23) 
+MOL
+
+>  <therapeutic_flag>  (23) 
+False
+
+>  <topical>  (23) 
+False
+
+>  <usan_stem>  (23) 
+nan
+
+>  <usan_stem_definition>  (23) 
+nan
+
+>  <usan_substem>  (23) 
+nan
+
+>  <usan_year>  (23) 
+nan
+
+>  <withdrawn_flag>  (23) 
+False
+
+>  <smiles>  (23) 
+CCOC(=O)c1c(C)n(Cc2cccc(C)c2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (23) 
+3
+
+$$$$
+CHEMBL3774548
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4933   -4.1162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9199   -4.5797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+  9 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 22 33  1  0
+ 33 34  2  0
+ 34  6  1  0
+ 16 11  1  0
+ 34 19  1  0
+ 32 27  1  0
+M  END
+>  <Unnamed: 0>  (24) 
+74
+
+>  <atc_classifications>  (24) 
+[]
+
+>  <availability_type>  (24) 
+-1
+
+>  <biotherapeutic>  (24) 
+nan
+
+>  <black_box_warning>  (24) 
+0
+
+>  <chebi_par_id>  (24) 
+nan
+
+>  <chemical_probe>  (24) 
+0
+
+>  <chirality>  (24) 
+-1
+
+>  <cross_references>  (24) 
+[]
+
+>  <dosed_ingredient>  (24) 
+False
+
+>  <first_approval>  (24) 
+nan
+
+>  <first_in_class>  (24) 
+-1
+
+>  <helm_notation>  (24) 
+nan
+
+>  <indication_class>  (24) 
+nan
+
+>  <inorganic_flag>  (24) 
+-1
+
+>  <max_phase>  (24) 
+nan
+
+>  <molecule_hierarchy>  (24) 
+{'active_chembl_id': 'CHEMBL3774548', 'molecule_chembl_id': 'CHEMBL3774548', 'parent_chembl_id': 'CHEMBL3774548'}
+
+>  <molecule_properties>  (24) 
+{'alogp': '5.44', 'aromatic_rings': 3, 'cx_logd': '3.39', 'cx_logp': '5.19', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H36N2O4', 'full_mwt': '464.61', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '464.61', 'mw_monoisotopic': '464.2675', 'np_likeness_score': '-1.26', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '52.93', 'qed_weighted': '0.30', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (24) 
+[]
+
+>  <molecule_type>  (24) 
+Small molecule
+
+>  <natural_product>  (24) 
+0
+
+>  <oral>  (24) 
+False
+
+>  <parenteral>  (24) 
+False
+
+>  <polymer_flag>  (24) 
+0
+
+>  <pref_name>  (24) 
+nan
+
+>  <prodrug>  (24) 
+-1
+
+>  <structure_type>  (24) 
+MOL
+
+>  <therapeutic_flag>  (24) 
+False
+
+>  <topical>  (24) 
+False
+
+>  <usan_stem>  (24) 
+nan
+
+>  <usan_stem_definition>  (24) 
+nan
+
+>  <usan_substem>  (24) 
+nan
+
+>  <usan_year>  (24) 
+nan
+
+>  <withdrawn_flag>  (24) 
+False
+
+>  <smiles>  (24) 
+CCOC(=O)c1c(C)n(Cc2ccccc2OC)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (24) 
+3
+
+$$$$
+CHEMBL3774891
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1170   -7.0506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4289   -8.5179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 15 18  2  0
+  9 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 22 33  1  0
+ 33 34  2  0
+ 34  6  1  0
+ 18 11  1  0
+ 34 19  1  0
+ 32 27  1  0
+M  END
+>  <Unnamed: 0>  (25) 
+75
+
+>  <atc_classifications>  (25) 
+[]
+
+>  <availability_type>  (25) 
+-1
+
+>  <biotherapeutic>  (25) 
+nan
+
+>  <black_box_warning>  (25) 
+0
+
+>  <chebi_par_id>  (25) 
+nan
+
+>  <chemical_probe>  (25) 
+0
+
+>  <chirality>  (25) 
+-1
+
+>  <cross_references>  (25) 
+[]
+
+>  <dosed_ingredient>  (25) 
+False
+
+>  <first_approval>  (25) 
+nan
+
+>  <first_in_class>  (25) 
+-1
+
+>  <helm_notation>  (25) 
+nan
+
+>  <indication_class>  (25) 
+nan
+
+>  <inorganic_flag>  (25) 
+-1
+
+>  <max_phase>  (25) 
+nan
+
+>  <molecule_hierarchy>  (25) 
+{'active_chembl_id': 'CHEMBL3774891', 'molecule_chembl_id': 'CHEMBL3774891', 'parent_chembl_id': 'CHEMBL3774891'}
+
+>  <molecule_properties>  (25) 
+{'alogp': '5.44', 'aromatic_rings': 3, 'cx_logd': '3.39', 'cx_logp': '5.19', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H36N2O4', 'full_mwt': '464.61', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '464.61', 'mw_monoisotopic': '464.2675', 'np_likeness_score': '-1.31', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '52.93', 'qed_weighted': '0.30', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (25) 
+[]
+
+>  <molecule_type>  (25) 
+Small molecule
+
+>  <natural_product>  (25) 
+0
+
+>  <oral>  (25) 
+False
+
+>  <parenteral>  (25) 
+False
+
+>  <polymer_flag>  (25) 
+0
+
+>  <pref_name>  (25) 
+nan
+
+>  <prodrug>  (25) 
+-1
+
+>  <structure_type>  (25) 
+MOL
+
+>  <therapeutic_flag>  (25) 
+False
+
+>  <topical>  (25) 
+False
+
+>  <usan_stem>  (25) 
+nan
+
+>  <usan_stem_definition>  (25) 
+nan
+
+>  <usan_substem>  (25) 
+nan
+
+>  <usan_year>  (25) 
+nan
+
+>  <withdrawn_flag>  (25) 
+False
+
+>  <smiles>  (25) 
+CCOC(=O)c1c(C)n(Cc2cccc(OC)c2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (25) 
+3
+
+$$$$
+CHEMBL3775726
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -9.0580    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7729  -10.0617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 14 17  1  0
+ 17 18  2  0
+  9 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 22 33  1  0
+ 33 34  2  0
+ 34  6  1  0
+ 18 11  1  0
+ 34 19  1  0
+ 32 27  1  0
+M  END
+>  <Unnamed: 0>  (26) 
+76
+
+>  <atc_classifications>  (26) 
+[]
+
+>  <availability_type>  (26) 
+-1
+
+>  <biotherapeutic>  (26) 
+nan
+
+>  <black_box_warning>  (26) 
+0
+
+>  <chebi_par_id>  (26) 
+nan
+
+>  <chemical_probe>  (26) 
+0
+
+>  <chirality>  (26) 
+-1
+
+>  <cross_references>  (26) 
+[]
+
+>  <dosed_ingredient>  (26) 
+False
+
+>  <first_approval>  (26) 
+nan
+
+>  <first_in_class>  (26) 
+-1
+
+>  <helm_notation>  (26) 
+nan
+
+>  <indication_class>  (26) 
+nan
+
+>  <inorganic_flag>  (26) 
+-1
+
+>  <max_phase>  (26) 
+nan
+
+>  <molecule_hierarchy>  (26) 
+{'active_chembl_id': 'CHEMBL3775726', 'molecule_chembl_id': 'CHEMBL3775726', 'parent_chembl_id': 'CHEMBL3775726'}
+
+>  <molecule_properties>  (26) 
+{'alogp': '5.44', 'aromatic_rings': 3, 'cx_logd': '3.39', 'cx_logp': '5.19', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H36N2O4', 'full_mwt': '464.61', 'hba': 6, 'hba_lipinski': 6, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 34, 'molecular_species': 'BASE', 'mw_freebase': '464.61', 'mw_monoisotopic': '464.2675', 'np_likeness_score': '-1.17', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '52.93', 'qed_weighted': '0.30', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (26) 
+[]
+
+>  <molecule_type>  (26) 
+Small molecule
+
+>  <natural_product>  (26) 
+0
+
+>  <oral>  (26) 
+False
+
+>  <parenteral>  (26) 
+False
+
+>  <polymer_flag>  (26) 
+0
+
+>  <pref_name>  (26) 
+nan
+
+>  <prodrug>  (26) 
+-1
+
+>  <structure_type>  (26) 
+MOL
+
+>  <therapeutic_flag>  (26) 
+False
+
+>  <topical>  (26) 
+False
+
+>  <usan_stem>  (26) 
+nan
+
+>  <usan_stem_definition>  (26) 
+nan
+
+>  <usan_substem>  (26) 
+nan
+
+>  <usan_year>  (26) 
+nan
+
+>  <withdrawn_flag>  (26) 
+False
+
+>  <smiles>  (26) 
+CCOC(=O)c1c(C)n(Cc2ccc(OC)cc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (26) 
+3
+
+$$$$
+CHEMBL3774520
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4933   -4.1162    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+  9 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 16 11  1  0
+ 33 18  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (27) 
+77
+
+>  <atc_classifications>  (27) 
+[]
+
+>  <availability_type>  (27) 
+-1
+
+>  <biotherapeutic>  (27) 
+nan
+
+>  <black_box_warning>  (27) 
+0
+
+>  <chebi_par_id>  (27) 
+nan
+
+>  <chemical_probe>  (27) 
+0
+
+>  <chirality>  (27) 
+-1
+
+>  <cross_references>  (27) 
+[]
+
+>  <dosed_ingredient>  (27) 
+False
+
+>  <first_approval>  (27) 
+nan
+
+>  <first_in_class>  (27) 
+-1
+
+>  <helm_notation>  (27) 
+nan
+
+>  <indication_class>  (27) 
+nan
+
+>  <inorganic_flag>  (27) 
+-1
+
+>  <max_phase>  (27) 
+nan
+
+>  <molecule_hierarchy>  (27) 
+{'active_chembl_id': 'CHEMBL3774520', 'molecule_chembl_id': 'CHEMBL3774520', 'parent_chembl_id': 'CHEMBL3774520'}
+
+>  <molecule_properties>  (27) 
+{'alogp': '5.57', 'aromatic_rings': 3, 'cx_logd': '3.69', 'cx_logp': '5.49', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33FN2O3', 'full_mwt': '452.57', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '452.57', 'mw_monoisotopic': '452.2475', 'np_likeness_score': '-1.60', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (27) 
+[]
+
+>  <molecule_type>  (27) 
+Small molecule
+
+>  <natural_product>  (27) 
+0
+
+>  <oral>  (27) 
+False
+
+>  <parenteral>  (27) 
+False
+
+>  <polymer_flag>  (27) 
+0
+
+>  <pref_name>  (27) 
+nan
+
+>  <prodrug>  (27) 
+-1
+
+>  <structure_type>  (27) 
+MOL
+
+>  <therapeutic_flag>  (27) 
+False
+
+>  <topical>  (27) 
+False
+
+>  <usan_stem>  (27) 
+nan
+
+>  <usan_stem_definition>  (27) 
+nan
+
+>  <usan_substem>  (27) 
+nan
+
+>  <usan_year>  (27) 
+nan
+
+>  <withdrawn_flag>  (27) 
+False
+
+>  <smiles>  (27) 
+CCOC(=O)c1c(C)n(Cc2ccccc2F)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (27) 
+3
+
+$$$$
+CHEMBL3775401
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1170   -7.0506    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  2  0
+  9 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 17 11  1  0
+ 33 18  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (28) 
+78
+
+>  <atc_classifications>  (28) 
+[]
+
+>  <availability_type>  (28) 
+-1
+
+>  <biotherapeutic>  (28) 
+nan
+
+>  <black_box_warning>  (28) 
+0
+
+>  <chebi_par_id>  (28) 
+nan
+
+>  <chemical_probe>  (28) 
+0
+
+>  <chirality>  (28) 
+-1
+
+>  <cross_references>  (28) 
+[]
+
+>  <dosed_ingredient>  (28) 
+False
+
+>  <first_approval>  (28) 
+nan
+
+>  <first_in_class>  (28) 
+-1
+
+>  <helm_notation>  (28) 
+nan
+
+>  <indication_class>  (28) 
+nan
+
+>  <inorganic_flag>  (28) 
+-1
+
+>  <max_phase>  (28) 
+nan
+
+>  <molecule_hierarchy>  (28) 
+{'active_chembl_id': 'CHEMBL3775401', 'molecule_chembl_id': 'CHEMBL3775401', 'parent_chembl_id': 'CHEMBL3775401'}
+
+>  <molecule_properties>  (28) 
+{'alogp': '5.57', 'aromatic_rings': 3, 'cx_logd': '3.69', 'cx_logp': '5.49', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33FN2O3', 'full_mwt': '452.57', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '452.57', 'mw_monoisotopic': '452.2475', 'np_likeness_score': '-1.63', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (28) 
+[]
+
+>  <molecule_type>  (28) 
+Small molecule
+
+>  <natural_product>  (28) 
+0
+
+>  <oral>  (28) 
+False
+
+>  <parenteral>  (28) 
+False
+
+>  <polymer_flag>  (28) 
+0
+
+>  <pref_name>  (28) 
+nan
+
+>  <prodrug>  (28) 
+-1
+
+>  <structure_type>  (28) 
+MOL
+
+>  <therapeutic_flag>  (28) 
+False
+
+>  <topical>  (28) 
+False
+
+>  <usan_stem>  (28) 
+nan
+
+>  <usan_stem_definition>  (28) 
+nan
+
+>  <usan_substem>  (28) 
+nan
+
+>  <usan_year>  (28) 
+nan
+
+>  <withdrawn_flag>  (28) 
+False
+
+>  <smiles>  (28) 
+CCOC(=O)c1c(C)n(Cc2cccc(F)c2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (28) 
+3
+
+$$$$
+CHEMBL3775789
+     RDKit          2D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -9.0580    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+  9 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 21 32  1  0
+ 32 33  2  0
+ 33  6  1  0
+ 17 11  1  0
+ 33 18  1  0
+ 31 26  1  0
+M  END
+>  <Unnamed: 0>  (29) 
+79
+
+>  <atc_classifications>  (29) 
+[]
+
+>  <availability_type>  (29) 
+-1
+
+>  <biotherapeutic>  (29) 
+nan
+
+>  <black_box_warning>  (29) 
+0
+
+>  <chebi_par_id>  (29) 
+nan
+
+>  <chemical_probe>  (29) 
+0
+
+>  <chirality>  (29) 
+-1
+
+>  <cross_references>  (29) 
+[]
+
+>  <dosed_ingredient>  (29) 
+False
+
+>  <first_approval>  (29) 
+nan
+
+>  <first_in_class>  (29) 
+-1
+
+>  <helm_notation>  (29) 
+nan
+
+>  <indication_class>  (29) 
+nan
+
+>  <inorganic_flag>  (29) 
+-1
+
+>  <max_phase>  (29) 
+nan
+
+>  <molecule_hierarchy>  (29) 
+{'active_chembl_id': 'CHEMBL3775789', 'molecule_chembl_id': 'CHEMBL3775789', 'parent_chembl_id': 'CHEMBL3775789'}
+
+>  <molecule_properties>  (29) 
+{'alogp': '5.57', 'aromatic_rings': 3, 'cx_logd': '3.69', 'cx_logp': '5.49', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33FN2O3', 'full_mwt': '452.57', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 33, 'molecular_species': 'BASE', 'mw_freebase': '452.57', 'mw_monoisotopic': '452.2475', 'np_likeness_score': '-1.47', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '43.70', 'qed_weighted': '0.31', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (29) 
+[]
+
+>  <molecule_type>  (29) 
+Small molecule
+
+>  <natural_product>  (29) 
+0
+
+>  <oral>  (29) 
+False
+
+>  <parenteral>  (29) 
+False
+
+>  <polymer_flag>  (29) 
+0
+
+>  <pref_name>  (29) 
+nan
+
+>  <prodrug>  (29) 
+-1
+
+>  <structure_type>  (29) 
+MOL
+
+>  <therapeutic_flag>  (29) 
+False
+
+>  <topical>  (29) 
+False
+
+>  <usan_stem>  (29) 
+nan
+
+>  <usan_stem_definition>  (29) 
+nan
+
+>  <usan_substem>  (29) 
+nan
+
+>  <usan_year>  (29) 
+nan
+
+>  <withdrawn_flag>  (29) 
+False
+
+>  <smiles>  (29) 
+CCOC(=O)c1c(C)n(Cc2ccc(F)cc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (29) 
+3
+
+$$$$
+CHEMBL3775871
+     RDKit          2D
+
+ 36 39  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -9.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1994  -10.5253    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4204   -9.3699    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3548   -8.7462    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 15 18  1  0
+ 14 19  1  0
+ 19 20  2  0
+  9 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  2  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 33 34  1  0
+ 24 35  1  0
+ 35 36  2  0
+ 36  6  1  0
+ 20 11  1  0
+ 36 21  1  0
+ 34 29  1  0
+M  END
+>  <Unnamed: 0>  (30) 
+80
+
+>  <atc_classifications>  (30) 
+[]
+
+>  <availability_type>  (30) 
+-1
+
+>  <biotherapeutic>  (30) 
+nan
+
+>  <black_box_warning>  (30) 
+0
+
+>  <chebi_par_id>  (30) 
+nan
+
+>  <chemical_probe>  (30) 
+0
+
+>  <chirality>  (30) 
+-1
+
+>  <cross_references>  (30) 
+[]
+
+>  <dosed_ingredient>  (30) 
+False
+
+>  <first_approval>  (30) 
+nan
+
+>  <first_in_class>  (30) 
+-1
+
+>  <helm_notation>  (30) 
+nan
+
+>  <indication_class>  (30) 
+nan
+
+>  <inorganic_flag>  (30) 
+-1
+
+>  <max_phase>  (30) 
+nan
+
+>  <molecule_hierarchy>  (30) 
+{'active_chembl_id': 'CHEMBL3775871', 'molecule_chembl_id': 'CHEMBL3775871', 'parent_chembl_id': 'CHEMBL3775871'}
+
+>  <molecule_properties>  (30) 
+{'alogp': '6.45', 'aromatic_rings': 3, 'cx_logd': '4.43', 'cx_logp': '6.23', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C28H33F3N2O3', 'full_mwt': '502.58', 'hba': 5, 'hba_lipinski': 5, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 36, 'molecular_species': 'BASE', 'mw_freebase': '502.58', 'mw_monoisotopic': '502.2443', 'np_likeness_score': '-1.38', 'num_lipinski_ro5_violations': 2, 'num_ro5_violations': 2, 'psa': '43.70', 'qed_weighted': '0.25', 'ro3_pass': 'N', 'rtb': 9}
+
+>  <molecule_synonyms>  (30) 
+[]
+
+>  <molecule_type>  (30) 
+Small molecule
+
+>  <natural_product>  (30) 
+0
+
+>  <oral>  (30) 
+False
+
+>  <parenteral>  (30) 
+False
+
+>  <polymer_flag>  (30) 
+0
+
+>  <pref_name>  (30) 
+nan
+
+>  <prodrug>  (30) 
+-1
+
+>  <structure_type>  (30) 
+MOL
+
+>  <therapeutic_flag>  (30) 
+False
+
+>  <topical>  (30) 
+False
+
+>  <usan_stem>  (30) 
+nan
+
+>  <usan_stem_definition>  (30) 
+nan
+
+>  <usan_substem>  (30) 
+nan
+
+>  <usan_year>  (30) 
+nan
+
+>  <withdrawn_flag>  (30) 
+False
+
+>  <smiles>  (30) 
+CCOC(=O)c1c(C)n(Cc2ccc(C(F)(F)F)cc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (30) 
+3
+
+$$$$
+CHEMBL3775173
+     RDKit          2D
+
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4933   -4.1162    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    5.1814   -2.6490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9199   -4.5797    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+  9 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 23 34  1  0
+ 34 35  2  0
+ 35  6  1  0
+ 16 11  1  0
+ 35 20  1  0
+ 33 28  1  0
+M  CHG  2  17   1  19  -1
+M  END
+>  <Unnamed: 0>  (31) 
+81
+
+>  <atc_classifications>  (31) 
+[]
+
+>  <availability_type>  (31) 
+-1
+
+>  <biotherapeutic>  (31) 
+nan
+
+>  <black_box_warning>  (31) 
+0
+
+>  <chebi_par_id>  (31) 
+nan
+
+>  <chemical_probe>  (31) 
+0
+
+>  <chirality>  (31) 
+-1
+
+>  <cross_references>  (31) 
+[]
+
+>  <dosed_ingredient>  (31) 
+False
+
+>  <first_approval>  (31) 
+nan
+
+>  <first_in_class>  (31) 
+-1
+
+>  <helm_notation>  (31) 
+nan
+
+>  <indication_class>  (31) 
+nan
+
+>  <inorganic_flag>  (31) 
+-1
+
+>  <max_phase>  (31) 
+nan
+
+>  <molecule_hierarchy>  (31) 
+{'active_chembl_id': 'CHEMBL3775173', 'molecule_chembl_id': 'CHEMBL3775173', 'parent_chembl_id': 'CHEMBL3775173'}
+
+>  <molecule_properties>  (31) 
+{'alogp': '5.34', 'aromatic_rings': 3, 'cx_logd': '3.49', 'cx_logp': '5.29', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33N3O5', 'full_mwt': '479.58', 'hba': 7, 'hba_lipinski': 8, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 35, 'molecular_species': 'BASE', 'mw_freebase': '479.58', 'mw_monoisotopic': '479.2420', 'np_likeness_score': '-1.51', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '86.84', 'qed_weighted': '0.17', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (31) 
+[]
+
+>  <molecule_type>  (31) 
+Small molecule
+
+>  <natural_product>  (31) 
+0
+
+>  <oral>  (31) 
+False
+
+>  <parenteral>  (31) 
+False
+
+>  <polymer_flag>  (31) 
+0
+
+>  <pref_name>  (31) 
+nan
+
+>  <prodrug>  (31) 
+-1
+
+>  <structure_type>  (31) 
+MOL
+
+>  <therapeutic_flag>  (31) 
+False
+
+>  <topical>  (31) 
+False
+
+>  <usan_stem>  (31) 
+nan
+
+>  <usan_stem_definition>  (31) 
+nan
+
+>  <usan_substem>  (31) 
+nan
+
+>  <usan_year>  (31) 
+nan
+
+>  <withdrawn_flag>  (31) 
+False
+
+>  <smiles>  (31) 
+CCOC(=O)c1c(C)n(Cc2ccccc2[N+](=O)[O-])c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (31) 
+3
+
+$$$$
+CHEMBL3775575
+     RDKit          2D
+
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1170   -7.0506    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    7.2317   -6.0469    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4289   -8.5179    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 15 19  2  0
+  9 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 23 34  1  0
+ 34 35  2  0
+ 35  6  1  0
+ 19 11  1  0
+ 35 20  1  0
+ 33 28  1  0
+M  CHG  2  16   1  18  -1
+M  END
+>  <Unnamed: 0>  (32) 
+82
+
+>  <atc_classifications>  (32) 
+[]
+
+>  <availability_type>  (32) 
+-1
+
+>  <biotherapeutic>  (32) 
+nan
+
+>  <black_box_warning>  (32) 
+0
+
+>  <chebi_par_id>  (32) 
+nan
+
+>  <chemical_probe>  (32) 
+0
+
+>  <chirality>  (32) 
+-1
+
+>  <cross_references>  (32) 
+[]
+
+>  <dosed_ingredient>  (32) 
+False
+
+>  <first_approval>  (32) 
+nan
+
+>  <first_in_class>  (32) 
+-1
+
+>  <helm_notation>  (32) 
+nan
+
+>  <indication_class>  (32) 
+nan
+
+>  <inorganic_flag>  (32) 
+-1
+
+>  <max_phase>  (32) 
+nan
+
+>  <molecule_hierarchy>  (32) 
+{'active_chembl_id': 'CHEMBL3775575', 'molecule_chembl_id': 'CHEMBL3775575', 'parent_chembl_id': 'CHEMBL3775575'}
+
+>  <molecule_properties>  (32) 
+{'alogp': '5.34', 'aromatic_rings': 3, 'cx_logd': '3.49', 'cx_logp': '5.29', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33N3O5', 'full_mwt': '479.58', 'hba': 7, 'hba_lipinski': 8, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 35, 'molecular_species': 'BASE', 'mw_freebase': '479.58', 'mw_monoisotopic': '479.2420', 'np_likeness_score': '-1.61', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '86.84', 'qed_weighted': '0.17', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (32) 
+[]
+
+>  <molecule_type>  (32) 
+Small molecule
+
+>  <natural_product>  (32) 
+0
+
+>  <oral>  (32) 
+False
+
+>  <parenteral>  (32) 
+False
+
+>  <polymer_flag>  (32) 
+0
+
+>  <pref_name>  (32) 
+nan
+
+>  <prodrug>  (32) 
+-1
+
+>  <structure_type>  (32) 
+MOL
+
+>  <therapeutic_flag>  (32) 
+False
+
+>  <topical>  (32) 
+False
+
+>  <usan_stem>  (32) 
+nan
+
+>  <usan_stem_definition>  (32) 
+nan
+
+>  <usan_substem>  (32) 
+nan
+
+>  <usan_year>  (32) 
+nan
+
+>  <withdrawn_flag>  (32) 
+False
+
+>  <smiles>  (32) 
+CCOC(=O)c1c(C)n(Cc2cccc([N+](=O)[O-])c2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (32) 
+3
+
+$$$$
+CHEMBL3775819
+     RDKit          2D
+
+ 35 38  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -9.0580    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    5.3142   -9.5216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7729  -10.0617    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 14 18  1  0
+ 18 19  2  0
+  9 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 23 34  1  0
+ 34 35  2  0
+ 35  6  1  0
+ 19 11  1  0
+ 35 20  1  0
+ 33 28  1  0
+M  CHG  2  15   1  17  -1
+M  END
+>  <Unnamed: 0>  (33) 
+83
+
+>  <atc_classifications>  (33) 
+[]
+
+>  <availability_type>  (33) 
+-1
+
+>  <biotherapeutic>  (33) 
+nan
+
+>  <black_box_warning>  (33) 
+0
+
+>  <chebi_par_id>  (33) 
+nan
+
+>  <chemical_probe>  (33) 
+0
+
+>  <chirality>  (33) 
+-1
+
+>  <cross_references>  (33) 
+[]
+
+>  <dosed_ingredient>  (33) 
+False
+
+>  <first_approval>  (33) 
+nan
+
+>  <first_in_class>  (33) 
+-1
+
+>  <helm_notation>  (33) 
+nan
+
+>  <indication_class>  (33) 
+nan
+
+>  <inorganic_flag>  (33) 
+-1
+
+>  <max_phase>  (33) 
+nan
+
+>  <molecule_hierarchy>  (33) 
+{'active_chembl_id': 'CHEMBL3775819', 'molecule_chembl_id': 'CHEMBL3775819', 'parent_chembl_id': 'CHEMBL3775819'}
+
+>  <molecule_properties>  (33) 
+{'alogp': '5.34', 'aromatic_rings': 3, 'cx_logd': '3.49', 'cx_logp': '5.29', 'cx_most_apka': None, 'cx_most_bpka': '9.20', 'full_molformula': 'C27H33N3O5', 'full_mwt': '479.58', 'hba': 7, 'hba_lipinski': 8, 'hbd': 0, 'hbd_lipinski': 0, 'heavy_atoms': 35, 'molecular_species': 'BASE', 'mw_freebase': '479.58', 'mw_monoisotopic': '479.2420', 'np_likeness_score': '-1.45', 'num_lipinski_ro5_violations': 1, 'num_ro5_violations': 1, 'psa': '86.84', 'qed_weighted': '0.17', 'ro3_pass': 'N', 'rtb': 10}
+
+>  <molecule_synonyms>  (33) 
+[]
+
+>  <molecule_type>  (33) 
+Small molecule
+
+>  <natural_product>  (33) 
+0
+
+>  <oral>  (33) 
+False
+
+>  <parenteral>  (33) 
+False
+
+>  <polymer_flag>  (33) 
+0
+
+>  <pref_name>  (33) 
+nan
+
+>  <prodrug>  (33) 
+-1
+
+>  <structure_type>  (33) 
+MOL
+
+>  <therapeutic_flag>  (33) 
+False
+
+>  <topical>  (33) 
+False
+
+>  <usan_stem>  (33) 
+nan
+
+>  <usan_stem_definition>  (33) 
+nan
+
+>  <usan_substem>  (33) 
+nan
+
+>  <usan_year>  (33) 
+nan
+
+>  <withdrawn_flag>  (33) 
+False
+
+>  <smiles>  (33) 
+CCOC(=O)c1c(C)n(Cc2ccc([N+](=O)[O-])cc2)c2ccc(OCCCN3CCCCC3)cc12
+
+>  <cluster>  (33) 
+3
+
+$$$$
+CHEMBL3929187
+     RDKit          2D
+
+ 48 53  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   14.2894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5082   15.7452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1963   17.2125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4954   17.9625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6101   16.9588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0773   17.2706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5409   18.6972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0081   19.0091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0118   17.8944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5482   16.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0810   16.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   11.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  2  0
+ 28 29  1  0
+ 29 30  2  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  2  0
+ 33 34  1  0
+ 34 35  2  0
+ 35 36  1  0
+ 36 37  1  0
+ 37 38  2  0
+ 38 39  1  0
+ 39 40  2  0
+ 40 41  1  0
+ 41 42  2  0
+ 30 43  1  0
+ 43 44  1  0
+ 44 45  1  0
+ 43 46  2  0
+ 20 47  1  0
+ 47 48  2  0
+ 48  6  1  0
+ 16 11  1  0
+ 48 17  1  0
+ 46 27  1  0
+ 36 32  1  0
+ 42 37  1  0
+M  END
+>  <Unnamed: 0>  (34) 
+86
+
+>  <atc_classifications>  (34) 
+[]
+
+>  <availability_type>  (34) 
+-1
+
+>  <biotherapeutic>  (34) 
+nan
+
+>  <black_box_warning>  (34) 
+0
+
+>  <chebi_par_id>  (34) 
+nan
+
+>  <chemical_probe>  (34) 
+0
+
+>  <chirality>  (34) 
+-1
+
+>  <cross_references>  (34) 
+[]
+
+>  <dosed_ingredient>  (34) 
+False
+
+>  <first_approval>  (34) 
+nan
+
+>  <first_in_class>  (34) 
+-1
+
+>  <helm_notation>  (34) 
+nan
+
+>  <indication_class>  (34) 
+nan
+
+>  <inorganic_flag>  (34) 
+-1
+
+>  <max_phase>  (34) 
+nan
+
+>  <molecule_hierarchy>  (34) 
+{'active_chembl_id': 'CHEMBL3929187', 'molecule_chembl_id': 'CHEMBL3929187', 'parent_chembl_id': 'CHEMBL3929187'}
+
+>  <molecule_properties>  (34) 
+{'alogp': '6.51', 'aromatic_rings': 6, 'cx_logd': '5.37', 'cx_logp': '6.91', 'cx_most_apka': None, 'cx_most_bpka': '8.93', 'full_molformula': 'C37H38N6O5', 'full_mwt': '646.75', 'hba': 11, 'hba_lipinski': 11, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 48, 'molecular_species': 'BASE', 'mw_freebase': '646.75', 'mw_monoisotopic': '646.2904', 'np_likeness_score': '-1.36', 'num_lipinski_ro5_violations': 3, 'num_ro5_violations': 3, 'psa': '114.55', 'qed_weighted': '0.10', 'ro3_pass': 'N', 'rtb': 15}
+
+>  <molecule_synonyms>  (34) 
+[]
+
+>  <molecule_type>  (34) 
+Small molecule
+
+>  <natural_product>  (34) 
+0
+
+>  <oral>  (34) 
+False
+
+>  <parenteral>  (34) 
+False
+
+>  <polymer_flag>  (34) 
+0
+
+>  <pref_name>  (34) 
+nan
+
+>  <prodrug>  (34) 
+-1
+
+>  <structure_type>  (34) 
+MOL
+
+>  <therapeutic_flag>  (34) 
+False
+
+>  <topical>  (34) 
+False
+
+>  <usan_stem>  (34) 
+nan
+
+>  <usan_stem_definition>  (34) 
+nan
+
+>  <usan_substem>  (34) 
+nan
+
+>  <usan_year>  (34) 
+nan
+
+>  <withdrawn_flag>  (34) 
+False
+
+>  <smiles>  (34) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCNCc3ccc(Oc4nnnn4-c4ccccc4)c(OC)c3)cc12
+
+>  <cluster>  (34) 
+3
+
+$$$$
+CHEMBL3945575
+     RDKit          2D
+
+ 55 60  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   16.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   16.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   18.3141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   18.7776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   17.7739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   20.2448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   20.7084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6904   22.1756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   19.1958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   20.6958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   18.3141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   18.7776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7548   17.7739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4430   16.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5577   15.3030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9843   15.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2961   17.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1814   18.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 28 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 32 33  2  0
+ 33 34  1  0
+ 34 35  2  0
+ 35 36  1  0
+ 36 37  2  0
+ 36 38  1  0
+ 38 39  1  0
+ 39 40  2  0
+ 39 41  1  0
+ 41 42  1  0
+ 42 43  1  0
+ 38 44  2  0
+ 44 45  1  0
+ 44 46  1  0
+ 46 47  1  0
+ 47 48  1  0
+ 48 49  2  0
+ 49 50  1  0
+ 50 51  2  0
+ 51 52  1  0
+ 52 53  2  0
+ 20 54  1  0
+ 54 55  2  0
+ 55  6  1  0
+ 16 11  1  0
+ 55 17  1  0
+ 37 32  1  0
+ 53 48  1  0
+ 46 35  1  0
+M  END
+>  <Unnamed: 0>  (35) 
+87
+
+>  <atc_classifications>  (35) 
+[]
+
+>  <availability_type>  (35) 
+-1
+
+>  <biotherapeutic>  (35) 
+nan
+
+>  <black_box_warning>  (35) 
+0
+
+>  <chebi_par_id>  (35) 
+nan
+
+>  <chemical_probe>  (35) 
+0
+
+>  <chirality>  (35) 
+-1
+
+>  <cross_references>  (35) 
+[]
+
+>  <dosed_ingredient>  (35) 
+False
+
+>  <first_approval>  (35) 
+nan
+
+>  <first_in_class>  (35) 
+-1
+
+>  <helm_notation>  (35) 
+nan
+
+>  <indication_class>  (35) 
+nan
+
+>  <inorganic_flag>  (35) 
+-1
+
+>  <max_phase>  (35) 
+nan
+
+>  <molecule_hierarchy>  (35) 
+{'active_chembl_id': 'CHEMBL3945575', 'molecule_chembl_id': 'CHEMBL3945575', 'parent_chembl_id': 'CHEMBL3945575'}
+
+>  <molecule_properties>  (35) 
+{'alogp': '6.43', 'aromatic_rings': 6, 'cx_logd': '5.63', 'cx_logp': '7.05', 'cx_most_apka': '13.79', 'cx_most_bpka': '8.81', 'full_molformula': 'C44H49N3O8', 'full_mwt': '747.89', 'hba': 11, 'hba_lipinski': 11, 'hbd': 3, 'hbd_lipinski': 3, 'heavy_atoms': 55, 'molecular_species': 'BASE', 'mw_freebase': '747.89', 'mw_monoisotopic': '747.3520', 'np_likeness_score': '-0.55', 'num_lipinski_ro5_violations': 3, 'num_ro5_violations': 3, 'psa': '133.41', 'qed_weighted': '0.09', 'ro3_pass': 'N', 'rtb': 18}
+
+>  <molecule_synonyms>  (35) 
+[]
+
+>  <molecule_type>  (35) 
+Small molecule
+
+>  <natural_product>  (35) 
+0
+
+>  <oral>  (35) 
+False
+
+>  <parenteral>  (35) 
+False
+
+>  <polymer_flag>  (35) 
+0
+
+>  <pref_name>  (35) 
+nan
+
+>  <prodrug>  (35) 
+-1
+
+>  <structure_type>  (35) 
+MOL
+
+>  <therapeutic_flag>  (35) 
+False
+
+>  <topical>  (35) 
+False
+
+>  <usan_stem>  (35) 
+nan
+
+>  <usan_stem_definition>  (35) 
+nan
+
+>  <usan_substem>  (35) 
+nan
+
+>  <usan_year>  (35) 
+nan
+
+>  <withdrawn_flag>  (35) 
+False
+
+>  <smiles>  (35) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CNCC(O)COc3ccc4c(c3)c(C(=O)OCC)c(C)n4Cc3ccccc3)cc12
+
+>  <cluster>  (35) 
+3
+
+$$$$
+CHEMBL3948087
+     RDKit          2D
+
+ 37 40  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   14.2894    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   11.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  2  0
+ 28 29  1  0
+ 29 30  2  0
+ 30 31  1  0
+ 30 32  1  0
+ 32 33  1  0
+ 33 34  1  0
+ 32 35  2  0
+ 20 36  1  0
+ 36 37  2  0
+ 37  6  1  0
+ 16 11  1  0
+ 37 17  1  0
+ 35 27  1  0
+M  END
+>  <Unnamed: 0>  (36) 
+88
+
+>  <atc_classifications>  (36) 
+[]
+
+>  <availability_type>  (36) 
+-1
+
+>  <biotherapeutic>  (36) 
+nan
+
+>  <black_box_warning>  (36) 
+0
+
+>  <chebi_par_id>  (36) 
+nan
+
+>  <chemical_probe>  (36) 
+0
+
+>  <chirality>  (36) 
+-1
+
+>  <cross_references>  (36) 
+[]
+
+>  <dosed_ingredient>  (36) 
+False
+
+>  <first_approval>  (36) 
+nan
+
+>  <first_in_class>  (36) 
+-1
+
+>  <helm_notation>  (36) 
+nan
+
+>  <indication_class>  (36) 
+nan
+
+>  <inorganic_flag>  (36) 
+-1
+
+>  <max_phase>  (36) 
+nan
+
+>  <molecule_hierarchy>  (36) 
+{'active_chembl_id': 'CHEMBL3948087', 'molecule_chembl_id': 'CHEMBL3948087', 'parent_chembl_id': 'CHEMBL3948087'}
+
+>  <molecule_properties>  (36) 
+{'alogp': '5.88', 'aromatic_rings': 4, 'cx_logd': '4.32', 'cx_logp': '5.83', 'cx_most_apka': None, 'cx_most_bpka': '8.90', 'full_molformula': 'C30H33FN2O4', 'full_mwt': '504.60', 'hba': 6, 'hba_lipinski': 6, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 37, 'molecular_species': 'BASE', 'mw_freebase': '504.60', 'mw_monoisotopic': '504.2424', 'np_likeness_score': '-1.26', 'num_lipinski_ro5_violations': 2, 'num_ro5_violations': 2, 'psa': '61.72', 'qed_weighted': '0.19', 'ro3_pass': 'N', 'rtb': 12}
+
+>  <molecule_synonyms>  (36) 
+[]
+
+>  <molecule_type>  (36) 
+Small molecule
+
+>  <natural_product>  (36) 
+0
+
+>  <oral>  (36) 
+False
+
+>  <parenteral>  (36) 
+False
+
+>  <polymer_flag>  (36) 
+0
+
+>  <pref_name>  (36) 
+nan
+
+>  <prodrug>  (36) 
+-1
+
+>  <structure_type>  (36) 
+MOL
+
+>  <therapeutic_flag>  (36) 
+False
+
+>  <topical>  (36) 
+False
+
+>  <usan_stem>  (36) 
+nan
+
+>  <usan_stem_definition>  (36) 
+nan
+
+>  <usan_substem>  (36) 
+nan
+
+>  <usan_year>  (36) 
+nan
+
+>  <withdrawn_flag>  (36) 
+False
+
+>  <smiles>  (36) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCNCc3ccc(F)c(OC)c3)cc12
+
+>  <cluster>  (36) 
+3
+
+$$$$
+CHEMBL3955315
+     RDKit          2D
+
+ 49 54  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000    5.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   14.2894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5082   15.7452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1963   17.2125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4954   17.9625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6101   16.9588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0773   17.2706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5409   18.6972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0081   19.0091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0118   17.8944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5482   16.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0810   16.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2500   11.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  2  0
+ 29 30  1  0
+ 30 31  2  0
+ 31 32  1  0
+ 32 33  1  0
+ 33 34  2  0
+ 34 35  1  0
+ 35 36  2  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 39  2  0
+ 39 40  1  0
+ 40 41  2  0
+ 41 42  1  0
+ 42 43  2  0
+ 31 44  1  0
+ 44 45  1  0
+ 45 46  1  0
+ 44 47  2  0
+ 20 48  1  0
+ 48 49  2  0
+ 49  6  1  0
+ 16 11  1  0
+ 49 17  1  0
+ 47 28  1  0
+ 37 33  1  0
+ 43 38  1  0
+M  END
+>  <Unnamed: 0>  (37) 
+89
+
+>  <atc_classifications>  (37) 
+[]
+
+>  <availability_type>  (37) 
+-1
+
+>  <biotherapeutic>  (37) 
+nan
+
+>  <black_box_warning>  (37) 
+0
+
+>  <chebi_par_id>  (37) 
+nan
+
+>  <chemical_probe>  (37) 
+0
+
+>  <chirality>  (37) 
+-1
+
+>  <cross_references>  (37) 
+[]
+
+>  <dosed_ingredient>  (37) 
+False
+
+>  <first_approval>  (37) 
+nan
+
+>  <first_in_class>  (37) 
+-1
+
+>  <helm_notation>  (37) 
+nan
+
+>  <indication_class>  (37) 
+nan
+
+>  <inorganic_flag>  (37) 
+-1
+
+>  <max_phase>  (37) 
+nan
+
+>  <molecule_hierarchy>  (37) 
+{'active_chembl_id': 'CHEMBL3955315', 'molecule_chembl_id': 'CHEMBL3955315', 'parent_chembl_id': 'CHEMBL3955315'}
+
+>  <molecule_properties>  (37) 
+{'alogp': '5.48', 'aromatic_rings': 6, 'cx_logd': '5.20', 'cx_logp': '6.22', 'cx_most_apka': None, 'cx_most_bpka': '8.38', 'full_molformula': 'C37H38N6O6', 'full_mwt': '662.75', 'hba': 12, 'hba_lipinski': 12, 'hbd': 2, 'hbd_lipinski': 2, 'heavy_atoms': 49, 'molecular_species': 'NEUTRAL', 'mw_freebase': '662.75', 'mw_monoisotopic': '662.2853', 'np_likeness_score': '-1.32', 'num_lipinski_ro5_violations': 3, 'num_ro5_violations': 3, 'psa': '134.78', 'qed_weighted': '0.14', 'ro3_pass': 'N', 'rtb': 15}
+
+>  <molecule_synonyms>  (37) 
+[]
+
+>  <molecule_type>  (37) 
+Small molecule
+
+>  <natural_product>  (37) 
+0
+
+>  <oral>  (37) 
+False
+
+>  <parenteral>  (37) 
+False
+
+>  <polymer_flag>  (37) 
+0
+
+>  <pref_name>  (37) 
+nan
+
+>  <prodrug>  (37) 
+-1
+
+>  <structure_type>  (37) 
+MOL
+
+>  <therapeutic_flag>  (37) 
+False
+
+>  <topical>  (37) 
+False
+
+>  <usan_stem>  (37) 
+nan
+
+>  <usan_stem_definition>  (37) 
+nan
+
+>  <usan_substem>  (37) 
+nan
+
+>  <usan_year>  (37) 
+nan
+
+>  <withdrawn_flag>  (37) 
+False
+
+>  <smiles>  (37) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCC(O)CNCc3ccc(Oc4nnnn4-c4ccccc4)c(OC)c3)cc12
+
+>  <cluster>  (37) 
+3
+
+$$$$
+CHEMBL3956740
+     RDKit          2D
+
+ 49 54  0  0  0  0  0  0  0  0999 V2000
+   -4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9520   -4.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7548   -2.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2135   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135   -2.7256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6401   -3.1891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8373   -5.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491   -7.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -7.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6904   -6.5871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3786   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    3.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    6.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500    9.0933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   11.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5000   15.5885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8817   14.3749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3083   14.8385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3083   16.3385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8817   16.8020    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4182   18.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4218   19.3433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9583   20.7699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4911   21.0817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4874   19.9670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9509   18.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   14.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   15.5885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0000   15.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000   12.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  9 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  2  0
+ 29 30  1  0
+ 30 31  2  0
+ 31 32  1  0
+ 32 33  1  0
+ 33 34  2  0
+ 34 35  1  0
+ 35 36  2  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 39  2  0
+ 39 40  1  0
+ 40 41  2  0
+ 41 42  1  0
+ 42 43  2  0
+ 31 44  1  0
+ 44 45  1  0
+ 45 46  1  0
+ 44 47  2  0
+ 20 48  1  0
+ 48 49  2  0
+ 49  6  1  0
+ 16 11  1  0
+ 49 17  1  0
+ 47 28  1  0
+ 37 33  1  0
+ 43 38  1  0
+M  END
+>  <Unnamed: 0>  (38) 
+90
+
+>  <atc_classifications>  (38) 
+[]
+
+>  <availability_type>  (38) 
+-1
+
+>  <biotherapeutic>  (38) 
+nan
+
+>  <black_box_warning>  (38) 
+0
+
+>  <chebi_par_id>  (38) 
+nan
+
+>  <chemical_probe>  (38) 
+0
+
+>  <chirality>  (38) 
+-1
+
+>  <cross_references>  (38) 
+[]
+
+>  <dosed_ingredient>  (38) 
+False
+
+>  <first_approval>  (38) 
+nan
+
+>  <first_in_class>  (38) 
+-1
+
+>  <helm_notation>  (38) 
+nan
+
+>  <indication_class>  (38) 
+nan
+
+>  <inorganic_flag>  (38) 
+-1
+
+>  <max_phase>  (38) 
+nan
+
+>  <molecule_hierarchy>  (38) 
+{'active_chembl_id': 'CHEMBL3956740', 'molecule_chembl_id': 'CHEMBL3956740', 'parent_chembl_id': 'CHEMBL3956740'}
+
+>  <molecule_properties>  (38) 
+{'alogp': '6.90', 'aromatic_rings': 6, 'cx_logd': '5.51', 'cx_logp': '7.42', 'cx_most_apka': None, 'cx_most_bpka': '9.33', 'full_molformula': 'C38H40N6O5', 'full_mwt': '660.77', 'hba': 11, 'hba_lipinski': 11, 'hbd': 1, 'hbd_lipinski': 1, 'heavy_atoms': 49, 'molecular_species': 'BASE', 'mw_freebase': '660.77', 'mw_monoisotopic': '660.3060', 'np_likeness_score': '-1.32', 'num_lipinski_ro5_violations': 3, 'num_ro5_violations': 3, 'psa': '114.55', 'qed_weighted': '0.09', 'ro3_pass': 'N', 'rtb': 16}
+
+>  <molecule_synonyms>  (38) 
+[]
+
+>  <molecule_type>  (38) 
+Small molecule
+
+>  <natural_product>  (38) 
+0
+
+>  <oral>  (38) 
+False
+
+>  <parenteral>  (38) 
+False
+
+>  <polymer_flag>  (38) 
+0
+
+>  <pref_name>  (38) 
+nan
+
+>  <prodrug>  (38) 
+-1
+
+>  <structure_type>  (38) 
+MOL
+
+>  <therapeutic_flag>  (38) 
+False
+
+>  <topical>  (38) 
+False
+
+>  <usan_stem>  (38) 
+nan
+
+>  <usan_stem_definition>  (38) 
+nan
+
+>  <usan_substem>  (38) 
+nan
+
+>  <usan_year>  (38) 
+nan
+
+>  <withdrawn_flag>  (38) 
+False
+
+>  <smiles>  (38) 
+CCOC(=O)c1c(C)n(Cc2ccccc2)c2ccc(OCCCCNCc3ccc(Oc4nnnn4-c4ccccc4)c(OC)c3)cc12
+
+>  <cluster>  (38) 
+3
+
+$$$$
