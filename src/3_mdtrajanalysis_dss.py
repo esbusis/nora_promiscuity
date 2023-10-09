@@ -3,19 +3,19 @@ import os
 import tqdm
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
-
 import numpy as np
 
 # Get a list of all .pdb files with their full path in the directory 2021_09_21_charmmGUI_norA_splitPDB
-pdb_list = glob.glob('2021_09_21_charmmGUI_norA_splitPDB/*.pdb')
+pdb_list = glob.glob('../data/2021_09_21_charmmGUI_norA_splitPDB/*.pdb')
 
-out_folder = '2021_09_21_charmmGUI_norA_splitPDB_dss'
+out_folder = '../data/2021_09_21_charmmGUI_norA_splitPDB_dss'
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(out_folder):
     os.makedirs(out_folder)
 
-# For each .pdb file in the list, call /mnt/d/software/dogsitescorer-2.0.0/dogsite 
+# For each .pdb file in the list, call /mnt/d/software/dogsitescorer-2.0.0/dogsite
+# You will need to modify this path below to point to the path of dogsite executable on your device. 
 def get_pockets_singlecore(pdb_list_chunk):
 
     for i in tqdm.tqdm(range(0,len(pdb_list_chunk))):
@@ -43,7 +43,7 @@ txt_list_pdbs = [x.replace('_desc.txt', '') for x in txt_list]
 # Get a list of pdb files whose filename (without any path info) + "*_desc.txt" are not found in any of the strings in txt_list
 pdb_list_names = [x for x in pdb_list2 if x not in txt_list_pdbs]
 
-pdb_list = [os.path.join('2021_09_21_charmmGUI_norA_splitPDB', x) for x in pdb_list_names]
+pdb_list = [os.path.join('../data/2021_09_21_charmmGUI_norA_splitPDB', x) for x in pdb_list_names]
 
 #print(pdb_list[0])
 #raise SystemExit(0)
