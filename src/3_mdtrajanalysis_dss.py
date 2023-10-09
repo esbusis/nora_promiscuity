@@ -9,7 +9,8 @@ import numpy as np
 # Get a list of all .pdb files with their full path in the directory 2021_09_21_charmmGUI_norA_splitPDB
 pdb_list = glob.glob('2021_09_21_charmmGUI_norA_splitPDB/*.pdb')
 
-out_folder = '2021_09_21_charmmGUI_norA_splitPDB_dss'
+# You may wish to create the following folder prior to running this script.
+out_folder = '../data/2021_09_21_charmmGUI_norA_splitPDB_dss'
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(out_folder):
